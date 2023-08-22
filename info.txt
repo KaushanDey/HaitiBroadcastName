@@ -1,0 +1,4 @@
+MongoDB:
+Name: HaitiBroadcastAPI
+Username: kaushandey23
+Password: 9A0wHScO7JfoXbD8

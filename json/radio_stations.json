@@ -1,0 +1,263 @@
+[
+    {
+      "radio_name": "La Brise FM",
+      "radio_station": "104.9",
+      "location": "(Camp-Perrin, Sud)",
+      "category": "Généraliste / News / Culture / Kompa",
+      "web": "http://www.labrisefm.com/",
+      "stream": "http://cast5.my-control-panel.com:7242",
+      "info": "La Brise FM |104.9 est une station de radio haïtienne émettant depuis Camp-Perrin qui émet sur la quasi-totalité de la péninsule Sud d'Haïti. Elle propose une programmation en continu, 24 heures sur 24 et 7 jours sur 7. Retrouvez des émissions de société, de sciences, civiques, des anecdotes et de la bonne humeur! La Brise, La radio bien pensée!",
+      "slogan": "La radio bien pensée!",
+      "logo_url": "https://haitibroadcast.com/radios_logos/La_Brise_FM.jpg"
+    },
+    {
+      "radio_name": "Radio Macaya",
+      "radio_station": "102.5 FM",
+      "location": "(Cayes, Sud)",
+      "category": "Généraliste / News / Culture / Kompa",
+      "web": "http://www.macayahaiti.com/",
+      "stream": "http://stream.zeno.fm/e7s1qpe5d4duv",
+      "info": "une station de radio-télévision basée en plein coeur de la ville des Cayes qui fait le pont entre le Sud d'Haiti et le reste du monde!",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Macaya.png"
+    },
+    {
+      "radio_name": "Radio Platinum",
+      "radio_station": "88.9 FM",
+      "location": "(Camp-Perrin, Sud)",
+      "category": "Généraliste / News / Culture / Kompa",
+      "web": "https://www.radioplatinumlive.com/",
+      "stream": "https://stream.zeno.fm/ymxnv93404zuv",
+      "slogan": "Une autre expérience!",
+      "info": "Radio Platinum est une station de radio privée qui a vu dans le but de promouvoir la musique haïtienne et de satisfaire particulièrement les mélomanes les plus branchés.",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Platinum.jpg"
+    },
+    {
+      "radio_name": "Radio Vision 2000",
+      "radio_station": "101.7 FM",
+      "location": "(Cayes, Sud)",
+      "category": "Généraliste / News / Culture / Kompa",
+      "web": "https://radiotelevision2000.com/",
+      "stream": "https://stream.zeno.fm/51rd9snrxd0uv",
+      "info": "Radio Vision 2000 | 101.7FM - Écoutez Radio Vision 2000 en direct d'Haïti pour les meilleurs débats sportifs et actualités nationales.",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Vision_2000.jpg"
+    },
+    {
+      "radio_name": "Radio Lumière",
+      "radio_station": "107.9",
+      "location": "(Cayes, Sud)",
+      "web": "http://www.radiolumiere.org/",
+      "stream": "http://stream.zenolive.com/yw0309xbgseuv",
+      "info": "Radio Lumière est une œuvre de la mission Évangélique Baptiste du Sud d'Haïti (MEBSH) Elle est connue comme la voix de la communauté évangélique d'Haïti et la voix des sans voix.",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Lumiere_Haiti.jpg"
+    },
+    {
+      "radio_name": "Radio Experience",
+      "radio_station": "101.1 FM",
+      "location": "(Cayes, Sud)",
+      "category": "Généraliste / News / Culture / Kompa",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "http://stream.zenolive.com/gxzp2z3nm9duv",
+      "info": "Radio Experience est une radio basée aux Cayes qui propose des émissions de divertissement, de loisirs, culturelles, sportives, sociales mais aussi de la musique!",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Experience.jpg"
+    },
+    {
+      "radio_name": "Sud FM",
+      "radio_station": "98.9 FM",
+      "location": "(Cayes, Sud)",
+      "category": "Généraliste / News / Culture / Kompa",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "http://stream.zenolive.com/a1nukcz933duv",
+      "info": "Cayes, Sud FM est une radio basée aux Cayes qui propose tous les hits, tous les styles",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Sud_FM.jpg"
+    },
+    {
+      "radio_name": "Radio Vwa Peyizan Sid",
+      "radio_station": "94.1 FM",
+      "location": "(Cavaillon, Sud)",
+      "category": "Généraliste / News / Culture / Kompa",
+      "info": "Tout ce qui est musical et lié à l'ère de la musique classique est présenté par Radio Vwa Peyizan Sid VPS. Cette radio abrite tous les plus grands succès classiques de différents styles et genres de musique de cette époque.",
+      "stream": "https://stream.zeno.fm/1smb6703czzuv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_VPS.jpg"
+    },
+    {
+      "radio_name": "Radio Tele Nami",
+      "radio_station": "104.5 FM",
+      "location": "(Cayes, Sud)",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "http://stream.zeno.fm/amf1f26cd2zuv",
+      "info": "Nami FM est une station de radio basée aux Cayes qui propose des émissions de divertissement, de loisirs, culturelles et socio-politiques.",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Nami.png"
+    },
+    {
+      "radio_name": "Radio Hosanna",
+      "radio_station": "91.7 FM",
+      "location": "(Cayes, Sud)",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "http://stream.zenolive.com/63vqzmy1g9duv",
+      "info": "Radio Hosanna est une station de radio évangélique chrétienne basée dans la ville des Cayes qui propose des programmes religieux, et de la musique chrétienne",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Hosanna.jpg"
+    },
+    {
+      "radio_name": "Radio Television Hirondelle",
+      "radio_station": "107.9 FM",
+      "location": "(Cayes, Sud)",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "http://stream.zenolive.com/s3wdt380f9duv",
+      "info": "Notre fierté en plein ciel",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Television_Hirondelle.png"
+    },
+    {
+      "radio_name": "Radio Tele Caramel",
+      "radio_station": "106.5 FM",
+      "location": "(Cayes, Sud)",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "https://stream.zeno.fm/ss2c7589b4duv",
+      "slogan": "Une jeunesse, une ville, une radio! La Ville des Cayes",
+      "info": "RadioTélé 6 Univers un service de Radio-Télédiffusion Visuelle commerciale qui émet depuis Cayes, Sud, Haïti",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Caramel.jpg"
+    },
+    {
+      "radio_name": "Radio Télé 6 Univers",
+      "location": "(Cayes, Sud)",
+      "info": "RadioTélé 6 Univers un service de Radio-Télédiffusion Visuelle commerciale qui émet depuis Cayes, Sud, Haïti",
+      "web": "http://radiotele6univers.net/",
+      "stream": "https://stream.zeno.fm/99emkempubruv",
+      "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Univers.png"
+    },
+    {
+      "radio_name": "Radio Men Kontre",
+      "radio_station": "95.5 FM",
+      "location": "(Cayes, Sud)",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "https://stream.zeno.fm/qnra28bg6gruv",
+      "info": "La voix de l'Eglise Catholique dans le diocèse des Cayes",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Men_Kontre.jpg"
+    },
+    {
+      "radio_name": "Radio Le Bon FM",
+      "radio_station": "102.1 FM",
+      "location": "(Cayes, Sud)",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "https://stream.zeno.fm/yrrm7xcdgceuv",
+      "info": "Radio Le Bon FM - Live depuis Cayes, Sud, Haiti.",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Le_Bon_FM.jpg"
+    },
+    {
+      "radio_name": "Caribbean FM",
+      "radio_station": "99.1 FM",
+      "info": "La meilleure de la musique, les infos sur Caribbean FM, l'actualité de la station, ses émissions, ses animateurs. La Voix qui mene au Bonheur",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "https://stream.zeno.fm/mq5xkusvwrhvv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Caribbean_FM.png"
+    },
+    {
+      "radio_name": "Radio Planète",
+      "radio_station": "100.3 FM",
+      "web": "http://www.radioplanete.com/",
+      "stream": "http://tampa.audio-stream.com:8055/stream",
+      "info": "La Voix qui mene au Bonheur",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Planet_FM.png"
+    },
+    {
+      "radio_name": "Radio Pure FM",
+      "web": "http://www.haitibroadcast.com",
+      "info": "Radio Pure FM est une station de radio en ligne proposant de la musique, des actualités, des talk-shows et des concerts mettant l'accent sur la culture haïtienne",
+      "stream": "https://stream.zeno.fm/z5bb4sqh7zquv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Pure_FM.png"
+    },
+    {
+      "radio_name": "Radio Saveur du Sel",
+      "radio_station": "95.1 FM",
+      "web": "http://www.haitibroadcast.com",
+      "info": "Radio Saveur du Sel une station de radio chrétienne basé aux Cayes desservant la communauté des Cayes.",
+      "stream": "https://stream.zeno.fm/2yef25x25bhvv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Saveur_du_Sel.png"
+    },
+    {
+      "radio_name": "Gros Marin FM",
+      "location": "(Gros Marin, Sud)",
+      "category": "Rap Kreyol / Hip-Hop / Kompa",
+      "info": "Gros Marin FM se yon radyo ki sitiyel nan 3em seksyon Komin Kavayon. Radyo a disponible sou entenet ak FM",
+      "stream": "https://stream.zeno.fm/vzv7sbpswmzuv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Gros_Marin_FM.png"
+    },
+    {
+      "radio_name": "Radio Deca",
+      "radio_station": "102.3 FM",
+      "location": "(Aquin, Sud)",
+      "category": "Généraliste / Hip-Hop / Culture / Kompa",
+      "stream": "https://streamer.radio.co/s3760d4850/listen",
+      "info": "Radio Deca 102.3 FM, La plus radio du Sud d'Haiti",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Deca.jpg"
+    },
+    {
+      "radio_name": "Radio Thonick FM",
+      "radio_station": "99.3 FM",
+      "location": "(Cavaillon, Sud)",
+      "category": "Rap Kreyol / Hip-Hop / Kompa",
+      "stream": "https://stream.zeno.fm/xnt3wgqh3nhvv",
+      "info": "Thonick FM La Radio du moment",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Thonick_FM.jpg"
+    },
+    {
+      "radio_name": "Radio Bonne Fin FM",
+      "location": "(Bonne Fin, Sud)",
+      "category": "Rap Kreyol / Hip-Hop / Kompa",
+      "stream": "https://stream.zeno.fm/krsp3b44ekhvv",
+      "info": "Bonne fin FM est une station de radio d'Haïti proposant une grande variété de musique",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Bonne_Fin_FM.png"
+    },
+    {
+      "radio_name": "Radio Le Vieux-Chardo",
+      "radio_station": "103.7 FM",
+      "location": "(Chardonnière, Sud)",
+      "category": "Rap Kreyol / Disco / R&B / Hip-Hop / Kompa",
+      "stream": "https://stream-60.zeno.fm/unqh5namnm0uv",
+      "info": "Radio Le Vieux-Chardo FM, le pont entre la Côte Sud d’Haïti et le reste du monde",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Le_Vieux_Chardo.png"
+    },
+    {
+      "radio_name": "Radio O Inter 95.1 FM",
+      "radio_station": "95.1 FM",
+      "location": "(Ti Delmas, Sud)",
+      "category": "Gospel / Disco / Chansons Francaises / Hip-Hop / Kompa",
+      "stream": "https://stream.zeno.fm/frssuzmy0a0uv",
+      "info": "Radio O Inter est une radio à tendance évangélique mais sa programmation sera à tout moment la vie. Nous diffuserons des programmes évangéliques, sociaux, environnementaux, politiques, philosophiques, sentimentaux.",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_O_Inter.jpg"
+    },
+    {
+      "radio_name": "RFH Haiti",
+      "radio_station": "91.5 FM",
+      "location": "(Ti Delmas, Sud)",
+      "category": "Gospel / Christian / Evangélisation",
+      "stream": "https://stream.zeno.fm/2xwwbwp4f3quv",
+      "info": "Radio Maison du Père. Cette Radio s'appelle : Father's House Radio (RFH), issue du nom de l'orphelinat : My Father's House Haiti Orphanage",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_RFM.jpg"
+    },
+    {
+      "radio_name": "Info Compas Live Radio",
+      "location": "(Ti Delmas, Sud)",
+      "category": "Rap Kreyol / Disco / R&B / Hip-Hop / Kompa",
+      "stream": "https://stream.zeno.fm/3k1xf5bswmzuv",
+      "info": "Nous promouvons les musiques, les arts, les cultures caribéennes. Nous avons la télévision et la radio en direct... Infocompas est le pont des musiques des Caraïbes.",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Info_Kompa.png"
+    },
+    {
+      "radio_name": "TMS FM",
+      "radio_station": "97.9 FM",
+      "location": "(Cayes, Sud)",
+      "category": "Rap Kreyol / Disco / News  / Hip-Hop / Kompa",
+      "stream": "https://stream.zeno.fm/vuxwxyqz908uv",
+      "info": "TMS est une station de radio des Cayes offrant une grande variété de musique",
+      "logo_url": "https://haitibroadcast.com/radios_logos/TMS_Plus.jpg"
+    },
+    {
+      "radio_name": "RMG FM",
+      "radio_station": "99.5 FM",
+      "location": "(Cayes, Sud)",
+      "category": "Rap Kreyol / Disco / News  / Hip-Hop / Kompa",
+      "stream": "https://streamingsonicpro.com:7019/stream",
+      "info": "syntonisez les meilleures stations de radio Internet en direct et ressentez nos vibrations",
+      "logo_url": "https://haitibroadcast.com/radios_logos/RMG_FM.png"
+    }
+  ]

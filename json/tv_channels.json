@@ -1,0 +1,358 @@
+[
+    {
+        "name": "Radio Tele La Brise",
+        "channel": "Canal 28",
+        "info": "Slogan: La tele bien pensée!\nWebsite: www.telelabrise.com\nInfo: Radio Télé La Brise est une station de télévision haïtienne éducative, culturelle, sportive et musicale basée à Camp-Perrin, en Haïti.",
+        "stream": "http://lakay.online/hs/telelabrise/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_La_Brise.jpg"
+    },
+    {
+        "name": "Tele Pacific",
+        "channel": "Canal 52",
+        "info": "Info: Radio Tele Pacific, Votre chaine d'information nationale et internationale 24h/24h",
+        "stream": "https://watch.haitilive.net/freehb/pacific/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Pacific.jpg"
+    },
+    {
+        "name": "Tele Eclair",
+        "channel": "Canal 4",
+        "info": "Info: Tele Eclair est station avec une programmation variée musicaux et notamment des créations musicales locales et nationales.",
+        "stream": "https://watch.haitilive.net/gethb/eclair/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Eclair.jpg"
+    },
+    {
+        "name": "Tele Hirondelle",
+        "channel": "Canal 16",
+        "info": "Info: Chaine 16, Radio Television Hirondelle, la nouvelle couleur de la ville des Cayes, Haiti",
+        "stream": "http://lakay.online/hs/telehirondelle/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Hirondelle.png"
+    },
+    {
+        "name": "Tele Yaguana",
+        "channel": "Canal 7",
+        "info": "Info: Yaguana, Le phare de la region des Palmes!",
+        "stream": "http://lakay.online/hs/teleyaguana/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Yaguana.jpg"
+    },
+    {
+        "name": "Tele Caramel",
+        "channel": "Canal 4",
+        "info": "Info: Tele Caramel est une station de televison de la ville des Cayes.",
+        "stream": "http://lakay.online/hs/telecaramel/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Caramel.jpg"
+    },
+    {
+        "name": "Tele Variete",
+        "channel": "TVA30",
+        "info": "Info: La TVA 30 (Tele Variete Canal 30) est un media generaliste oeuvrant dans le secteur audiovisuel haitien. Tele Jenes la sou Canal-30 Ayiti!",
+        "stream": "http://lakay.online/hs/tva30/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Variete.jpg"
+    },
+    {
+        "name": "Television SHILO",
+        "channel": "Petion-Ville",
+        "info": "Info: Votre Station d'Inspiration de l'Evangile. Sports, music, news, audiobooks, and podcasts",
+        "stream": "https://watch.haitilive.net/freehb/rtvs/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Television_Shilo.jpg"
+    },
+    {
+        "name": "Ivoire Channel",
+        "channel": "TV",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/iVoire_Channel.png"
+    },
+    {
+        "name": "Tele Univers",
+        "channel": "Canal 6",
+        "info": "Info: Tele 6 Univers un service de Radio-Telediffusion Visuelle commerciale qui emet depuis Cayes, Sud, Haiti.",
+        "stream": "http://lakay.online/hs/tele6univers/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Univers.png"
+    },
+    {
+        "name": "Tele Cayes Inter",
+        "channel": "Web TV, Cayes, Sud",
+        "info": "Info: Toutes les nouvelles du Sud d'Haiti et d'ailleurs",
+        "stream": "http://lakay.online/hs/telecayesinter/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Cayes Inter.jpg"
+    },
+    {
+        "name": "Haiti News TV",
+        "channel": "News",
+        "info": "Info: Une chaine de television de nouvelles d'Haiti",
+        "stream": "https://haititivi.com/website/haitinews/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Haiti_News_TV.png"
+    },
+    {
+        "name": "Tele SNL",
+        "channel": "Haiti",
+        "info": "Info: Une chaine de television generaliste et musicale d'Haiti",
+        "stream": "https://watch.haitilive.net/gethb/tvs/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_SNL.jpg"
+    },
+    {
+        "name": "Tele DAJA",
+        "info": "Info: Une chaine generaliste de la republique dominicaine",
+        "stream": "https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/TV_Daja.jpg"
+    },
+    {
+        "name": "TeleMax TV",
+        "info": "Info: Une chaine generaliste de la republique dominicaine",
+        "stream": "https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Telemax.jpg"
+    },
+    {
+        "name": "Radio Télé Stanne Charitab",
+        "info": "Info: Une chaine generaliste",
+        "stream": "https://59d39900ebfb8.streamlock.net/radiotelestannecharitab/radiotelestannecharitab/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Stanne_Charitab.jpg"
+    },
+    {
+        "name": "Tele Planet Kompa",
+        "channel": "Boston",
+        "info": "Info: Une chaine generaliste",
+        "stream": "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Radio_Planet_Kompa.jpg"
+    },
+    {
+        "name": "France 24",
+        "channel": "News TV",
+        "info": "Info: Une chaine de television de nouvelles",
+        "stream": "http://81.94.196.204/tsstreamer/France24_HD.ts",
+        "logo_url": "https://haitibroadcast.com/tv_logos/France_24.png"
+    },
+    {
+        "name": "TV PA NOU",
+        "channel": "Canal 15",
+        "info": "Info: Une chaine de television haitienne generaliste",
+        "stream": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Pa_Nou.jpg"
+    },
+    {
+        "name": "Tele PAM",
+        "channel": "TP-TV",
+        "info": "Info: Une chaine de television haitienne generaliste",
+        "stream": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_PAM.png"
+    },
+    {
+        "name": "Kajou TV",
+        "channel": "Haiti",
+        "info": "Info: Une chaine de television haitienne generaliste",
+        "stream": "https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Kajou_TV.png"
+    },
+    {
+        "name": "Dega TV",
+        "channel": "Haiti",
+        "info": "Info: Une chaine de television haitienne generaliste",
+        "stream": "https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Dega_TV.jpg"
+    },
+    {
+        "name": "Generation TV",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Generation_TV.jpg"
+    },
+    {
+        "name": "Ma Tele TV",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://live.matele.be/hls/live.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Ma_Tele_TV.png"
+    },
+    {
+        "name": "Rouge.TV",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Rouge.TV.jpg"
+    },
+    {
+        "name": "TV RM",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://59d39900ebfb8.streamlock.net/radiotelestannecharitab/radiotelestannecharitab/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/TV_RM.jpg"
+    },
+    {
+        "name": "NAGO TV",
+        "channel": "Cayes, Sud",
+        "info": "Info: Nago TV, le meilleur choix pour les clips audio-video Haitiens et internationaux!",
+        "stream": "http://lakay.online/hs/nagotv/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Nago_TV.jpg"
+    },
+    {
+        "name": "TMA",
+        "channel": "Caraibes",
+        "info": "Info: La television Musicale Antillaise",
+        "stream": "http://hls.tmacaraibes.com/live/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/TMA_TV.jpg"
+    },
+    {
+        "name": "TV Afro Beats",
+        "info": "Info: Une chaine de television sur la production de la musicale des noirs",
+        "stream": "https://stream.ecable.tv/afrobeats/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/TV_Afro_Beats.jpg"
+    },
+    {
+        "name": "Adinkra TV",
+        "info": "Info: Adinkra TV NY est une chaîne de télévision ghanéenne basée dans le Bronx à New York au service des Ghanéens et des communautés africaines avec dignité.",
+        "stream": "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Adinkra _TV.jpg"
+    },
+    {
+        "name": "La Metro TV",
+        "info": "Info: Une chaine de television generaliste lationo-americaine",
+        "stream": "https://emisoras.hn:8081/metrotv/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/La_Metro_TV.jpg"
+    },
+    {
+        "name": "Radio Tele Hits",
+        "info": "Info: La tele des hits!",
+        "stream": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Radio_Tele_Hits.jpg"
+    },
+    {
+        "name": "Beno TV",
+        "channel": "Cayes, Sud",
+        "info": "Info: Une chaine de television musicale & generaliste",
+        "stream": "http://lakay.online/hs/benotv/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Beno_TV.png"
+    },
+    {
+        "name": "B-Black TV",
+        "channel": "Caribbean",
+        "info": "Info: Une chaine de television musicale des noirs de la Caraibe",
+        "stream": "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/B-Black_TV_Caribbean.png"
+    },
+    {
+        "name": "B-Black TV",
+        "channel": "Africa",
+        "info": "Info: Une chaine de television musicale des noirs africains",
+        "stream": "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/B-Black_TV_Africa.png"
+    },
+    {
+        "name": "B-Black TV",
+        "channel": "Classik",
+        "info": "Info: Une chaine de television musicale classique afro-americaine",
+        "stream": "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/B-Black_TV_Classik.png"
+    },
+    {
+        "name": "Sky-TV Network",
+        "channel": "Canal 32 , St-Marc",
+        "info": "Info: Canal 32 depuis St-Marc",
+        "stream": "https://watch.haitilive.net/freehd/skytv/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Sky_TV.jpg"
+    },
+    {
+        "name": "RTP",
+        "channel": "Radio Tele Prince",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://59d39900ebfb8.streamlock.net/radioteleprince/radioteleprince/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Radio_Tele_Prince.jpg"
+    },
+    {
+        "name": "Radio Télé Wisdom",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Radio_Tele_Wisdom.jpg"
+    },
+    {
+        "name": "TV Net Al Kole",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://watch.haitilive.net/naktvhd/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/TV_Net_AlKole.jpg"
+    },
+    {
+        "name": "Tele Culturelle",
+        "info": "Info: Une chaine de television generaliste culturelle",
+        "stream": "https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bece7b557e/index.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Culturelle.png"
+    },
+    {
+        "name": "Fidele TV",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Fidele_TV.png"
+    },
+    {
+        "name": "Le Club TV",
+        "channel": "Le Figaro",
+        "info": "Info: Une chaine de television generaliste",
+        "stream": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Le_Club_TV_Le_Figaro.png"
+    },
+    {
+        "name": "Tele Louange",
+        "channel": "Gospel",
+        "info": "Info: Une chaine de television religieuse",
+        "stream": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Louange.png"
+    },
+    {
+        "name": "4VEH-TV",
+        "channel": "Canal 11",
+        "info": "Info: La voie Evangelique d'Haiti!",
+        "stream": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/4VEH_TV.png"
+    },
+    {
+        "name": "Tele Famille",
+        "channel": "Gospel",
+        "info": "Info: Une chaine de television religieuse",
+        "stream": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Famille.jpg"
+    },
+    {
+        "name": "KTO Direct",
+        "channel": "Catholique",
+        "info": "Info: Une chaine de television catholique",
+        "stream": "http://kto-strapi.orange.cdn.orangeportails.net:80/kto-stream/kto-direct/manifest.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/KTO_Direct.png"
+    },
+    {
+        "name": "Tele Pitit Manman Mari",
+        "channel": "Gospel",
+        "info": "Une chaine de television religieuse catholique",
+        "stream": "https://ythls.onrender.com/channel/UCLeNHM8XDkZmd2rhV3ZG7Vg.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Pitit_Manman_Mari.jpg"
+    },
+    {
+        "name": "Tele Boston",
+        "channel": "Gospel",
+        "info": "Une chaine de television religieuse",
+        "stream": "http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Boston.png"
+    },
+    {
+        "name": "Tele 3ABN",
+        "channel": "Gospel",
+        "info": "Une chaine de television religieuse",
+        "stream": "https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_3ABN.png"
+    },
+    {
+        "name": "Tele Soleil",
+        "channel": "Catholic",
+        "info": "Une chaine de television religieuse catholique",
+        "stream": "http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Soleil.jpg"
+    },
+    {
+        "name": "EWTN TV",
+        "channel": "Catholic TV",
+        "info": "Une chaine de television religieuse catholique. Faith is a precious gift from God. EWTN has an important role in educating others about our Catholic faith and spreading the good news of salvation",
+        "stream": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/EWTN_TV.jpg"
+    },
+    {
+        "name": "Miracle TV+",
+        "channel": "Religious",
+        "info": "Une chaine de television religieuse",
+        "stream": "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8",
+        "logo_url": "https://haitibroadcast.com/tv_logos/Miracle_TV+.png"
+    }
+]
