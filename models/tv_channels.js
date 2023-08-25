@@ -10,6 +10,16 @@ const tvChannelSchema = new mongoose.Schema({
         required: false,
         default: ""
     },
+    location: {
+        type: String,
+        required: false,
+        default: ""
+    },
+    category: {
+        type: String,
+        required: false,
+        default: ""
+    },
     info: {
         type: String,
         required: false,
