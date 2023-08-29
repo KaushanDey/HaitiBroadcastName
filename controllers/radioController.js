@@ -119,11 +119,11 @@ export const getAllRadioLocation = async (req, res, next) => {
         if (allLocations[location[1]]) {
             arr = allLocations[location[1]];
         }
-        
+        if(arr.includes(location[0])) continue;
         arr.push(location[0]);
         allLocations[location[1]] = arr;
     }
-
+    
     if (!allLocations) {
         return res.status(404).json({ message: "Data not found!!" });
     }
