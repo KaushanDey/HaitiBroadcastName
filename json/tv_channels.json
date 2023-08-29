@@ -72,7 +72,7 @@
     {
         "name": "Tele Cayes Inter",
         "channel": "Web TV",
-        "location": "Cayes, Sud",
+        "location": "Cayes",
         "info": "Info: Toutes les nouvelles du Sud d'Haiti et d'ailleurs",
         "stream": "http://lakay.online/hs/telecayesinter/index.m3u8",
         "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Cayes Inter.jpg"
