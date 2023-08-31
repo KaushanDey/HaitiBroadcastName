@@ -259,5 +259,180 @@
       "stream": "https://streamingsonicpro.com:7019/stream",
       "info": "syntonisez les meilleures stations de radio Internet en direct et ressentez nos vibrations",
       "logo_url": "https://haitibroadcast.com/radios_logos/RMG_FM.png"
+    },
+    {
+      "radio_name": "Radio Vision 2000",
+      "radio_station": "90.9 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Généraliste / News / Culture / Kompa",
+      "info": "Radio Vision 2000 Sud Est est une station de radio diffusée à partir d'Haïti, proposant des programmes spirituels le matin, des informations et des sports.",
+      "stream": "https://stream.zeno.fm/xmyroy1iu80uv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Vision_2000.jpg"
+    },
+    {
+      "radio_name": "Radio Tele Cross",
+      "radio_station": "97.3 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / News / Culture / Kompa",
+      "info": "Radio Tele Cross 97.3 FM est une station de radio de Jacmel, Haïti, qui fournit Culture et Divertissement.",
+      "stream": "https://stream.zeno.fm/01ee8sk7fseuv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Cross.png"
+    },
+    {
+      "radio_name": "Radio Eneci FM",
+      "radio_station": "97.1 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / News / Culture / Kompa",
+      "info": "Radio Eneci FM 97.1 Peredo, Jacmel, Sud'est Haïti. La radio de l'information et de la culture Haïtienne.",
+      "stream": "https://stream.zeno.fm/a2udxhbg27zuv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Eneci_FM.png"
+    },
+    {
+      "radio_name": "Radyo Pwogresis Entenasyonal",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / News / Culture / Kompa",
+      "info": "Radyo Pwogresis Entenasyonal Radyo Pwogresis Entenasyonal, ap emet 24/24, depi, Jakmel.",
+      "stream": "https://stream.zeno.fm/1w45mgpec78uv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radyo_Pwogresis_Entenasyonal.png"
+    },
+    {
+      "radio_name": "Splash FM Haiti",
+      "radio_station": "105.5 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / News / Culture / Kompa",
+      "info": "Média communautaire interactif, jeune, dynamique, créatif... à la pointe de la technologie. Sa vision participe de l'impérieuse nécessité d'oeuvrer pour le développement durable.",
+      "stream": "https://stream.zeno.fm/pz6nurvypg0uv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Splash_FM_Haiti.png"
+    },
+    {
+      "radio_name": "Perfection FM",
+      "radio_station": "95.1 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / News / Culture / Kompa",
+      "info": "Perfection FM, la Radio qui vous suit partout!",
+      "stream": "https://stream.zeno.fm/saxympe5ed0uv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Perfection_FM.png"
+    },
+    {
+      "radio_name": "Radio Compact FM",
+      "radio_station": "101.1 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / News / Culture / Kompa",
+      "info": "Former, informer et distraire tel est notre objectif.",
+      "stream": "https://stream.zeno.fm/yhw164cgfuhvv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Compact_FM.png"
+    },
+    {
+      "radio_name": "Radio Yakimel",
+      "radio_station": "92.3 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / R&B / Rap Kreyol / Kompa",
+      "info": "La référence en matière de station de radio de la diaspora haïtienne! Yakimel FM une autre façon de faire la radio sur le net.",
+      "stream": "https://stream.zeno.fm/wk0z2nsm2qzuv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Yakimel.png"
+    },
+    {
+      "radio_name": "Radio Hispaniola",
+      "radio_station": "102.9 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / R&B / Rap Kreyol / Kompa",
+      "stream": "https://stream.zeno.fm/tgoafxny0ozvv",
+      "info": "La Radio Hispaniola est une station de radio diffusion sonore à vocation commerciale, éducative et culturelle, diffusant ses émissions en langues créole et française.",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Hispaniola.png"
+    },
+    {
+      "radio_name": "Radio DC FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / R&B / Rap Kreyol / Kompa",
+      "info": "Basé aux Etats-unis, nous décortiquons les informations sur Haiti pour vous, en temps réel.",
+      "stream": "https://stream.zeno.fm/s6kvw1yil3uuv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_DC_FM.jpg"
+    },
+    {
+      "radio_name": "Radio Rendez-vous",
+      "radio_station": "100.9 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Généraliste / News / Culture / Kompa",
+      "info": "Votre seule choix sur la bande FM Emmetant sur la Fréquence porte Bonheur 100.9 dans la Fière Cité d'Alcibiade de Pomeyrac, Jacmel Haïti ayant qu'une seule vision promouvoir la culture Haïtienne a travers le monde.",
+      "stream": "https://stream.zeno.fm/1rtzcarswmzuv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Rendez-vous_FM.png"
+    },
+    {
+      "radio_name": "J.J Marketing Live",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / R&B / Rap Kreyol / Kompa",
+      "info": "Faire la promotion de la culture Haitienne",
+      "stream": "https://stream.zeno.fm/x0dw815g8s8uv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/J.J_Marketing_Live.png"
+    },
+    {
+      "radio_name": "RVI FM",
+      "radio_station": "94.7 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / R&B / Rap Kreyol / Kompa",
+      "info": "Institution commerciale privée fondée le 5 Décembre 2003 dans le but de promouvoir la culture Haïtienne et travaillée pour l'élaboration d'une autre Haiti.",
+      "stream": "https://stream.zeno.fm/70mgu8x9y5quv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/RVI_FM.png"
+    },
+    {
+      "radio_name": "Radio Bambou Inter",
+      "radio_station": "97.7 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / R&B / Rap Kreyol / Kompa",
+      "info": "Radio Bambou Inter est une station de radio de Jacmel qui propose de la musique caribéenne, et des programmes sur les arts, la culture, les sports et les actualités.",
+      "stream": "https://stream.zeno.fm/fh97m09hvg0uv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Bambou_Inter.png"
+    },
+    {
+      "radio_name": "Radio Original FM",
+      "radio_station": "99.5 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / R&B / Rap Kreyol / Kompa",
+      "info": "Radio Original FM 99.5 Jacmel est une station de radio diffusée à partir de Jacmel, en Haïti, qui propose Culture et Divertissement.",
+      "stream": "https://stream.zeno.fm/j8zvudktonnvv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Original_FM.jpg"
+    },
+    {
+      "radio_name": "Radio Jakdesa FM",
+      "radio_station": "105.1 FM",
+      "location": "Jacmel, Sud-Est",
+      "category": "Hip-Hop / News / Culture / Kompa",
+      "info": "JAkdesa Fm, Jakdesa école Professionelle.",
+      "stream": "https://radio.nissireseaux.com/proxy/radiojakdesa/stream",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Jakdesa_FM.png"
+    },
+    {
+      "radio_name": "Radio Mille Colombes",
+      "location": "Jacmel, Sud-Est",
+      "category": "Soft Rock / Classic / Culture / Kompa",
+      "info": "Radio Mille Colombes (RMC) est une radio en ligne depuis Jacmel agissant comme un tonique global pour une bonne santé et le bien-être du corps, les rêves deviennent positifs et rassurants et est l'élément de l'espérance et de la foi dans les moments difficiles de la vie.",
+      "stream": "https://stream-69.zeno.fm/ehae9cdd6nhvv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Mille_Colombes.png"
+    },
+    {
+      "radio_name": "Radio Haute Tension Internationale",
+      "radio_station": "98.7 FM",
+      "location": "Anse-à-Pitre, Sud-Est",
+      "category": "Généraliste / News / Culture / Kompa",
+      "info": "Radio Haute Tension Internationale. Nou limen sou 98.7 fm stereo, Lokal nou se nan komin Ansapit nan depatman sides peyi dayiti nan ri koma. (Fos nou ak pwisans nou san limit)",
+      "stream": "https://stream.zeno.fm/m03ztmaqq18uv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Haute_Tension_Internationale.png"
+    },
+    {
+      "radio_name": "Radio Télé Voix de la Frontière",
+      "radio_station": "104.7 FM",
+      "location": "Anse-à-Pitre, Sud-Est",
+      "category": "Hip-Hop / News / Zouk / Salsa / Kompa",
+      "info": "Radio Télé voix de la Frontière, Anse-à-Pitre Sud'est Haiti.",
+      "stream": "https://stream.zeno.fm/cresfzxb2eruv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Voix_de_la_Frontiere.png"
+    },
+    {
+      "radio_name": "Radio Trance FM",
+      "location": "Anse-à-Pitre, Sud-Est",
+      "category": "Généraliste / News / Culture / Kompa",
+      "info": "Radio Trance FM, le correcteur de la bande FM",
+      "stream": "https://stream.zeno.fm/r3c0cddxgm0uv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Trans_Artibonite.jpg"
     }
   ]
