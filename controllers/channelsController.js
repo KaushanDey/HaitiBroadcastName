@@ -1,6 +1,7 @@
 import mongoose from 'mongoose';
-import tvChannel from "../models/tv_channels.js"
-import { response } from 'express';
+import tvChannel from "../models/tv_channels.js";
+import userFav from "../models/user_favorites.js";
+
 
 export const getAllChannels = async (req, res, next) => {
 
@@ -149,50 +150,92 @@ export const getAllChannels = async (req, res, next) => {
 //     return res.status(200).json({reqChannels});
 // };
 
-export const getAllChannelsLocation = async (req,res,next)=>{
+export const getAllChannelsLocation = async (req, res, next) => {
 
     let channels;
-    try{
+    try {
         channels = await tvChannel.find()
 
-    }catch(err){
+    } catch (err) {
         console.log(err);
     }
     let arr = [];
-    for(let i=0;i<channels.length;i++) {
-        if(channels[i].location) arr.push(channels[i].location);
+    for (let i = 0; i < channels.length; i++) {
+        if (channels[i].location) arr.push(channels[i].location);
     }
     function removeDuplicates(arr) {
         return arr.filter((item,
             index) => arr.indexOf(item) === index);
     }
     const locations = removeDuplicates(arr);
-    if(!locations){
-        return res.status(404).json({message: "Data not found!!"});
+    if (!locations) {
+        return res.status(404).json({ message: "Data not found!!" });
     }
-    return res.status(200).json({locations});
+    return res.status(200).json({ locations });
 };
 
-export const getAllChannelsCategories = async (req,res,next)=>{
+export const getAllChannelsCategories = async (req, res, next) => {
 
     let channels;
-    try{
+    try {
         channels = await tvChannel.find()
 
-    }catch(err){
+    } catch (err) {
         console.log(err);
     }
     let arr = [];
-    for(let i=0;i<channels.length;i++) {
-        if(channels[i].category) arr.push(channels[i].category);
+    for (let i = 0; i < channels.length; i++) {
+        if (channels[i].category) arr.push(channels[i].category);
     }
     function removeDuplicates(arr) {
         return arr.filter((item,
             index) => arr.indexOf(item) === index);
     }
     const categories = removeDuplicates(arr);
-    if(!categories){
-        return res.status(404).json({message: "Data not found!!"});
+    if (!categories) {
+        return res.status(404).json({ message: "Data not found!!" });
     }
-    return res.status(200).json({categories});
+    return res.status(200).json({ categories });
+};
+
+export const postFavoriteChannels = async (req, res, next) => {
+
+    const { userID, channels } = req.body;
+
+    let existingUser;
+    try{
+        existingUser = await userFav.findOne({userID: userID});
+    }catch(err){
+        console.log(err);
+    }
+    if(!existingUser){
+        const user = new userFav({
+            userID,
+            channels,
+            stations: []
+        });
+        try{
+            await user.save();
+            console.log({user})
+        }catch(err){
+            console.log(err);
+            return res.status(500).json({message: "Failed!!"});
+        }
+        return res.status(200).json({message: "Success!!"});
+    }
+    for(let i=0;i<channels.length;i++){
+        existingUser.channels.push(channels[i]);
+    }
+    try{
+        const session = await mongoose.startSession();
+        session.startTransaction();
+        await existingUser.save({session});
+        session.commitTransaction();
+        console.log({existingUser});
+    }catch(err){
+        console.log(err);
+        return res.status(500).json({message: "Failed!!"});
+    }
+    return res.status(200).json({message: "Success!!"});
+
 };

@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 import radioStation from "../models/radio_stations.js";
+import userFav from "../models/user_favorites.js";
 
 export const getAllRadio = async (req, res, next) => {
 
@@ -116,6 +117,10 @@ export const getAllRadioLocation = async (req, res, next) => {
 
         let arr = [];
         if (!location[1]) continue;
+        if(!allLocations[location[1]]){
+            arr.push(location[1]);
+            allLocations[location[1]] = arr;
+        }
         if (allLocations[location[1]]) {
             arr = allLocations[location[1]];
         }
@@ -158,5 +163,51 @@ export const getAllRadioCategories = async (req,res,next)=>{
         return res.status(404).json({message: "Data not found!!"});
     }
     return res.status(200).json({categories});
+
+};
+
+export const postFavoriteStations = async (req, res, next) => {
+
+    const { userID, stations } = req.body;
+
+    let existingUser;
+    try{
+        existingUser = await userFav.findOneAndUpdate({userID: userID},{
+            stations
+        });
+    }catch(err){
+        console.log(err);
+    }
+    if(!existingUser){
+        const user = new userFav({
+            userID,
+            channels: [],
+            stations
+        });
+        try{
+            await user.save();
+            console.log({user})
+        }catch(err){
+            console.log(err);
+            return res.status(500).json({message: "Failed!!"});
+        }
+        return res.status(200).json({message: "Success!!"});
+    }
+    console.log({existingUser});
+    return res.status(200).json({message: "Success!!"});
+    // for(let i=0;i<stations.length;i++){
+    //     existingUser.stations.push(channels[i]);
+    // }
+    // try{
+    //     const session = await mongoose.startSession();
+    //     session.startTransaction();
+    //     await existingUser.save({session});
+    //     session.commitTransaction();
+    //     console.log({existingUser});
+    // }catch(err){
+    //     console.log(err);
+    //     return res.status(500).json({message: "Failed!!"});
+    // }
+    // return res.status(200).json({message: "Success!!"});
 
 };
