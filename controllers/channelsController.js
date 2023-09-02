@@ -3,31 +3,31 @@ import tvChannel from "../models/tv_channels.js";
 import userFav from "../models/user_favorites.js";
 
 
-export const getAllChannels = async (req, res, next) => {
+// export const getAllChannels = async (req, res, next) => {
 
-    let tvChannels;
-    try {
-        tvChannels = await tvChannel.find();
-    } catch (err) {
-        console.log(err);
-    }
-    if (!tvChannels) {
-        return res.status(404).json({ message: "No TV Channels found!!" });
-    } else {
-        return res.status(200).json({ tvChannels });
-    }
+//     let tvChannels;
+//     try {
+//         tvChannels = await tvChannel.find();
+//     } catch (err) {
+//         console.log(err);
+//     }
+//     if (!tvChannels) {
+//         return res.status(404).json({ message: "No TV Channels found!!" });
+//     } else {
+//         return res.status(200).json({ tvChannels });
+//     }
 
-};
+// };
 
 export const getChannelsByFilter = async (req,res,next) =>{
 
     var queryCategory = null;
-    if(req.query.category){
+    if(req.query.category!=[]){
         queryCategory = req.query.category;
     }
 
     var queryLocation=null;
-    if(req.query.location){
+    if(req.query.location!=[]){
         queryLocation = JSON.parse(req.query.location);
     }
 
@@ -84,7 +84,7 @@ export const getChannelsByFilter = async (req,res,next) =>{
     }
     if(!reqChannels){
 
-        return res.status(404).json({message: "Data not found!!"});
+        return res.status(404).json({ channels });
 
     }else{
 
