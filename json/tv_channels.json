@@ -177,7 +177,7 @@
     },
     {
         "name": "NAGO TV",
-        "location": "Cayes, Sud",
+        "location": "Cayes",
         "info": "Info: Nago TV, le meilleur choix pour les clips audio-video Haitiens et internationaux!",
         "stream": "http://lakay.online/hs/nagotv/index.m3u8",
         "logo_url": "https://haitibroadcast.com/tv_logos/Nago_TV.jpg"
@@ -215,7 +215,7 @@
     },
     {
         "name": "Beno TV",
-        "location": "Cayes, Sud",
+        "location": "Cayes",
         "info": "Info: Une chaine de television musicale & generaliste",
         "stream": "http://lakay.online/hs/benotv/index.m3u8",
         "logo_url": "https://haitibroadcast.com/tv_logos/Beno_TV.png"

@@ -2,30 +2,31 @@ import mongoose from "mongoose";
 import radioStation from "../models/radio_stations.js";
 import userFav from "../models/user_favorites.js";
 
-// export const getAllRadio = async (req, res, next) => {
+export const getAllRadio = async (req, res, next) => {
 
-//     let radioStations;
-//     try {
-//         radioStations = await radioStation.find();
-//     } catch (err) {
-//         console.log(err);
-//     }
-//     if (!radioStations) {
-//         return res.status(404).json({ message: "No Radio stations found!!" });
-//     } else {
-//         return res.status(200).json({ radioStations });
-//     }
-// };
+    let radioStations;
+    try {
+
+        radioStations = await radioStation.find();
+    } catch (err) {
+        console.log(err);
+    }
+    if (!radioStations) {
+        return res.status(404).json({ message: "No Radio stations found!!" });
+    } else {
+        return res.status(200).json({ radioStations });
+    }
+};
 
 export const getRadioByFilter = async (req, res, next) => {
 
     var queryCategory = null;
-    if (req.query.category!=[]) {
+    if (req.query.category) {
         queryCategory = JSON.parse(req.query.category);
     }
 
     var queryLocation = null;
-    if (req.query.location!=[]) {
+    if (req.query.location) {
         queryLocation = JSON.parse(req.query.location);
     }
 
@@ -86,7 +87,7 @@ export const getRadioByFilter = async (req, res, next) => {
     }
     if (!reqStations) {
 
-        res.status(404).json({ stations });
+        res.status(404).json({ message: "Data not found!!" });
 
     } else {
 
