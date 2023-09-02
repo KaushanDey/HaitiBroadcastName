@@ -22,38 +22,35 @@ import userFav from "../models/user_favorites.js";
 export const getChannelsByFilter = async (req,res,next) =>{
 
     var queryCategory = null;
-    if(req.query.category!=[]){
-        queryCategory = req.query.category;
+    if(req.query.category!=null && req.query.category.length!=0){
+        queryCategory = JSON.parse(req.query.category);
     }
 
     var queryLocation=null;
-    if(req.query.location!=[]){
+    if(req.query.location!=null && req.query.location.length!=0){
         queryLocation = JSON.parse(req.query.location);
     }
 
     console.log(queryCategory);
 
     let channels;
-    var reqChannels = new Array();
+    var reqChannels = [];
 
     try{
 
         channels = await tvChannel.find();
-
         for(let i=0;i<channels.length;i++){
 
             let flagCategory = null;
-            if(queryCategory){
+            if(queryCategory!=null){
                 const reqCategory = channels[i].category;
-                flagCategory = (queryCategory===reqCategory);
+                flagCategory = queryCategory.includes(reqCategory);
             }
 
             let flagLocation = null;
-            if(queryLocation){
-                const reqLocation = channels[i].location.split(", ");
-                flagLocation = queryLocation.every(element =>{
-                    return reqLocation.includes(element);
-                });
+            if(queryLocation!=null){
+                const reqLocation = channels[i].location;
+                flagLocation = queryLocation.includes(reqLocation);
             }
 
             if(flagCategory!=null && flagLocation!=null){
@@ -82,14 +79,15 @@ export const getChannelsByFilter = async (req,res,next) =>{
         console.log(err);
 
     }
-    if(!reqChannels){
-
-        return res.status(404).json({ channels });
+    if(reqChannels.length===0){
+        console.log(channels.length);
+        return res.status(200).json({channels});
 
     }else{
 
+        channels = reqChannels;
         console.log(reqChannels.length);
-        return res.status(200).json({reqChannels});      
+        return res.status(200).json({channels});      
 
     }
 
