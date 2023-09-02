@@ -80,15 +80,13 @@ export const getChannelsByFilter = async (req, res, next) => {
             let flagCategory = null;
             if (category!=null) {
                 const reqCategory = channels[i].category;
-                flagCategory = (category === reqCategory);
+                flagCategory = category.includes(reqCategory);
             }
 
             let flagLocation = null;
             if (location!=null) {
-                const reqLocation = channels[i].location.split(", ");
-                flagLocation = location.every(element => {
-                    return reqLocation.includes(element);
-                });
+                const reqLocation = channels[i].location;
+                flagLocation = location.includes(reqLocation);
             }
 
             if (flagCategory != null && flagLocation != null) {
