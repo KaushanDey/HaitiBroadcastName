@@ -19,108 +19,108 @@ import userFav from "../models/user_favorites.js";
 
 // };
 
-export const getChannelsByFilter = async (req,res,next) =>{
+// export const getChannelsByFilter = async (req,res,next) =>{
 
-    let queryCategory = false;
-    if(req.query.category!=null && req.query.category.length!=0){
-        queryCategory = JSON.parse(req.query.category);
-    }
+//     let queryCategory = false;
+//     if(req.query.category!=null && req.query.category.length!=0){
+//         queryCategory = JSON.parse(req.query.category);
+//     }
 
-    let queryLocation = false;
-    if(req.query.location!=null && req.query.location.length!=0){
-        queryLocation = JSON.parse(req.query.location);
-    }
+//     let queryLocation = false;
+//     if(req.query.location!=null && req.query.location.length!=0){
+//         queryLocation = JSON.parse(req.query.location);
+//     }
 
-    console.log(queryCategory);
-    console.log(queryLocation);
+//     console.log(queryCategory);
+//     console.log(queryLocation);
 
-    try{
+//     try{
 
-        let channels = await tvChannel.find();
+//         let channels = await tvChannel.find();
 
-        if (queryCategory!=false) {
-            channels = channels.filter(channel => queryCategory.includes(channel.category));
-        }
-
-        if (queryLocation != false) {
-            channels = channels.filter(channel => queryLocation.includes(channel.location));
-        }
-
-        if(channels.length===0){
-            console.log(channels.length);
-            return res.status(404).json({message: "Data not found!!"});
-    
-        }else{
-    
-            console.log("Filtered Channels");
-            console.log(channels.length);
-            return res.status(200).json({channels});      
-    
-        }
-
-    }catch(err){
-        res.status(404).json({err});
-        console.log(err);
-
-    }
-    
-
-};
-
-// export const getChannelsByFilter = async (req, res, next) => {
-
-//     const { category, location } = req.body;
-//     console.log(category);
-//     let channels;
-//     var reqChannels = new Array();
-//     try {
-
-//         channels = await tvChannel.find();
-//         for (let i = 0; i < channels.length; i++) {
-//             let flagCategory = null;
-//             if (category!=null) {
-//                 const reqCategory = channels[i].category;
-//                 flagCategory = (category === reqCategory);
-//             }
-
-//             let flagLocation = null;
-//             if (location!=null) {
-//                 const reqLocation = channels[i].location.split(", ");
-//                 flagLocation = location.every(element => {
-//                     return reqLocation.includes(element);
-//                 });
-//             }
-
-//             if (flagCategory != null && flagLocation != null) {
-
-//                 if (flagCategory && flagLocation) {
-//                     reqChannels.push(channels[i]);
-//                 }
-
-//             } else if (flagCategory != null && flagLocation == null) {
-
-//                 if (flagCategory) {
-//                     reqChannels.push(channels[i]);
-//                 }
-
-//             } else if (flagCategory == null && flagLocation != null) {
-
-//                 if (flagLocation) {
-//                     reqChannels.push(channels[i]);
-//                 }
-
-//             }
+//         if (queryCategory!=false) {
+//             channels = channels.filter(channel => queryCategory.includes(channel.category));
 //         }
-//     }catch(err){
-//         console.log(err);
-//     }
 
-//     if(!reqChannels){
-//         return res.status(404).json({message: "Data not found!!"});
+//         if (queryLocation != false) {
+//             channels = channels.filter(channel => queryLocation.includes(channel.location));
+//         }
+
+//         if(channels.length===0){
+//             console.log(channels.length);
+//             return res.status(404).json({message: "Data not found!!"});
+    
+//         }else{
+    
+//             console.log("Filtered Channels");
+//             console.log(channels.length);
+//             return res.status(200).json({channels});      
+    
+//         }
+
+//     }catch(err){
+//         res.status(404).json({err});
+//         console.log(err);
+
 //     }
-//     console.log(reqChannels.length);
-//     return res.status(200).json({reqChannels});
+    
+
 // };
+
+export const getChannelsByFilter = async (req, res, next) => {
+
+    const { category, location } = req.body;
+    console.log(category);
+    let channels;
+    var reqChannels = new Array();
+    try {
+
+        channels = await tvChannel.find();
+        for (let i = 0; i < channels.length; i++) {
+            let flagCategory = null;
+            if (category!=null) {
+                const reqCategory = channels[i].category;
+                flagCategory = (category === reqCategory);
+            }
+
+            let flagLocation = null;
+            if (location!=null) {
+                const reqLocation = channels[i].location.split(", ");
+                flagLocation = location.every(element => {
+                    return reqLocation.includes(element);
+                });
+            }
+
+            if (flagCategory != null && flagLocation != null) {
+
+                if (flagCategory && flagLocation) {
+                    reqChannels.push(channels[i]);
+                }
+
+            } else if (flagCategory != null && flagLocation == null) {
+
+                if (flagCategory) {
+                    reqChannels.push(channels[i]);
+                }
+
+            } else if (flagCategory == null && flagLocation != null) {
+
+                if (flagLocation) {
+                    reqChannels.push(channels[i]);
+                }
+
+            }
+        }
+    }catch(err){
+        console.log(err);
+    }
+
+    if(!reqChannels){
+        return res.status(404).json({message: "Data not found!!"});
+    }
+    console.log(reqChannels.length);
+    return res.status(200).json({reqChannels});
+};
 
 export const getAllChannelsLocation = async (req, res, next) => {
 
