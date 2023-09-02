@@ -19,81 +19,81 @@ export const getAllChannels = async (req, res, next) => {
 
 };
 
-// export const getChannelsByFilter = async (req,res,next) =>{
+export const getChannelsByFilter = async (req,res,next) =>{
 
-//     var queryCategory = null;
-//     if(req.query.category){
-//         queryCategory = req.query.category;
-//     }
+    var queryCategory = null;
+    if(req.query.category){
+        queryCategory = req.query.category;
+    }
 
-//     var queryLocation=null;
-//     if(req.query.location){
-//         queryLocation = JSON.parse(req.query.location);
-//     }
+    var queryLocation=null;
+    if(req.query.location){
+        queryLocation = JSON.parse(req.query.location);
+    }
 
-//     console.log(queryCategory);
+    console.log(queryCategory);
 
-//     let channels;
-//     var reqChannels = new Array();
+    let channels;
+    var reqChannels = new Array();
 
-//     try{
+    try{
 
-//         channels = await tvChannel.find();
+        channels = await tvChannel.find();
 
-//         for(let i=0;i<channels.length;i++){
+        for(let i=0;i<channels.length;i++){
 
-//             let flagCategory = null;
-//             if(queryCategory){
-//                 const reqCategory = channels[i].category;
-//                 flagCategory = (queryCategory===reqCategory);
-//             }
+            let flagCategory = null;
+            if(queryCategory){
+                const reqCategory = channels[i].category;
+                flagCategory = (queryCategory===reqCategory);
+            }
 
-//             let flagLocation = null;
-//             if(queryLocation){
-//                 const reqLocation = channels[i].location.split(", ");
-//                 flagLocation = queryLocation.every(element =>{
-//                     return reqLocation.includes(element);
-//                 });
-//             }
+            let flagLocation = null;
+            if(queryLocation){
+                const reqLocation = channels[i].location.split(", ");
+                flagLocation = queryLocation.every(element =>{
+                    return reqLocation.includes(element);
+                });
+            }
 
-//             if(flagCategory!=null && flagLocation!=null){
+            if(flagCategory!=null && flagLocation!=null){
 
-//                 if(flagCategory && flagLocation){
-//                     reqChannels.push(channels[i]);
-//                 }
+                if(flagCategory && flagLocation){
+                    reqChannels.push(channels[i]);
+                }
 
-//             }else if(flagCategory!=null && flagLocation==null){
+            }else if(flagCategory!=null && flagLocation==null){
 
-//                 if(flagCategory){
-//                     reqChannels.push(channels[i]);
-//                 }
+                if(flagCategory){
+                    reqChannels.push(channels[i]);
+                }
 
-//             }else if(flagCategory==null && flagLocation!=null){
+            }else if(flagCategory==null && flagLocation!=null){
 
-//                 if(flagLocation){
-//                     reqChannels.push(channels[i]);
-//                 }
+                if(flagLocation){
+                    reqChannels.push(channels[i]);
+                }
 
-//             }
-//         }
+            }
+        }
 
-//     }catch(err){
+    }catch(err){
 
-//         console.log(err);
+        console.log(err);
 
-//     }
-//     if(!reqChannels){
+    }
+    if(!reqChannels){
 
-//         return res.status(404).json({message: "Data not found!!"});
+        return res.status(404).json({message: "Data not found!!"});
 
-//     }else{
+    }else{
 
-//         console.log(reqChannels.length);
-//         return res.status(200).json({reqChannels});      
+        console.log(reqChannels.length);
+        return res.status(200).json({reqChannels});      
 
-//     }
+    }
 
-// };
+};
 
 // export const getChannelsByFilter = async (req, res, next) => {
 
