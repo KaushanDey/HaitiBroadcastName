@@ -71,6 +71,7 @@ export const getChannelsByFilter = async (req, res, next) => {
 
     const { category, location } = req.body;
     console.log(category);
+    const queryCategory  = category.split(',');
     let channels;
     var reqChannels = new Array();
     try {
@@ -80,7 +81,7 @@ export const getChannelsByFilter = async (req, res, next) => {
             let flagCategory = null;
             if (category!=null) {
                 const reqCategory = channels[i].category;
-                flagCategory = category.includes(reqCategory);
+                flagCategory = queryCategory.includes(reqCategory);
             }
 
             let flagLocation = null;
