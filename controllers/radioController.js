@@ -159,7 +159,7 @@ export const getRadioByFilter = async (req, res, next) => {
         if(queryCategory==false && queryLocation==false){
             console.log("All Channels");
             console.log(stations.length);
-            return res.status(404).json({stations});
+            return res.status(200).json({stations});
         }else{
             stations = reqStations;
             if(reqStations.length===0){
