@@ -2,99 +2,181 @@ import mongoose from "mongoose";
 import radioStation from "../models/radio_stations.js";
 import userFav from "../models/user_favorites.js";
 
-export const getAllRadio = async (req, res, next) => {
+// export const getAllRadio = async (req, res, next) => {
 
-    let radioStations;
-    try {
+//     let radioStations;
+//     try {
 
-        radioStations = await radioStation.find();
-    } catch (err) {
-        console.log(err);
-    }
-    if (!radioStations) {
-        return res.status(404).json({ message: "No Radio stations found!!" });
-    } else {
-        return res.status(200).json({ radioStations });
-    }
-};
+//         radioStations = await radioStation.find();
+//     } catch (err) {
+//         console.log(err);
+//     }
+//     if (!radioStations) {
+//         return res.status(404).json({ message: "No Radio stations found!!" });
+//     } else {
+//         return res.status(200).json({ radioStations });
+//     }
+// };
 
 export const getRadioByFilter = async (req, res, next) => {
 
-    var queryCategory = null;
-    if (req.query.category) {
+    // var queryCategory = null;
+    // if (req.query.category) {
+    //     queryCategory = JSON.parse(req.query.category);
+    // }
+
+    // var queryLocation = null;
+    // if (req.query.location) {
+    //     queryLocation = JSON.parse(req.query.location);
+    // }
+
+    // console.log(queryCategory);
+
+    // let stations;
+    // var reqStations = new Array();
+
+    // try {
+    //     stations = await radioStation.find();
+    //     for (let i = 0; i < stations.length; i++) {
+
+    //         let flagCategory = null;
+    //         if (queryCategory) {
+            // const categories = stations[i].category.split(" / ");
+    //             flagCategory = queryCategory.every(element => {
+    //                 return categories.includes(element);
+    //             });
+    //         }
+
+    //         let flagLocation = null;
+    //         if (queryLocation) {
+    //             var temp = stations[i].location.slice(1);
+    //             temp = temp.slice(0, temp.length - 1);
+    //             const reqLocation = temp.split(", ");
+
+    //             flagLocation = queryLocation.every(element => {
+    //                 return reqLocation.includes(element);
+    //             });
+    //         }
+
+    //         if (flagCategory != null && flagLocation != null) {
+
+    //             if (flagCategory && flagLocation) {
+    //                 reqStations.push(stations[i]);
+    //             }
+
+    //         } else if (flagCategory == null && flagLocation != null) {
+
+    //             if (flagLocation) {
+    //                 reqStations.push(stations[i]);
+    //             }
+
+    //         } else if (flagCategory != null && flagLocation == null) {
+
+    //             if (flagCategory) {
+    //                 reqStations.push(stations[i]);
+    //             }
+
+    //         }
+
+    //     }
+
+    //     if (!reqStations) {
+
+    //         res.status(404).json({ message: "Data not found!!" });
+    
+    //     } else {
+    
+    //         res.status(200).json({ reqStations });
+    //         console.log(reqStations.length);
+    
+    //     }
+
+    // } catch (err) {
+
+    //     console.log(err);
+
+    // }
+
+    let queryCategory = false;
+    if(req.query.category!=null && req.query.category.length!=0){
         queryCategory = JSON.parse(req.query.category);
     }
 
-    var queryLocation = null;
-    if (req.query.location) {
+    let queryLocation = false;
+    if(req.query.location!=null && req.query.location.length!=0){
         queryLocation = JSON.parse(req.query.location);
     }
 
     console.log(queryCategory);
+    console.log(queryLocation);
 
-    let stations;
-    var reqStations = new Array();
+    try{
 
-    try {
-        stations = await radioStation.find();
-        for (let i = 0; i < stations.length; i++) {
+        let stations = await radioStation.find();
+        let reqStations = [];
+        for(let i=0;i<stations.length;i++){
 
-            let flagCategory = null;
-            if (queryCategory) {
+            let flagCategory = false;
+            if (queryCategory!=false) {
                 const categories = stations[i].category.split(" / ");
-                flagCategory = queryCategory.every(element => {
-                    return categories.includes(element);
-                });
+                for(let j=0;j<queryCategory.length;j++){
+                    if(categories.includes(queryCategory[j])){
+                        flagCategory = true;
+                        break;
+                    }
+                }
+            }
+            let flagLocation = false;
+            if (queryLocation != false) {
+                let locations;
+                if(stations[i].location[0]==='('){
+                    let temp = stations[i].location.slice(1);
+                    temp = temp.slice(0, temp.length - 1);
+                    locations = temp.split(", ")[0];
+                }else{
+                    locations = stations[i].location.split(", ")[0];
+                }
+                if(queryLocation.includes(locations)){
+                    flagLocation = true;
+                }
             }
 
-            let flagLocation = null;
-            if (queryLocation) {
-                var temp = stations[i].location.slice(1);
-                temp = temp.slice(0, temp.length - 1);
-                const reqLocation = temp.split(", ");
-
-                flagLocation = queryLocation.every(element => {
-                    return reqLocation.includes(element);
-                });
+            if(queryCategory!=false && queryLocation!=false){
+                if(flagCategory && flagLocation){
+                    reqStations.push(stations[i]);
+                }
+            }else if(queryCategory!=false && queryLocation==false){
+                if(flagCategory){
+                    reqStations.push(stations[i]);
+                }
+            }else if(queryCategory==false && queryLocation!=false){
+                if(flagLocation){
+                    reqStations.push(stations[i]);
+                }
             }
-
-            if (flagCategory != null && flagLocation != null) {
-
-                if (flagCategory && flagLocation) {
-                    reqStations.push(stations[i]);
-                }
-
-            } else if (flagCategory == null && flagLocation != null) {
-
-                if (flagLocation) {
-                    reqStations.push(stations[i]);
-                }
-
-            } else if (flagCategory != null && flagLocation == null) {
-
-                if (flagCategory) {
-                    reqStations.push(stations[i]);
-                }
-
-            }
-
         }
 
-    } catch (err) {
+        if(queryCategory==false && queryLocation==false){
+            console.log("All Channels");
+            console.log(stations.length);
+            return res.status(404).json({stations});
+        }else{
+            stations = reqStations;
+            if(reqStations.length===0){
+                return res.status(404).json();
+            }
+            console.log("Filtered Channels");
+            console.log(stations.length);
+            return res.status(200).json({stations});      
+    
+        }
 
+    }catch(err){
+        res.status(404).json({err});
         console.log(err);
 
     }
-    if (!reqStations) {
-
-        res.status(404).json({ message: "Data not found!!" });
-
-    } else {
-
-        res.status(200).json({ reqStations });
-        console.log(reqStations.length);
-
-    }
+    
 
 };
 
@@ -111,16 +193,18 @@ export const getAllRadioLocation = async (req, res, next) => {
     var allLocations = {};
     for (let i = 0; i < radio.length; i++) {
 
-        var temp = radio[i].location.slice(1);
-        temp = temp.slice(0, temp.length - 1);
-        const location = temp.split(", ");
+        let location;
+        if(radio[i].location[0]==='('){
+            var temp = radio[i].location.slice(1);
+            temp = temp.slice(0, temp.length - 1);
+            location = temp.split(", ");
+        }else{
+            location = radio[i].location.split(", ");
+        }
+        
 
         let arr = [];
         if (!location[1]) continue;
-        if(!allLocations[location[1]]){
-            arr.push(location[1]);
-            allLocations[location[1]] = arr;
-        }
         if (allLocations[location[1]]) {
             arr = allLocations[location[1]];
         }
@@ -130,7 +214,7 @@ export const getAllRadioLocation = async (req, res, next) => {
     }
     
     if (!allLocations) {
-        return res.status(404).json({ message: "Data not found!!" });
+        return res.status(404).json();
     }
     return res.status(200).json({ allLocations });
 

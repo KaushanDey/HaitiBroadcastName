@@ -63,7 +63,6 @@ export const getChannelsByFilter = async (req,res,next) =>{
         console.log(err);
 
     }
-    
 
 };
 
