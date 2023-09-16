@@ -434,5 +434,2986 @@
       "info": "Radio Trance FM, le correcteur de la bande FM",
       "stream": "https://stream.zeno.fm/r3c0cddxgm0uv",
       "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Trans_Artibonite.jpg"
-    }
-  ]
+    },
+    {
+      "radio_name": "Radio Caraïbes FM",
+      "radio_station": "94.5 FM",
+      "location": "Port-au-Prince, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "Radio Caraïbes 94.5 FM (Port-au-Prince, Ouest, Haiti) - Radio Télévision Caraïbes diffuse le principal programme de radio interactive en direct depuis Port-au-Prince, Ouest à Haïti.",
+      "web": "https://www.radiotelecaraibes.com",
+      "stream": "http://stream.zeno.fm/qtt8q2ufqeruv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Caraibes_FM.png"
+    },
+  {
+      "radio_name": "Radio Vision 2000",
+      "radio_station": "99.3 FM",
+      "location": "Port-au-Prince, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "Radio Vision 2000 99.3 FM - Écoutez Radio Vision 2000 en direct d'Haïti pour les meilleurs débats sportifs et actualités nationales.",
+      "web": "https://radiotelevision2000.com/home/",
+      "stream": "https://studio.sitegenial.com/9930/stream",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Vision_2000.jpg"
+  },
+  {
+      "radio_name": "Radio Kiskeya",
+      "radio_station": "88.5 FM",
+      "location": "Port-au-Prince, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "Radio Kiskeya 88.5 FM (Port-au-Prince, Ouest, Haiti) - Radio Kiskeya Haïti est la principale station d'informations en direct depuis Port-au-Prince, Ouest, Haïti. Écoutez radio Kiskeya en direct.",
+      "web": "http://www.haitibroadcast.com",
+      "stream": "http://stream.zeno.fm/82q102t62neuv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Kiskeya.jpg"
+  },
+  {
+      "radio_name": "Radio Metropole",
+      "radio_station": "100.1 FM",
+      "location": "Port-au-Prince, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "Radio Métropole est une entreprise privée et indépendante de radio diffusion constituée sous la forme d’une société anonyme ayant son siège social à Delmas 52, Port-au-Prince.",
+      "slogan": "Métropole une force toujours en action vers de nouveaux horizons.",
+      "web": "http://www.metropolehaiti.com/",
+      "stream": "https://s4.radio.co/s5cedb108a/listen",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Metropole.jpg"
+  },
+  {
+      "radio_name": "Horizon 2000",
+      "radio_station": "95.7 FM",
+      "location": "Port-au-Prince, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "Informer, Former, Distraire et Instruire. Radio Vison 2000 est est une entreprise privée et indépendante de radio diffusion depuis Port-au-Prince, Haiti.",
+      "stream": "https://stream.zeno.fm/uv1g86e5d4duv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Horizon_2000.jpg"
+  },
+  {
+      "radio_name": "Radio SuperStar",
+      "radio_station": "102.9 FM",
+      "location": "Pétion-Ville, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "Radio SuperStar, une concrétisation des nouvelles idées radiophoniques de son dynamique propriétaire Albert Chancy Jr. Ses émissions ont su très tôt révolutionner le monde de la radio-diffusion en Haïti. Un nouveau format, un nouveau style jamais égalé!",
+      "slogan": "Un nouveau format, un nouveau style jamais égalé",
+      "web": "https://www.superstarhaiti.com/",
+      "stream": "http://stream.zenolive.com/umv72q7ge7duv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Super_Star.jpg"
+  },
+  {
+      "radio_name": "Signal FM",
+      "radio_station": "90.5 FM",
+      "location": "Port-au-Prince, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "Signal FM est une station de radio haïtienne de langue française basée dans la banlieue de Port-au-Prince, Ouest à Pétion-Ville. C'est une station populaire, fournissant des mises à jour et d'autres informations sur Haïti.",
+      "web": "https://www.signalfmhaiti.com/",
+      "stream": "https://stream.zeno.fm/uttk3q6saxquv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Signal_FM.jpg"
+  },
+  {
+      "radio_name": "Radio Télé Ginen",
+      "radio_station": "92.9 FM",
+      "location": "Port-au-Prince, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "RTG, inaugurée le 3 Avril 1994, est la source d’information la plus credible pour les nouvelles, le Sport et la Culture d’Haiti. “Jan Li Ye A.” Yon Eksperyans Natif Natal.",
+      "slogan": "Yon Eksperyans Natif Natal",
+      "web": "http://rtghaiti.com/",
+      "stream": "http://stream.zenolive.com/86kkd51egd5tv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Ginen.jpg"
+  },
+  {
+      "radio_name": "Radio Zenith",
+      "radio_station": "102.5 FM",
+      "location": "Croix-des-Bouquets, Ouest",
+      "category": "Généraliste / News / Kompa",
+      "info": "Zenith FM 102.5 diffusion en direct depuis Haïti. Zenith FM 102.5 couvre diverses discussions, émissions de divertissement et bien plus encore.",
+      "web": "http://www.zenithfmhaiti.com/",
+      "stream": "http://stream.zeno.fm/74d7kchvmmquv",
+      "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Zenith.jpg"
+  },
+  {
+    "radio_name": "Radio Solidarité",
+    "radio_station": "107.3 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Généraliste / News / Kompa",
+    "info": "Radio Solidarité | 107.3 FM est une station de radio en ligne en direct diffusant depuis Port-au-Prince, Ouest, Haïti; jouer à Community News, Information and Entertainment.",
+    "web": "http://www.radiosolidaritehaiti.net/",
+    "stream": "http://cast5.my-control-panel.com:8395/stream",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Solidarite.jpg"
+},
+{
+    "radio_name": "Radio Mega Haiti",
+    "radio_station": "103.7 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Généraliste / News / Kompa",
+    "info": "Radio Mega Haiti | 103.7 FM est une radiodont le but est de divertir ses auditeurs et en même temps diffuser les plus grands succès du monde entier. Radio Mega Haiti 103.7 FM devient de plus en plus populaire parmi leurs auditeurs pour leur travail et leur présentation de beaux programmes.",
+    "web": "https://www.radiomega.net/",
+    "slogan": "Gwo radio a!",
+    "stream": "https://stream.zeno.fm/xugpr48vxxquv",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Mega_Haiti.png"
+},
+{
+    "radio_name": "Scoop FM",
+    "radio_station": "107.7 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Généraliste / News / Kompa",
+    "info": "Scoop FM, TV & Website, une chaine de médias pour vous tenir informés – des journalistes cevronés et compétents toujours au cœur des faits saillants – Scoop!",
+    "web": "https://www.scoopfmhaiti.com/",
+    "stream": "https://studio.sitegenial.com/8006/stream",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Scoop_FM.png"
+},
+{
+    "radio_name": "Radio Nationale D'Haïti",
+    "radio_station": "102.1 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Généraliste / News / Kompa",
+    "info": "Radio Nationale D’Haïti diffuse différents types de dernière hip hop, classique, danse, musique électronique, etc. Radio Nationale D’Haïti diffusion en direct d’Haïti.",
+    "web": "http://www.haitibroadcast.com",
+    "stream": "https://stream.zeno.fm/u7dnuegy16duv",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Nationale_D'Haiti.jpg"
+},
+{
+    "radio_name": "Radio Tele Eclair",
+    "radio_station": "100.5 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Généraliste / News / Kompa",
+    "info": "Radio Tele Eclair diffuse une gamme variée de programmes produits localement et nationalement, à la fois de la musique et de la création parlée, en stéréo hi-fi.",
+    "web": "http://www.haitibroadcast.com",
+    "stream": "http://stream.radiojar.com/2b0gs3cu4tzuv",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Eclair.jpg"
+},
+{
+    "radio_name": "Radio Timoun",
+    "radio_station": "90.9 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Généraliste / News / Culturel",
+    "web": "http://www.haitibroadcast.com",
+    "info": "La radio des enfants!",
+    "stream": "https://stream.zeno.fm/0q4qe4y5x6duv",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Timoun.jpg"
+},
+{
+    "radio_name": "Radio Lumière Haiti",
+    "radio_station": "99.7 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Gospel / Christian / Evangélisation",
+    "info": "Radio Lumière est une œuvre de la mission Évangélique Baptiste du Sud d'Haïti (MEBSH) Elle est connue comme la voix de la communauté évangélique d'Haïti et la voix des sans voix.",
+    "stream": "http://stream.zenolive.com/yw0309xbgseuv",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Lumiere.jpg"
+},
+{
+    "radio_name": "Radio Commerciale D'Haiti",
+    "radio_station": "92.5 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Généraliste / Talks/ Kompa",
+    "slogan": "La Radio des Hommes d’Affaires",
+    "stream": "http://haiti.internettunes.com:8020/",
+    "info": "Radio Commerciale d'Haïti est une station de radio diffusée à Port-au-Prince, Ouest, en Haïti, qui propose des émissions sur les affaires, la culture, l'évangile et les sports.",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Commerciale_D'Haiti.jpg"
+},
+{
+    "radio_name": "Alleluia FM",
+    "radio_station": "98.9 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Gospel / Christian / Evangélisation",
+    "info": "Alleluia FM  est un espace de propagation de l’Evangile de Jésus-Christ, à travers la musique évangélique et les nombreux modules de messages",
+    "slogan": "Une station de radio qui rend gloire à Dieu!",
+    "stream": "https://stream.zeno.fm/q73mfk70vd0uv",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Alleluia_FM.jpg"
+},
+{
+    "radio_name": "Radio Hozanna",
+    "radio_station": "91.7 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Gospel / Christian / Evangélisation",
+    "web": "http://www.haitibroadcast.com",
+    "stream": "https://stream.zenolive.com/63vqzmy1g9duv",
+    "info": "Bethanie Evangelical Mission of Haiti.",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Hozanna.jpg"
+},
+{
+    "radio_name": "Voix de l'Esperance",
+    "radio_station": "89.7 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Gospel / Christian / Evangélisation",
+    "web": "http://www.haitibroadcast.com",
+    "stream": "https://stream.zeno.fm/cgnkcznsfvduv",
+    "info": "Radio Voix de l'Espérance se veut la Voix de l'Eglise Adventiste en Haïti diffuse des programmes religieux, des émissions au contenu spirituel, des commentaires des Caraïbes, des talks show ainsi que des débats.",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Voix_de_l'Esperance.jpg"
+},
+{
+    "radio_name": "Radio Yahvé Nissi",
+    "radio_station": "96.3 FM",
+    "location": "Tabarre, Ouest",
+    "category": "Gospel / Christian / Evangélisation",
+    "web": "http://www.haitibroadcast.com",
+    "stream": "https://stream.zenolive.com/shvwqbgw6neuv",
+    "info": "La radio qui opte pour le salut de tous. Radio Yahvé Nissi est une Radio évangélique dont la vision est la transformation du monde via le changement de la mentalité, dans toute son intégralité.",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Yahve_Nissi.jpg"
+},
+{
+    "radio_name": "Radio Etendue",
+    "radio_station": "91.1 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Gospel / Christian / Evangélisation",
+    "web": "http://www.haitibroadcast.com",
+    "stream": "https://stream.zeno.fm/3uxanxfe6qruv",
+    "slogan": "La radio qui s'étend jusqu'à vous.",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Etendue.jpg"
+},
+{
+    "radio_name": "Konpa Agogo",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Généraliste / Kompa",
+    "web": "https://www.konpaagogo.com/",
+    "stream": "https://stream.radio.co/s2f14b1652",
+    "info": "Konpa Agogo est une émission qui se diffuse sur Radio One 90.1 FM en Haïti, du Lundi au Vendredi, de 7h-9h PM avec l'Animateur Shesly N. Milsoit dit Lyly Milsoit.",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Konpa_Agogo.jpg"
+},
+{
+    "radio_name": "Radio Evangelique la Voix de Dieu",
+    "radio_station": "103.1 FM",
+    "location": "Port-au-Prince, Ouest",
+    "category": "Gospel / Christian / Evangélisation",
+    "web": "http://www.haitibroadcast.com",
+    "stream": "https://stream.zeno.fm/55znfebuchruv",
+    "info": "Radio Evangelique La Voix de Dieu est un ministère centré sur le Christ et fondé sur la Bible. Notre engagement envers Jésus nous pousse à agir en répandant l'évangile dans le monde entier et en engageant chaque chrétien à maîtriser une vie abondante en Jésus-Christ.",
+    "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Evangelique_La_Voix_de_Dieu.png"
+},
+{
+  "radio_name": "Sweet FM",
+  "radio_station": "99.7 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Soft Rock / Romance",
+  "web": "http://www.sweetfmhaiti.com/",
+  "info": "Radio Sweet FM 99.7 FM est une station de radio basée à Port-au-Prince qui a une programmation essentiellement musicale, composée de toutes les musiques à succès récentes et anciennes du monde entier.",
+  "stream": "https://stream.zeno.fm/stxdykmxqceuv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Sweet_FM.jpg"
+},
+{
+  "radio_name": "Radio Antilles",
+  "radio_station": "96.9 FM",
+  "web": "https://radioteleantilleshaiti.com/",
+  "info": "Radio Télé Antilles Internationale est devenue l'une des premières radios du moment. Asseyez-vous, détendez-vous et laissez-le jouer la musique qui pique votre colonne vertébrale !",
+  "stream": "https://stream.zeno.fm/0vt8ecsu0nhvv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Antilles_International.jpg"
+},
+{
+  "radio_name": "Magik 9 Haiti",
+  "radio_station": "100.9 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / News / Kompa",
+  "info": "Radio Magik9 100,9 MHz FM est une station de radio haïtienne de Port-au-Prince, Ouest diffusant les derniers succès ainsi que de la musique haïtienne classique dans les régions d'Hispaniola, des Antilles et des Caraïbes. Les mélomanes peuvent trouver toute une gamme variée de musique française locale, régionale et internationale.",
+  "stream": "http://stream.zeno.fm/nq6d116w5neuv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Magik-9_Haiti.png"
+},
+{
+  "radio_name": "Radio Galaxie",
+  "radio_station": "104.5 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / News / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Radio Galaxie 104.5 FM Stereo Le Meilleur Choix Sur la Bande FM!",
+  "slogan": "La Radio Qui Fait Ce Que Les Autres Ne Font Pas!",
+  "stream": "http://s4.voscast.com:7868/",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Galaxie.jpg"
+},
+{
+  "radio_name": "Radio Soleil",
+  "radio_station": "105.7 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Radio Soleil est une station de radio diffusée à Port-au-Prince, Ouest, en Haïti, qui propose des programmes religieux, chrétiens et catholiques.",
+  "stream": "https://stream.zeno.fm/hh9fhbkwgpeuv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Soleil.jpg"
+},
+{
+  "radio_name": "Radio Haiti Fusion",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Radio Haiti Fusion est une station de radio Internet diffusant depuis Port-au-Prince, Ouest après 2004, Haïti, fournissant du zouk, de la musique caribéenne.",
+  "stream": "https://ec3.yesstreaming.net/fusionlive",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Haiti_Fusion.jpg"
+},
+{
+  "radio_name": "Studio 21 FM",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Studio21FM est un changement de la norme avec une approche globale sur la musique des Caraïbes. Une radio en ligne avec une vision sur l'exposition mondiale d'Afro Zouk, Konpa, Racine et d'innombrables styles de musique influencés par les Caraïbes.",
+  "slogan": "Notre priorité c'est votre écoute!",
+  "stream": "https://studio21fm.radioca.st/",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Studio21FM.jpg"
+},
+{
+  "radio_name": "Patrimoine FM",
+  "radio_station": "99.5 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / Kompa",
+  "info": "L'héritage de la Culture Haitienne!",
+  "stream": "https://stream.zeno.fm/rn40ah701uquv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Patrimoine_FM.jpg"
+},
+{
+  "radio_name": "Radio RD Plus",
+  "radio_station": "87.5 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Radio RD Plus, Une Agence de Presse Numérique, Actualité Nationales et Internationales: evangelique, Sport, Culture, Divertissement, Art, etc.",
+  "slogan": "Nous sommes la radio du developpement",
+  "stream": "https://stream.zeno.fm/qdhv1hzfr9duv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_RD_Plus.jpg"
+},
+{
+  "radio_name": "Radio Progrès",
+  "radio_station": "97.9 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / Kompa",
+  "slogan": "La Radio jusqu'au bout du monde!",
+  "stream": "https://stream.zeno.fm/qzm9wnker2zuv",
+  "info": "Radio Progrès est une station de radio située à Port-au-Prince, Ouest. La Radio jusqu'au bout du monde",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Progres.jpg"
+},
+{
+  "radio_name": "Radio Blast Kreyòl",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Radio Blast Kreyòl est une Agence de Mannequinat, de Promotion, et de Publicité. Offrant aussi des services de distribution",
+  "stream": "https://stream.zeno.fm/s9bfyhwxx8quv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Blast_Kreyol.jpg"
+},
+{
+  "radio_name": "Energie FM",
+  "radio_station": "101.7",
+  "category": "Généraliste / Talks / Kompa",
+  "info": "Energie FM | 101.7, La station qui vous suit partout!",
+  "stream": "https://stream.zeno.fm/6u5pdgm5d4duv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Energie_FM.jpg"
+},
+{
+  "radio_name": "Radio One",
+  "radio_station": "90.1 FM",
+  "category": "Généraliste / Talks / Kompa / R&B",
+  "info": "Haiti, Number-1 Radio Radio",
+  "stream": "https://stream.zeno.fm/507gezyhc3quv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_One_FM.jpg"
+},
+{
+  "radio_name": "Radio Lumière International",
+  "radio_station": "99.7 FM",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://www.radiolumiere.ht/",
+  "slogan": "Venez et soyez bénis au nom de Jésus!",
+  "stream": "http://stream.zenolive.com/74uuwh0w5neuv",
+  "info": "La Radio Lumière Internationale est une station de radio haïtienne avec un accent sur la programmation chrétienne qui dessert la communauté avec des nouvelles, des informations et des divertissements.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Lumiere_International.jpg"
+},
+{
+  "radio_name": "Radio Soleil",
+  "radio_station": "105.7 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.radiosoleil.com/",
+  "info": "Radio Soleil est une station de radio diffusée à Port-au-Prince, Ouest, en Haïti, qui propose des programmes religieux, chrétiens et catholiques.",
+  "stream": "https://stream-34.zeno.fm/hh9fhbkwgpeuv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Soleil_FM.png"
+},
+{
+  "radio_name": "Radio Shalom",
+  "radio_station": "88.9 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Radio Télé Shalom est une station de radio basée à Port-au-Prince, Ouest, qui fournit une éducation chrétienne, des actualités, des ministères et des divertissements.",
+  "stream": "https://stream.zenolive.com/krawcedmm4duv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Shalom_Haiti.png"
+},
+{
+  "radio_name": "STORM FM",
+  "radio_station": "106.5 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / Talks / Kompa / R&B",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/3mh9q1ps69duv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Storm_FM.jpg"
+},
+{
+  "radio_name": "Radio Cacique",
+  "category": "Généraliste / Talks / Kompa / R&B",
+  "info": "Radio Cacique d'Haiti se passionne pour présenter à ses auditeurs un contenu qui reflète le besoin et le style de musique de leur culture musicale locale et nationale. En raison de leur accent sur ce genre de choses, ils ont pris leur place dans le cœur de leurs auditeurs dans tout le pays.",
+  "stream": "https://s5.myradiostream.com:5088/",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Cacique.png"
+},
+{
+  "radio_name": "Radio Ibo",
+  "radio_station": "98.5 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / Talks / Kompa / R&B",
+  "info": "Radio IBO est une radio haïtienne émettant à Port-au-Prince. Ses nombreuses émissions sur la culture, la vie, la politique haïtienne font d'elle une station de référence. La radio est aussi réputée pour son émission sur le sport Sportissibo, émission aussi très écoutée par la population haïtienne à travers le monde.",
+  "stream": "https://stream.zeno.fm/kaer8unxsv5tv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_IBO.png"
+},
+{
+  "radio_name": "Radio Espace",
+  "radio_station": "RTE 94.1",
+  "category": "Généraliste / Talks / Kompa / R&B",
+  "web": "http://www.haitibroadcast.com",
+  "info": "La radio television Espace fait partie du groupe Caraibes, localisée à la rue Marcelin au # 12",
+  "stream": "https://stream.zeno.fm/4nwkqq9k6f0uv",
+  "logo_url": "https://haitibroadcast.com/tv_logos/Tele_Espace.jpg"
+},
+{
+  "radio_name": "Radio Nouvelle Generation",
+  "radio_station": "97.1 FM",
+  "category": "Généraliste / Kompa / R&B",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Radio Nouvelle Generation nou la nap pou nou toutes jeunes kigen talan nan Santo Domingo",
+  "stream": "https://stream.zeno.fm/1br0tk6u2qruv",
+  "logo_url": "https://haitibroadcast.com/tv_logos/Radio_Nouvelle_Generation.jpg"
+},
+{
+  "radio_name": "Alter Radio",
+  "radio_station": "106.1 FM",
+  "category": "Généraliste / Kompa / R&B",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Alter Radio s’inscrit dans la quête d’une Haïti véritablement démocratique et reprend, à son compte, les expériences de radios indépendantes, communautaires et populaires des dernières décennies",
+  "stream": "https://stream.zeno.fm/0mthk6sq93duv",
+  "logo_url": "https://haitibroadcast.com/tv_logos/Alter_Radio_FM.jpg"
+},
+{
+  "radio_name": "Kingdom FM",
+  "radio_station": "99.1 FM",
+  "category": "Généraliste / Kompa / R&B",
+  "web": "http://www.haitibroadcast.com",
+  "info": "Le Royaume du son, du sourire, et du plaisir!",
+  "stream": "http://stream.zeno.fm/vz3nk4pcya0uv",
+  "logo_url": "https://haitibroadcast.com/tv_logos/Radio_Kingdom_FM.png"
+},
+{
+  "radio_name": "Radio Feller",
+  "radio_station": "105.5 FM",
+  "location": "Fort Jacques, Ouest",
+  "web": "http://www.radiofeller.com/",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/fz0n207zg2zuv",
+  "info": "Radio Feller est une station communautaire située à Fort Jacques. Nous émettons sur 105.5 FM",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Feller.jpg"
+},
+{
+  "radio_name": "Radio Vwa Haïtien",
+  "radio_station": "",
+  "location": "Miragoane, Nippes",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.radiovwahaitien.com/",
+  "slogan": "La radio du peuple!",
+  "stream": "https://stream.zeno.fm/ut5hq4ddfq8uv",
+  "info": "Radio Progres est une station de radio située à Miragoâne",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Vwa_Haitien.jpg"
+},
+{
+  "radio_name": "Radio Flamax",
+  "radio_station": "99.9 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.radioflamax.com/",
+  "stream": "http://sitegenial.com:9406/",
+  "info": "Radio Flamax est une station de radio émettant depuis Miragoâne qui apporte à ses auditeurs les nouvelles quotidiennes (Actualités), les programmes culturels, le contenu lié à la santé (Santé) et les derniers événements de la commune de Miragoâne, département des Nippes, Haïti et d'autres parties des Caraïbes et du monde",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Flamax.jpg"
+},
+{
+  "radio_name": "Levanjil FM",
+  "radio_station": "100.7 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/exz132q2v7zuv.mp3",
+  "info": "Levanjil FM est une station de radio chrétienne basée à Miragoâne desservant la communauté de Miragoâne et ses environs.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Levanjil_FM.png"
+},
+{
+  "radio_name": "Viv Levanjil FM",
+  "radio_station": "1020 Khz",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://www.radiolevanjilla.com/",
+  "stream": "http://stream.zeno.fm/8gvnc6v1echvv.mp3",
+  "info": "(Radio Levanjil la) est une station de radio AM commerciale chrétienne autorisée à Boynton Beach, en Floride, et desservant le West Palm.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Viv_Levanjil_FM.jpg"
+},
+{
+  "radio_name": "Radio Beni",
+  "radio_station": "98.7 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://streaming.radio.co/se93c90423/listen",
+  "info": "Sous bénédictions pour les âmes.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Beni.png"
+},
+{
+  "radio_name": "Radio Nippes",
+  "radio_station": "100.5 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "Généraliste / News / Kompa",
+  "web": "https://radionippesfm.blogspot.com/",
+  "stream": "http://stream.zeno.fm/d2qsmtctqhruv",
+  "info": "Une station de radio émettant depuis Miragoâne, Nippes",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Nippes_FM.png"
+},
+{
+  "radio_name": "Radio Caribbean FM",
+  "radio_station": "99.1 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "Généraliste / News / Kompa",
+  "stream": "https://stream.zeno.fm/mq5xkusvwrhvv",
+  "info": "La meilleure de la musique, les infos sur Caribbean FM, l'actualité de la station, ses émissions, ses animateurs. Rien que pour vous ! La Plus Grande Ecoute Dans Le Département Des Nippes",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Caribbean_FM.png"
+},
+{
+  "radio_name": "Radio d'Or FM",
+  "radio_station": "90.3 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "Généraliste / News / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/3knex15axg0uv",
+  "info": "La radio d'Or fm 90.3 Est une radio commerciale et socio-culturelle située dans la ville de Miragoâne, précisément zone Desruisseaux.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_d'Or_FM.jpg"
+},
+{
+  "radio_name": "Radio K-res FM",
+  "radio_station": "",
+  "location": "Petit Trou de Nippes",
+  "category": "Généraliste / News / Kompa",
+  "web": "http://www.radiok-resfm.com/",
+  "stream": "http://208.71.171.204:8210/",
+  "info": "Radio K-res Fm . La radio communautaire des Nippes, Éducation, informations, musiques de toutes sortes. Une radio pour une nouvelle génération.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/K-Res_FM.jpg"
+},
+{
+  "radio_name": "Radio Haïti Soukem",
+  "radio_station": "",
+  "location": "Miragoâne, Nippes",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/q8av7z39yf9uv",
+  "info": "Radio Haïti Soukem est une station de radio musicale en ligne. La station diffuse dans les régions 24 heures sur 24, 12 mois de l'année. Avec un excellent mélange de musique pop. Radio Haïti Soukem a quelque chose pour tous les mélomanes exigeants des Nippes Miragoane et de la République dominicaine.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Haiti_Soukem.jpg"
+},
+{
+  "radio_name": "Radio Tele Top",
+  "radio_station": "95.1 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream-149.zeno.fm/tklsn2dtrdavv",
+  "info": "Radio Tele Top 95.1 Fm Chaine 14 Digitale Cable 65 Fundee 25 Septembre 2010 a Miragoane Radio Tele Top Est Une Station De Radio Generaliste Haitienne Est La Principale Station D'information la musique, le sport, la religion.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Top.png"
+},
+{
+  "radio_name": "Radio Micro FM",
+  "radio_station": "102.7 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/w353wtek09duv",
+  "info": "Une station de radio émettant depuis Miragoâne, Nippes.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Micro_FM.png"
+},
+{
+  "radio_name": "Teeshu Radio",
+  "radio_station": "95.1 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "Rap Kreyol / Hip-Hop / Kompa",
+  "stream": "https://listen.radioking.com/radio/245926/stream/290113",
+  "info": "Une Radio De Qualité Supérieure Représentante 92 Hauts-De-Seine Créée Par Le Rappeur Teeshu Nova.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Teeshu_Radio.png"
+},
+{
+  "radio_name": "Correction1 FM",
+  "radio_station": "99.1 FM",
+  "location": "Miragoâne, Nippes",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/5wgrqarxvrhvv",
+  "info": "Cette station est là pour vous faire divertir, informer",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Correction1_FM.png"
+},
+{
+  "radio_name": "Radio Tele Pyramide",
+  "radio_station": "103.5 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream-56.zeno.fm/5sexwf351ueuv",
+  "info": "Radio Tele Pyramide un organe de presse généraliste. Elle a été inaugurée par le plus célèbre journaliste haïtien Jean Léopold Dominique le jour de la fête du travail et de l'agriculture. Ce qui donne à la station une légitimité incontestable chez les paysans planteurs, les ouvriers et les travailleurs de tout type.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Pyramide.png"
+},
+{
+  "radio_name": "Radio Kiss FM",
+  "radio_station": "96.9 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/0w8qaewn108uv",
+  "info": "Radio Kiss FM est une station de radio haïtienne émettant depuis la ville des Gonaïves pour vous informer et vous divertir : entrevues, reportages, chroniques, rencontres publiques et plus. La culture haïtienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Kiss_FM.jpg"
+},
+{
+  "radio_name": "Radio Boss FM",
+  "radio_station": "103.9 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/54e9wuvdgg8uv",
+  "info": "Radio Boss FM 103.9 met l'accent sur le fait d'apporter le meilleur des meilleurs programmes dans un nombre relativement restreint de numéro.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Boss_FM.jpg"
+},
+{
+  "radio_name": "Radio Kiss FM",
+  "radio_station": "Web Radio",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/yta2tx5kdnttv",
+  "info": "Radio Kiss FM est une station à caractère commercial qui émet depuis la Ville des Gonaïves.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Boss_FM.jpg"
+},
+{
+  "radio_name": "Zerzer FM",
+  "radio_station": "102.7 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Racine",
+  "stream": "https://stream.zeno.fm/nr6792d5cnruv",
+  "info": "Zerzer FM, L'image du Vodoo Haitien",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Zerzer_FM.jpg"
+},
+{
+  "radio_name": "Radio Xplosion",
+  "radio_station": "96.5 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://cp11.serverse.com/proxy/rriluhlg?mp=/stream",
+  "info": "Radio Xplosion 96.5 FM Gonaïves est une station au format mixte qui diffuse depuis Haïti. Le contenu diffusé par la station comprend des programmes d'actualités sportives et culturelles et une variété de musiques, notamment le hip-hop, la danse, le classique, l'électronique, la salsa, le compas, le zouk, le kompa, etc.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Xplosion.jpg"
+},
+{
+  "radio_name": "Radio Super Xtra",
+  "radio_station": "94.1 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://usa17.fastcast4u.com/proxy/radioxtrafm?mp=/1",
+  "info": "L'unique 94.1 FM in Gonaives, Haiti. RadioxtraL'unique fm est une station de radio généraliste Musicale 24/24 basée au Gonaives cite de l'independance. slogan :LOT NIVO GONAIVES ,, LA JENES PAP FE BAK.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Super_Xtra.jpg"
+},
+{
+  "radio_name": "Radio Etoile",
+  "radio_station": "95.9 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zenolive.com/sy3fd4vgmkhvv",
+  "info": "Depuis petite desdunes Haïti vous écoutez Etoile FM.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Etoile.png"
+},
+{
+  "radio_name": "JPC FM",
+  "radio_station": "90.1 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Rap Kreyol / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/fmyl5vu3no0tv",
+  "info": "JPC Inter, la radio qui émet depuis Gonaïves.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/JPC_FM.jpg"
+},
+{
+  "radio_name": "Radio Sensation",
+  "radio_station": "107.9 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://69.46.24.226:7163/stream",
+  "info": "Radio Sensation 107.9 FM Gonaïves, est une station qui diffuse depuis Haïti des émissions Actualités, Sports, Santé, (Santé) culturelles et de divertissement avec de la musique non-stop 24×7. La puissance d'action",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Sensation.jpg"
+},
+{
+  "radio_name": "Radio Lanmou",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://ec3.yesstreaming.net/radiolanmou",
+  "info": "Radio Lanmou se mizik lanmou 24/7 non stop.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Lanmou.png"
+},
+{
+  "radio_name": "Radio Télé Flash",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/0tvvx1y3v8quv",
+  "info": "Radio Télé Flash est un média en ligne qui partage, avec professionnalisme, des informations vérifiées. Dans une dynamique d’informer, d’éveiller et d’éclaircir Radio Télé Flash est axée sur la production des chroniques, des analyses et des commentaires sur des sujets d’actualités tant en Haïti qu’à l’étranger.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Flash.jpg"
+},
+{
+  "radio_name": "Radio Émergence",
+  "radio_station": "Web Radio",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/eowmfnzif0auv",
+  "info": "Radio Émergence FM est une station de nouvelle génération qui vise à impliquer la population.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Emergence.jpg"
+},
+{
+  "radio_name": "Radio Ekilib",
+  "radio_station": "94.7 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/mtsau3907p8uv",
+  "info": "Radio Ekilib 94.7 FM, est une radio basée aux Gonaïves Haïti. Vous y trouverez toutes les actualités nationales et internationales, actualités politiques, sportives, musicales, interviews, programmes spirituels, et bien plus encore",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Ekilib.png"
+},
+{
+  "radio_name": "Radyo Tanbou",
+  "radio_station": "105.0 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/22pb723f9yzuv",
+  "info": "Radyo Tanbou est la radio qui diffuse des chansons en continu. Il existe de nombreux types de stations de radio dans le monde et pour se différencier de la foule des radios, une radio doit cibler un groupe d'auditeurs spécifique et doit mettre l'accent sur ce que Radyo Tanbou a fait correctement et de manière appropriée.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radyo_Tanbou.jpg"
+},
+{
+  "radio_name": "Radio Tambou",
+  "location": "Atlanta, Georgia",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/22pb723f9yzuv",
+  "info": "Radio Tambou est la radio qui diffuse des chansons en continu depuis la Georgia, USA",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tambou_FM.jpg"
+},
+{
+  "radio_name": "Radio Gonaibo Inter (RGI)",
+  "radio_station": "104.9 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/2y5bgrw3tfeuv",
+  "info": "La radio de tout la vallée! Les principales caractéristiques de Radio Gonaibo Inter sont le zouk, les hits du monde, les années 90, ainsi que la musique caribéenne pour son public.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Gonaibo_Inter_(RGI).jpg"
+},
+{
+  "radio_name": "Radio Géniale",
+  "radio_station": "100.3 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/6nfqtpffashvv",
+  "info": "Genial FM 103.9 diffuse ses programmes et agrémente ses playlists pour un public socialement et culturellement diversifié. En plus de diffuser une variété de programmes d'information et de divertissement, Genial FM 103.9 transmet diverses productions locales.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Geniale.jpg"
+},
+{
+  "radio_name": "Référence FM",
+  "radio_station": "105.9 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zenolive.com/wxbbdx2m2qzuv",
+  "info": "Radio Référence 105.9 est une station de radio diffusée des Gonaïves, en Haïti, qui propose de la musique caribéenne, de la musique française et de la musique hip-hop.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Reference_FM.jpg"
+},
+{
+  "radio_name": "Radio Tele Radical",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Racine / Kompa",
+  "stream": "https://stream.zeno.fm/1h3dkkhecd0uv",
+  "info": "Nous sommes une institution radicale créée par des professionnels de la voix off qui promeut la communication pour le développement des communautés.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Radical.jpg"
+},
+{
+  "radio_name": "Radio Tele Harmonie",
+  "radio_station": "96.1 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/10p5kym33rhvv",
+  "info": "Une Rdaio-télévision Moderne pour une Génération Nouvelle!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Harmonie_Inter.png"
+},
+{
+  "radio_name": "Radio Dareus",
+  "radio_station": "97.9 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/dy1drr7r0p8uv",
+  "info": "Radio Dareus diffuse en continu des hits de tous les genres musicaux populaires. Il joue les plus grands tubes d'aujourd'hui et en même temps les tubes d'hier.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Dareus.jpg"
+},
+{
+  "radio_name": "Radio Eau de Vie",
+  "radio_station": "89.9 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/ahqscb7pt1duv",
+  "info": "Emettant depuis la cité de l’Indépendance (Gonaïves), Radio Eau de Vie est une veritable institution de la Mission Chrétienne de l’Eau de Vie.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Eau_de_Vie.jpg"
+},
+{
+  "radio_name": "Radio Evasion",
+  "radio_station": "92.5 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/64039nyks68uv",
+  "info": "Radio Evasion 105.9 FM (GVES) est une radio émettant depuis les Gonaïves. Nous sommes la Radio de la Jeunesse haitienne. Nous emettons depuis Gonaives, Haiti.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Evasion.png"
+},
+{
+  "radio_name": "Kreyol 509",
+  "radio_station": "107.3 FM",
+  "location": "Gonaïves, Artibonite",
+  "web": "https://www.kreyol509.com/",
+  "stream": "https://stream.zeno.fm/zvrhzmx647zuv",
+  "info": "Radyo ki konekte tout ayisyen alawonnpadè! Nous sommes là pour informer et divertir tous les haïtiens peu importe où nous sommes sur la planète terre. C'est pour cette raison que Kreyol509 est une radio dont l'objectif principal est de connecter tous les haïtiens à travers le monde.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Kreyol509.jpg"
+},
+{
+  "radio_name": "Radio Realité FM",
+  "radio_station": "95.1 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/rym54euk3qzuv",
+  "info": "Ecoutez RTL radio sur le 95.1 FM: Informations, Culture, Technologie, Sport, etc. La porte de Radio Réalité est grandement ouverte à tous ceux qui souhaitent pratiquer votre sport à la radio.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Realite_FM.jpg"
+},
+{
+  "radio_name": "Nouvelle Voix de l'Artibonite",
+  "radio_station": "90.7 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Gospel / Kompa",
+  "stream": "https://stream.zeno.fm/sn3a7e6yqceuv",
+  "info": "Radio Nouvelle Voix de l'Artibonite est une station de radio commerciale basée à Desdunes, Artibonite (Haiti). Elle est la propriété du Groupe SUPED et émet sur le 90.7 fm stéréo.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Nouvelle_Voix_de_l'Artibonite.jpg"
+},
+{
+  "radio_name": "OSSI C FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Gospel / Kompa",
+  "stream": "https://stream.zeno.fm/hu53htzwfkhvv",
+  "info": "Sociaux économiques",
+  "logo_url": "https://haitibroadcast.com/radios_logos/OSSI_C_FM.jpg"
+},
+{
+  "radio_name": "Radio Optimum Haiti",
+  "location": "Anse-Rouge, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "web": "https://twitter.com/OptimumFm",
+  "stream": "https://stream.zeno.fm/rym54euk3qzuv",
+  "info": "Radio Optimum Fm est une station Radio émettant depuis la commune Anse-Rouge, Haiti. Retrouvez toute l'actualité d'Haïti: la vie politique, les faits divers, des interviews, des émissions de divertissement et culturelles, des infos locales, du sport, de la musique haïtienne, antillaise.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Optimum_Haiti.jpg"
+},
+{
+  "radio_name": "Radio Intrepide",
+  "radio_station": "97.3 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://162.220.59.26:9986/;",
+  "info": "Radio Intrepide, 97.3 FM est une station de radio diffusée à partir des Gonaïves, en Haïti, fournissant des émissions de musique caribéenne, classique et mondiale, ainsi que des programmes d'arts, de culture, de sports et d'actualités.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Intrepide.png"
+},
+{
+  "radio_name": "Compact International",
+  "radio_station": "99.5 FM",
+  "location": "Petite Rivière, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/xut3un6agrruv",
+  "info": "Radio Compact International 99.5 FM se soucie de votre choix musical",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Compact_International.jpg"
+},
+{
+  "radio_name": "Radio Trans Artibonite",
+  "radio_station": "94.9 FM",
+  "location": "Petite Rivière, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/8chvqm53wv8uv",
+  "info": "La radio de la communauté haïtienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Trans_Artibonite.jpg"
+},
+{
+  "radio_name": "Radio Télé Eliénaï",
+  "radio_station": "88.5 FM",
+  "location": "Petite Rivière, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "Category: Gospel / Christian / Evangélisation",
+  "info": "Radio Télé Eliénaï FM pour une évangélisation explosive.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tel_Elienai.jpg"
+},
+{
+  "radio_name": "Radio Union FM",
+  "radio_station": "96.3 FM",
+  "location": "Gros Morne, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/kc9ve7gg8yzuv",
+  "info": "Radio Union FM Est Une Station de Radio qui se donne pour objectif de former, informer, plaire, satisfaire, éduquer et mettre tout le monde dans l'ambiance. Elle diffuse des musiques variées.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Union_FM.jpg"
+},
+{
+  "radio_name": "Radio SFM",
+  "radio_station": "102.7 FM",
+  "location": "Gros Morne, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/edzkc5urtbruv",
+  "info": "La Fierté de la Cité Polprompt",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_SFM.jpg"
+},
+{
+  "radio_name": "Radio Francisque",
+  "radio_station": "98.9 FM",
+  "location": "Gros Morne, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zenolive.com/kcrvp1k104zuv.aac",
+  "info": "Emettant depuis Gros Morne, La radio émettant depuis Haïti que l'on peut écouter partout dans le monde",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Francisque.jpg"
+},
+{
+  "radio_name": "Lawa FM",
+  "radio_station": "104.7 FM",
+  "location": "Gros Morne, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/rxhmtaugprhvv",
+  "info": "LAWA FM, 104.7 is radio station from Gros Morne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Lawa_FM.jpg"
+},
+{
+  "radio_name": "Radio Original FM",
+  "radio_station": "88.5 FM",
+  "location": "Gros Morne, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/rncs0dtztdovv",
+  "info": "Radio Original FM, émettant depuis Gros Morne est une station avec une grande variété musicale!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Original_FM.png"
+},
+{
+  "radio_name": "Radio Tête à Tête",
+  "radio_station": "102.9 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / Pop / R&B / Kompa",
+  "stream": "https://stream.zenolive.com/5bw7nw9se6quv",
+  "info": "Radio Tete a Tete est une station de format mixte principalement remplie d'actualités, d'émissions d'actualité, d'histoires régionales et de sports. La Radio du Peuple ! Les émissions hi-fi stéréo de musique nationale, régionale et internationale offrent une réelle variété aux auditeurs des Caraïbes et d'ailleurs !",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tete_a_Tete.jpg"
+},
+{
+  "radio_name": "Radio Classic FM",
+  "radio_station": "95.9 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / Classical / R&B / Kompa",
+  "stream": "https://listen.shoutcast.com/classicfm959/;",
+  "info": "Radio Classic FM 95.9 de Saint-Marc, Haïti, nous sommes dédiés à vous et à tous vos différents besoins en comptabilité. Nous existons depuis plus de 15 ans et nous avons remporté plusieurs prix pour le meilleur cabinet comptable. Mais notre gain le plus important est de faire de vous un client heureux et à vie",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Classic_FM.jpg"
+},
+{
+  "radio_name": "Radio Starvision Inter",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / R&B / Rap Kreyol / Kompa",
+  "stream": "http://91.121.164.210:8136/stream",
+  "info": "Vingt fois sur le métier remettez votre ouvrage, nous sert de motivation car nous ne nous sommes pas laissés décourager par les difficultés rencontrées.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Starvision_Inter.png"
+},
+{
+  "radio_name": "Radio News FM",
+  "radio_station": "94.3 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / News / Kompa",
+  "stream": "https://stream-43.zeno.fm/3ungpf044mruv",
+  "info": "Radio News FM , 94.3 fm stéréo depuis Saint Marc Haiti",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_News_FM.png"
+},
+{
+  "radio_name": "DCFM Haiti",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Rap Kreyol / Hip-Hop / Reggae",
+  "stream": "https://stream.zeno.fm/eqynf00yaceuv",
+  "info": "DCFM Hit's on Radio! Écoutez gratuitement tous vos hits préférés en illimité sur votre Smartphone et Tablette. Rap, R&B, Compas, Reggae, Dancehall: tous les hits, tous les styles, non-stop. DCFM Hit's on Radio",
+  "logo_url": "https://haitibroadcast.com/radios_logos/DCFM_Haiti.jpg"
+},
+{
+  "radio_name": "Radio Télé AJA",
+  "radio_station": "104.1 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / News / Kompa",
+  "stream": "https://stream.zeno.fm/40n3ke9w1uquv",
+  "info": "A J A = Antenne jeunesse Artibonitienne. La Radio du Zouk, Kompa, Hip-Hop et de la musique caribéenne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/RadioTele_AJA.png"
+},
+{
+  "radio_name": "Radio Télé Supermix",
+  "radio_station": "100.1 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / News / Racine / R&B / Kompa",
+  "stream": "https://stream.zeno.fm/4tek6vymv80tv",
+  "info": "Radio Télé Supermix 100.1 FM.  La radio tombé du ciel à Saint-Marc.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Supermix.jpg"
+},
+{
+  "radio_name": "Radio Positif FM",
+  "radio_station": "87.9 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/v1b5t73axg0uv",
+  "info": "La plus positive des radios",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Positif_FM.jpg"
+},
+{
+  "radio_name": "Radio Super Gemini",
+  "radio_station": "101.3 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / News / Soft Rock / Kompa",
+  "stream": "http://66.70.249.70:5367/stream",
+  "info": "Radio Super Gemini, La radio au service service de la population Saint-Marcoise, qui a décidé d'étendre sa présence un peu plus loin et permettre aux auditeurs éparpillés à travers le monde de nous écouter comme au bon vieux temps.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Super_Gemini.jpg"
+},
+{
+  "radio_name": "Radio 9 Stéréo",
+  "radio_station": "103.7 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / Rap Kreyol / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/ncxq1mmgam8uv",
+  "info": "Radio 9 Stéréo émettant depuis l' Artibonite. Radio 9 est très divertissant, informatif et éducatif pour répondre aux besoins d'un public diversifié",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_9_Stereo.png"
+},
+{
+  "radio_name": "Radio Vibration Inter",
+  "radio_station": "107.3 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/suty45czvc9uv",
+  "info": "Ici vous pouvez trouver les dernières nouvelles de la région et le monde! Radio Vibration Inter.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Vibration_Inter.jpg"
+},
+{
+  "radio_name": "Radio Carida",
+  "radio_station": "88.5 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "web": "https://carida.nbweb.co/",
+  "stream": "http://usa13.fastcast4u.com:5615/1/",
+  "info": "Un nom, Une femme, Une radio! Nou se Carida",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Carida.jpg"
+},
+{
+  "radio_name": "Radio Tele Controle",
+  "radio_station": "106.9 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / News / R&B / Kompa",
+  "stream": "https://stream.zeno.fm/p1p91c0wfnzuv",
+  "info": "Radio Télé Controle est une Radio extraordinaire qui vous donne toutes les tendances musicales que vous souhaitez. Débat, Analyse, Commentaire, Éphémère tout sur Radio Télé Controle.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Controle.jpg"
+},
+{
+  "radio_name": "Le Neg Radio Télé",
+  "radio_station": "105.5 FM",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Généraliste / Pop / R&B / Kompa",
+  "stream": "https://stream.zeno.fm/9opgroascmnvv",
+  "info": "La radio diffusion de Artibonite. La Radio qui promet d’apporter un souffle nouveau dans le paysage de la radiodiffusion dans le pays",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Le_Neg_Radio_Tele.jpg"
+},
+{
+  "radio_name": "Radio Salem FM",
+  "radio_station": "90.9 FM",
+  "location": "Saint-Michel de l’Atalaye, Artibonite",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/wseehwyua2zuv",
+  "info": "Radio Salem est une station de radio évangelique emettant depuis Saint Michel de l'Attalaye sur le 90.9 FM. Radio Salem c'est la station de la renaissance",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Salem_FM.jpg"
+},
+{
+  "radio_name": "La Semence FM",
+  "radio_station": "92.6 FM",
+  "location": "Saint-Michel de l’Atalaye, Artibonite",
+  "category": "Gospel / Culture / Evangélisation",
+  "stream": "https://stream.zeno.fm/0pt3fzbmc2zuv",
+  "info": "Une station de radio d'Haïti offrant une grande variété de divertissements.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/La_Semence_FM.png"
+},
+{
+  "radio_name": "Radio EDG FM",
+  "radio_station": "98.7 FM",
+  "location": "Saint-Michel de l’Atalaye, Artibonite",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/n8xft39z7vzuv",
+  "info": "La voix de l'Eglise de Dieu de la Grace de Saint-Michel de l’Atalaye!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_EDG_FM.png"
+},
+{
+  "radio_name": "Radio Xplosion FM",
+  "radio_station": "103.9 FM",
+  "location": "Saint-Michel de l’Atalaye, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/6gak1ayey4zuv",
+  "info": "Radio Xplosion 103.9 FM Gonaïves est une station au format mixte qui diffuse depuis Haïti. Le contenu diffusé par la station comprend des programmes d'actualités sportives et culturelles et une variété de musiques, notamment le hip-hop, la danse, le classique, la salsa, le compas, le zouk, le kompa, etc.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Xplosion.jpg"
+},
+{
+  "radio_name": "Evolisyon Makola FM",
+  "radio_station": "107.9 FM",
+  "location": "Saint-Michel de l’Atalaye, Artibonite",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/ecnweyqz868uv",
+  "info": "Evolisyon Makola F.M est une station de radio d'Haïti proposant une grande variété de musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Evolisyon_Makola_FM.png"
+},
+{
+  "radio_name": "Radio Télé Dessalines",
+  "radio_station": "96.7 FM",
+  "location": "Dessalines, Artibonite",
+  "category": "Généraliste / Culture / Rap Kreyo / Hip-Hop / Kompa",
+  "stream": "https://stream.zenolive.com/mbdnh3tdcd0uv.aac",
+  "info": "la radio tele des gens distingués.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Dessalines.png"
+},
+{
+  "radio_name": "Radio Precision FM",
+  "radio_station": "101.3",
+  "location": "Pont Sondé, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/130u8md1duquv",
+  "info": "La radio de la Jeunesse! L'objectif de cette dite station de Radio est de former, informer, éduquer et aider leurs jeunes à bien gérer et protéger leurs vie!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Precision_FM.png"
+},
+{
+  "radio_name": "Radio Télé Limpide",
+  "radio_station": "99.7 FM",
+  "location": "Pont Sondé, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/79yahe8u4x8uv",
+  "info": "Tout savoir sur les dernières informations Haïti et au monde grâce a Limpide : Politique, Société, Économique, Sport Culture, Environnement (Cinéma - Livres - Musique - Images, Théâtre - Arts - Vidéos, Célébrités, Artistes, Talents.)",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Limpide.jpg"
+},
+{
+  "radio_name": "Radio Télé Signature",
+  "radio_station": "96.1 FM",
+  "location": "Pont Sondé, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/42g4ts1z7mwtv",
+  "info": "Signature Fm le super mix!! Depuis Déssouliers,pont-sondé Haïti",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Signature.png"
+},
+{
+  "radio_name": "Radio Chandèl FM",
+  "radio_station": "106.1 FM",
+  "location": "Verrettes, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/amkx8xc9qs8uv",
+  "info": "Radio Chandèl est une radio communautaire populaire dont la mission est l'éducation, l'information et le divertissement pour tous. nous sommes à Rue Des Remparts #49 Verrettes Haiti",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Chandel.jpg"
+},
+{
+  "radio_name": "Radio La Familia",
+  "radio_station": "101.9 FM",
+  "location": "Deschapelles, Artibonite",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://s2.voscast.com:10654/;stream1513519695862/1",
+  "info": "Avec une gamme de programmation très équilibrée, une ballade d’infos, le décryptage du paysage haïtien, les mœurs et la culture universelle nous faisons de nous une radio unique dans nos styles qui tient toujours le flambeau de l’excellence dans notre milieu ambiant.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_La_Familia.png"
+},
+{
+  "radio_name": "Radio Leleonline",
+  "radio_station": "105.7 FM",
+  "location": "Hinche, Centre",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/y42xmwcp7neuv",
+  "info": "Radio Leleonline FM c'est la radio pluridimensionnelle émettant maintenant sur le 105.7 FM stereo depuis la ville de Hinche Nous sommes l'affaire de toutes les générations avec un staff plus que dynamique déterminé à vous offrir un service de première main.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Leleonline.jpg"
+},
+{
+  "radio_name": "Radio Echo FM",
+  "radio_station": "93.5 FM",
+  "location": "Hinche, Centre",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/nmgvxrrbqm0uv",
+  "info": "93.5 FM, Rue des Lattes, Hinche, Centre, Haiti",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Echo_FM.jpg"
+},
+{
+  "radio_name": "Radio Sainteté",
+  "radio_station": "97.3 FM",
+  "location": "Hinche, Centre",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/22d3fuypmxhvv",
+  "info": "Radio Télévision Sainteté est une radio de Hinche offrant une grande variété de musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_No Logo _generic.png"
+},
+{
+  "radio_name": "Radio Plus FM",
+  "radio_station": "92.5 FM",
+  "location": "Lascahobas, Centre",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/q5zcybck4p8uv",
+  "info": "Radio Plus FM, La radio Qui donne plus de Feeling!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Plus_FM.jpg"
+},
+{
+  "radio_name": "Radio Beree FM",
+  "radio_station": "107.1 FM",
+  "location": "Lascahobas, Centre",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/fqbq8s1tszzuv",
+  "info": "Radio Beree fm est une station de Radio Évangélique Émettant depuis la ville de lascahobas dans le département du centre,Elle est conçue dans le but de remonter la voix de l’évangile partout et ailleurs.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Beree_FM.jpg"
+},
+{
+  "radio_name": "New Radio Oriental",
+  "radio_station": "98.3 FM",
+  "location": "Lascahobas, Centre",
+  "category": "Généraliste / Hip-Hop / Culture / Kompa",
+  "stream": "https://streamer.radio.co/s3760d4850/listen",
+  "info": "New Radio Oriental, nous nous concentrons sur la fourniture de services MERVEILLEUX avec les plus hauts niveaux de satisfaction client",
+  "logo_url": "https://haitibroadcast.com/radios_logos/New_Radio_Oriental.jpg"
+},
+{
+  "radio_name": "RADIO 171-SJ",
+  "location": "Mirebalais, Centre",
+  "category": "Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "https://stream.zeno.fm/z30mrmz9vg0uv",
+  "info": "RADIO 171-SJ est une filiale de Media Rumba Inter Haïti Fondée le 07 Juin 2020 (Radio Rumba Inter)",
+  "logo_url": "https://haitibroadcast.com/radios_logos/RADIO_171-SJ.png"
+},
+{
+  "radio_name": "Radio Renaissance",
+  "radio_station": "106.9 FM",
+  "location": "Mirebalais, centre",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/v8e2qxyxw2quv",
+  "info": "Radio Renaissance 106.9 est une station de radio commerciale créée par la Renaissance Evangelical Mission qui propose des programmes spirituels, civiques, familiaux et intellectuels en créole et en français.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Renaissance.png"
+},
+{
+  "radio_name": "Radio Rumba Inter",
+  "location": "Mirebalais, Centre",
+  "category": "Généraliste / Rap Kreyol / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/cwenv3ce9yzuv",
+  "info": "Radio Rumba Inter est une station de radio en ligne (bientot sur FM) qui a vue le jour en date du 7 Juin 2020. Notre mission est de former, informer et distraire",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Rumba_Inter.png"
+},
+{
+  "radio_name": "Radio Influence FM",
+  "location": "Mirebalais, Centre",
+  "category": "Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "https://stream.zeno.fm/ss45ttg8rnruv",
+  "info": "Influence FM est l'oeuvre des communicateurs chevroné dans le domaine radiophonique, elle est conçue dans le but de former, informer et distraire. Radio Influence, la station la plus audible dans le plateau central.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Influence_FM.jpg"
+},
+{
+  "radio_name": "Radio Emergency FM",
+  "radio_station": "103.1 FM",
+  "location": "Mirebalais, Centre",
+  "category": "Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "https://stream.zeno.fm/tef0exhnzmruv",
+  "info": "Influence FM est l'oeuvre des communicateurs chevroné dans le domaine radiophonique, elle est conçue dans le but de former, informer et distraire. Radio Influence, la station la plus audible dans le plateau central",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Emergency_FM.jpg"
+},
+{
+  "radio_name": "Restoration FM",
+  "radio_station": "100.3 FM",
+  "location": "Mirebalais, Centre",
+  "category": "Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "https://stream.zeno.fm/p8q818u351zuv",
+  "info": "Radio Restoration FM, La radio qui marque les minutes de ta vie.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Restoration_FM.jpg"
+},
+{
+  "radio_name": "Jeasher Pro Radio",
+  "location": "Mirebalais, Centre",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/p3505r7d9yzuv",
+  "info": "Station de radio en ligne. Une branche de Radio Rumba Inter (Media Rumba Inter)",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Jeasher_Pro_Radio.jpg"
+},
+{
+  "radio_name": "Radio Chrétienne de Mirebalais",
+  "radio_station": "104.7 FM",
+  "location": "Mirebalais, Centre",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/nvd6w3p3t8quv",
+  "info": "La radio du peu de Jesus.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Chretienne_de_Mirebalais.jpg"
+},
+{
+  "radio_name": "Radio Victoire",
+  "radio_station": "94.7 FM",
+  "location": "Mirebalais, Centre",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/dqsavu5ayy8uv",
+  "info": "Nous sommes une radio évangélique, coiffée par une Église qu’est l’Eglise Tabernacle de Victoire de Mirebalais, notre principal objectif est de rehausser l’éclat de l’évangile afin d’agrandir le Royaume de Dieu.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Victoire.jpg"
+},
+{
+  "radio_name": "Radio Zao FM",
+  "radio_station": "99.5 FM",
+  "location": "Mirebalais, Centre",
+  "category": "Généraliste / Rap Kreyol / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/xsx2066xvr2uv",
+  "info": "Radio Zao FM est une station qui investit dans la dynamique qui suscite l'emergence de l'homme.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Zao_FM.jpg"
+},
+{
+  "radio_name": "La Voix de Bon Sauveur",
+  "radio_station": "90.3 FM",
+  "location": "Cange, Centre",
+  "category": "Généraliste / Rap Kreyol / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/q9zsfwvr4a0uv",
+  "info": "Radio La Voix de Bon Sauveur est une station de radio communautaire qui à travers ses émissions participe à la formation de la population Cangeoise et celle des zones avoisinantes.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_La_Voix_de_Bon_Sauveur.jpg"
+},
+{
+  "radio_name": "Magic Star FM",
+  "radio_station": "98.7 FM",
+  "location": "San Jose, Centre",
+  "category": "Généraliste / Rap Kreyol / Hip-Hop / Kompa",
+  "stream": "http://stm6.xcast.com.br:10170/",
+  "info": "Radio Magic Star est une radio très populaire d'Haïti avec une programmation principalement de la musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Magic_Star_FM.jpg"
+},
+{
+  "radio_name": "Radio Ideal FM",
+  "radio_station": "99.1 FM",
+  "location": "Thomonde, Centre",
+  "category": "Généraliste / Hip-Hop / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/zbfnk4rqp8quv",
+  "info": "Radio Ideal, la radio ideale de Thomonde!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Ideal_FM.png"
+},
+{
+  "radio_name": "Radio Mag-Horizon",
+  "radio_station": "101.9 FM",
+  "location": "Ville Bonheur, Centre",
+  "category": "Généraliste / Rap Kreyol / Hip-Hop / Kompa",
+  "info": "Radio Mag-Horizon (RMH) 101.9 FM est une institution au service des masses du Département du Centre. La programmation de Radio Mag-Horizon est faite d'émissions de santé, d'information et de divertissement, un véritable outil de transformation sociale et culturelle.",
+  "stream": "https://stream.zeno.fm/knqn7ex5sfeuv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Horizon 2000.png"
+},
+{
+  "radio_name": "Radio Calebasse Inter",
+  "location": "Ville Bonheur, Centre",
+  "category": "Généraliste / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/0rahhph7gg8uv",
+  "info": "Radio Calebasse Inter RCI est une radio diffusant sur le web depuis le département Dubuisson Saut-d'Eau du Centre Haïti. Avec une programmation bien structurée, la RCI devient l'élite des radios sur le net et fait la promotion de l'actualité, du sport et des tubes.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Calebasse_Inter_RCI.png"
+},
+{
+  "radio_name": "Radio 4VEH",
+  "radio_station": "94.1 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zenolive.com/0zef35h1my5tv",
+  "info": "Radio 4VEH est La Voix Évangélique d’Haïti, au service de Dieu et du peuple haïtien depuis 1950.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_4VEH.jpg"
+},
+{
+  "radio_name": "Music FM",
+  "radio_station": "96.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "info": "Radio Musique FM 96.9 est une station de radio de Cap-Haïtien, Haïti, proposant des programmes tels que News, Sports, Techno, Reggae, Christian, Zouk et plus encore. La radio des stars!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Music_FM.jpg"
+},
+{
+  "radio_name": "Radio Haiti Fusion",
+  "radio_station": "104.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://ec3.yesstreaming.net/fusionlive",
+  "info": "Radio Haiti Fusion de Port-au-Prince jumelé sur fréquence Capoise, est un bon endroit pour ceux qui s'intéressent à écouter le meilleur Zouk, Konpa, Salsa et autres genres caribéens.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Haiti_Fusion.jpg"
+},
+{
+  "radio_name": "Radio InterMix",
+  "radio_station": "93.1 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://studio.sitegenial.com:7001/stream",
+  "info": "Notre présence sur le Web c'est pour permettre aux gens en dehors du pays de nous écouter en direct et nous suivre à chaque instant et à tout moment.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_InterMix.png"
+},
+{
+  "radio_name": "Radio AJ One",
+  "radio_station": "107.5 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Hip-Hop / Rap Kreyol / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/2re0whf18f8uv",
+  "info": "Radio A J One FM, c'est l'éducation et la promotion de la culture Haïtienne",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_A-J_One.jpg"
+},
+{
+  "radio_name": "Radio Pijon Dou",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / Love Songs / Soft Rock / Kompa",
+  "stream": "http://212.24.109.1:8288/stream",
+  "info": "Pijon doux est une station qui diffuse de la musique sentimentale d'origine française, espagnole, anglaise et créole!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Pijon_Dou.jpg"
+},
+{
+  "radio_name": "Radio Fenique Inter",
+  "radio_station": "101.1 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/ym8gkr28gm5tv",
+  "info": "Radio Fenique Inter 101.1 Fm est une station de radio de Cap-Haïtien, Haïti fournissant des nouvelles, des informations, des discussions et de la musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Fenique_Inter.png"
+},
+{
+  "radio_name": "Gloria FM",
+  "radio_station": "99.3 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/znpvm5nutuquv",
+  "info": "Gloria FM 99.3 Cap-Haïtien est une station évangélique qui éduque et informe son public en Haïti.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Gloria_FM.jpg"
+},
+{
+  "radio_name": "Radio Zone Inter",
+  "radio_station": "101.1 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/cqxgam8vgpeuv",
+  "info": "Radio Zone Inter 101.1 FM Cap Rouge est une station de radio qui propage les rythmes caribéens tels que Compas, Zouk, Konpa, Salsa et autres.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Zone_Inter.png"
+},
+{
+  "radio_name": "Sans Souci FM",
+  "radio_station": "106.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / Zouk / Culture / Rap Kreyol / Kompa",
+  "stream": "http://sitegenial.com:9068/stream",
+  "info": "L'évasion totale ! Sans Souci FM 106.9 Cap-Haïtien a été conçu en 1991 sous le nom de Radio Konbit dans le cadre d'un processus d'intégration nationale par la décentralisation. La musique sur Sans Souci FM se diversifie en Zouk, Kompa, R&R and Rap Kreyol.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Sans_Souci_FM.png"
+},
+{
+  "radio_name": "Planète Radio",
+  "radio_station": "99.7 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://stream3.dyndns.org:8000/xhorf.mp3",
+  "info": "Planète Radio 99.7 FM est une station généraliste qui a pour mission de connecter les auditeurs en direct de manière intensive avec le monde politique, social, culturel et la programmation haïtienne en particulier. Toujours plus proche de vous ! (Toujours plus près de vous) est le slogan de la radio.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Planete_Radio.png"
+},
+{
+  "radio_name": "Radio Télémix",
+  "radio_station": "102.1 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/wehxbvnyhchvv",
+  "info": "Radio Télémix Station de radio Commerciale Privée fondée dans le but de former informer et distraire son auditoire.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Telemix.png"
+},
+{
+  "radio_name": "Radio Oxygène",
+  "radio_station": "103.3 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/uq19c3cdd3quv",
+  "info": "Fondée le 19 décembre 2011, dans le but de former, informer, éduquer, distraire, et promouvoir la culture Haïtienne à travers le monde.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Oxygene.png"
+},
+{
+  "radio_name": "Radio Amen FM",
+  "radio_station": "96.7 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/gg906arf19duv",
+  "info": "Radio Amen FM, l’évangile dans toutes ses dimensions!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Amen_AM.jpg"
+},
+{
+  "radio_name": "Radio Officielle",
+  "radio_station": "88.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/g0ad20y0tk8uv",
+  "info": "Radio Télé Officielle! Promouvoir purement la culture Haïtienne. Mettre en valeur ce qui est original chez l'Homme. Promouvoir une nouvelle façon de penser chez l'Haïtien, une nouvelle éducation basée sur: Le vrai civisme et la démocratie.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Officielle.jpg"
+},
+{
+  "radio_name": "Radio Jesus Christ Vivant",
+  "radio_station": "94.3 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/xw65yh4f2v8uv",
+  "info": "Radio Jesus Christ Vivant, le réseau Bataillon de Jesus Christ",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Jesus-Christ_Vivant.png"
+},
+{
+  "radio_name": "Radio Infinie Haiti",
+  "radio_station": "100.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/63c2s5vm8x8uv",
+  "info": "Radio Infinie Haiti est une station de radio Commerciale fondée dans le but de former, informer, divertir la population haïtienne et pour la promotion et le triomphe de l'art et de la culture.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Infinie Haiti.png"
+},
+{
+  "radio_name": "Symphonie du Nord",
+  "radio_station": "100.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/dga5wa99ay8uv",
+  "info": "Radio Symphonie est une institution commerciale privée émettant sur le 107.9 depuis la Ville du Cap-Haïtien, Capitale touristique et Historique de la République d'Haïti a pour but de promouvoir la culture Haïtienne dans le monde.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Symphonie_du_Nord.png"
+},
+{
+  "radio_name": "Radio Yeshua Peniel",
+  "radio_station": "89.1 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Yeshua_Peniel.png",
+  "info": "Radio Yeshua Peniel"
+},
+{
+  "radio_name": "Laser FM",
+  "radio_station": "100.7 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/8bq1nevyay5tv",
+  "info": "Laser FM est une institution Commerciale privée fondée dans le but de promouvoir la culture Haïtienne à travers le monde, nous sommes la radio qui a la qualité sonore la plus fiable qui vous accompagne partout et toujours.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Laser_FM.png"
+},
+{
+  "radio_name": "Radio Calcédoine",
+  "radio_station": "103.5 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Gospel",
+  "stream": "https://stream.zeno.fm/amg35psb8e9uv",
+  "info": "Radio Calcédoine 103.5 Fm est la station de radio Cap-Haïtien d'Haïti, offrant une grande variété de musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Calcedoine.png"
+},
+{
+  "radio_name": "Radio Vision des Stars",
+  "radio_station": "100.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/ahu58xk7fd0uv",
+  "info": "Radio Vison des Stars a pour but de promouvoir positivement la culture Haïtienne et vendre l'image d'Haïti, sans relater les faits choquant qui peuvent détruire et nous souiller aux yeux du monde.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Vision_des_Stars.jpg"
+},
+{
+  "radio_name": "Radio Télé Plaisir",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/mm1htwgkpc8tv",
+  "info": "Radio Télé Plaisir est une radio commerciale à caractère socio-éducatif qui a pour objectif, d'informer, former et de distraire.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Plaisir.png"
+},
+{
+  "radio_name": "La Fréquence Plaisir",
+  "radio_station": "95.7 FM",
+  "info": "Pour l'amour de la belle musique, le meilleur du jour et de toujours. Vos plus belles années musique! 80-90 et d'aujourd'hui!",
+  "stream": "https://stream.statsradio.com:8014/stream",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Frequence_Plaisir.jpg"
+},
+{
+  "radio_name": "Radio Télé Sigma",
+  "radio_station": "104.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://ec3.yesstreaming.net/sigmafm",
+  "info": "Le Sigma peut être aussi vu comme un concept complexe : C'est une Vision, une philosophie qui doit apporter aux auditeurs la certitude de livraison du bon son. - C'est un indicateur, une mesure Standard dans le domaine de la radio diffusion.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Sigma.png"
+},
+{
+  "radio_name": "Radio Archipel",
+  "radio_station": "93.5 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / Rap Kreyol / Culture / Kompa / Zouk",
+  "stream": "https://stream.zeno.fm/yu5bgu3huhruv",
+  "info": "Radio Archipel FM, une station radio basant au cœur des îles antillaises qui a pour mission de mettre en valeur la culture haïtienne et la culture des autres pays partageant la région. Une programmation adaptée à tout les goûts.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Archipel_FM.png"
+},
+{
+  "radio_name": "Priorité FM",
+  "radio_station": "90.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/gkuazduhghruv",
+  "info": "Radio Priorité FM, 90.9 FM, la Radio du moment!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Priorite_FM.png"
+},
+{
+  "radio_name": "Radio Stereo One",
+  "radio_station": "96.7 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/ex3h2kraaojvv",
+  "info": "Radio Stereo One a pour priorité la promotion de la culture Haitienne à travers le monde.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Stereo_One.png"
+},
+{
+  "radio_name": "Radio Genistar",
+  "radio_station": "100.1 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/gthcxx547vzuv",
+  "info": "Radio Génistar est une station de radio privée Haïtienne créée en Avril 2020 dans le but de faire la promotion de la culture Haïtienne. Tout en respectant la trilogie de la radio à savoir; Information , Formation et Distraction.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Genistar.png"
+},
+{
+  "radio_name": "Radio Phare FM",
+  "radio_station": "105.9 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/dzh3320qrhruv",
+  "info": "Radio Phare FM Haiti, la radio du siècle",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Phare_FM.png"
+},
+{
+  "radio_name": "Radio Merci",
+  "radio_station": "103.1 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/va0q720xrbruv",
+  "info": "Radio Télé Merci 103.1 a été créée pour la promotion à juste titre de la culture de chez nous et celle du reste du monde. Nous sommes aussi la radio du sport et de l'information de première main au Cap-Haïtien.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Merci.png"
+},
+{
+  "radio_name": "Radio Grand Nord",
+  "radio_station": "89.7 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/ds0ncfz42yzuv",
+  "info": "Radio Tele Grand Nord! Notre objectif premier c'est de promouvoir la culture Haïtienne, l'information et la formation c'est notre raison d'être.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Grand_Nord.png"
+},
+{
+  "radio_name": "Radio Fantastic Inter",
+  "radio_station": "100.9 FM",
+  "location": "Plaine du Nord, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/1a7v81caqtzuv",
+  "info": "Un média au service de la culture haïtienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Fantastic_Inter.png"
+},
+{
+  "radio_name": "Radio Trans-Nord",
+  "radio_station": "95.5 FM",
+  "location": "Plaine du Nord, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/4g225y29938uv",
+  "info": "L'orgueil de la Radiodiffusion du Nord d'Haïti.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Trans-Nord.png"
+},
+{
+  "radio_name": "Radio Roc Solide",
+  "radio_station": "95.1 FM",
+  "location": "Plaine du Nord, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/u21rqk9z2uquv",
+  "info": "La Radio d’une Évangélisation ! Radio Roc Solide Fm Stereo est une station de radio diffusée à Tabarre en diffusion sur 95.1 à La Plaine du Nord, fournissant une éducation chrétienne, des ministères et des divertissements.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Roc_Solide.png"
+},
+{
+  "radio_name": "Radio Tapinozet",
+  "location": "Dondon, Nord",
+  "category": "Reggae / Zouk / Rap Kreyol / Kompa",
+  "stream": "https://stream.zeno.fm/0kbbn35dfkeuv",
+  "info": "Radio Tapinozet ap lave l'air a! Radio Tapinzet est une station de radio digitale basée à Dondon qui a été créée en 2016. Elle passe des morceaux de musique de styles variés d'hier et d'aujourd'hui ainsi que des informations.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tapinozet.png"
+},
+{
+  "radio_name": "Radio Intercontinentale",
+  "radio_station": "98.3 FM",
+  "location": "Plaisance, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/re0t4punxxhvv",
+  "info": "Une radio pour un continent!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Intercontinentale.png"
+},
+{
+  "radio_name": "Radio Fantastic",
+  "radio_station": "95.7 FM",
+  "location": "Port-Margot, Nord",
+  "category": "Reggae / Zouk / Rap Kreyol / Kompa",
+  "stream": "https://stream.zeno.fm/ua3hv5ssd5zuv",
+  "info": "La radio Fantastic est une station commerciale qui émet depuis plus de vingt ans dans la commune de Port-Margot, Nord d'Haïti, sur le 95.7 FM. Comme toutes les autres stations de radio du pays, elle respecte la trilogie de la communication de masse, à savoir, Former, Informer et Divertir.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Fantastic.png"
+},
+{
+  "radio_name": "Radio Eben-Ezer",
+  "radio_station": "89.1 FM",
+  "location": "Port-Margot, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/v2bh7zc16euuv",
+  "info": "Radio Eben-Ezer est une station de radio évangelique émettant depuis Port-Margot, diffusant l'Évangélique et des chants religieux en français et en créole haïtien.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Eben-Ezer.png"
+},
+{
+  "radio_name": "Radio Liberté",
+  "radio_station": "101.7 FM",
+  "location": "Limbé, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/tgxgb58h5ehvv",
+  "info": "Radio Liberté, 101.7 FM, fondée en Décembre 2009, est une station qui respecte la trilogie de la Radio, à savoir : information, formation et Distraction. Nous sommes disponibles 24/7 à travers le monde .",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Liberte_Limbe.png"
+},
+{
+  "radio_name": "Radio La Star Live",
+  "location": "Limbé, Nord",
+  "category": "Généraliste / Reggae / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/f52y3x547vzuv",
+  "info": "A travers la toile, La Star Live partout à travers le monde!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/La_Star_Live.png"
+},
+{
+  "radio_name": "Radio Saturne",
+  "radio_station": "96.1 FM",
+  "location": "Limbé, Nord",
+  "category": "Généraliste / Reggae / Zouk / Hip-Hop / Kompa",
+  "stream": "https://sonic.comunikados.stream/8026/stream",
+  "info": "Radio Television Saturne est une équipe de journalistes et d'animateurs motivée par l´excellence et le savoir faire dans le domaine de la radiotélédiffusion 24/7. Au jour le jour nous sommes en train de travailler pour vous apporter un contenu radiophonique différent.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Television_Saturne.jpg"
+},
+{
+  "radio_name": "Milot FM",
+  "radio_station": "95.1 FM",
+  "location": "Milot, Nord",
+  "category": "Généraliste / Reggae / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/ijujdw7afa1uv",
+  "info": "Radio Milot FM est une station de radio de Milot proposant une grande variété de musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Milot_FM.png"
+},
+{
+  "radio_name": "Kinanm FM",
+  "radio_station": "91.7 FM",
+  "location": "Milot, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/c27wm8p3bveuv",
+  "info": "Radio Kinanm FM, nous sommes la différence.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Kinanm_FM.png"
+},
+{
+  "radio_name": "Radio Excelsior",
+  "radio_station": "93.9 FM",
+  "location": "Nan Michel, Nord",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://zafemrtv.net/8070/stream",
+  "info": "Radio Tele Excelsior plus haut toujours plus haut si un jour nous devons tomber ce sera parmi les étoiles. Radio Télé Excelsio propose un large choix de programmes musicaux et culturels de qualité.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Excelsior.png"
+},
+{
+  "radio_name": "Radio Illusion",
+  "radio_station": "100.7 FM",
+  "location": "Trou du Nord, Nord",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/sk7ccrt4mp8uv",
+  "info": "Radio Illusion Fm Haïti est une radio politico-commerciale utilisant la sous-fréquence 100,7 kHz de la station évangélique Family Radio dont la couverture, Haïti Cap-Haïtien.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Illusion.png"
+},
+{
+  "radio_name": "Radio Puissance Inter",
+  "radio_station": "98.7 FM",
+  "location": "Trou du Nord, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/34ahexrtsuquv",
+  "info": "La Radio Puissance Inter est une station de radio évangelique qui prêche l'évangile de Jésus Christ avec puissance la parole de Dieu. Jesus Christ a dit dans la sainte bible: Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit( Mat. 28:19 ).",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Puissance_Inter.png"
+},
+{
+  "radio_name": "Radio Idéale",
+  "radio_station": "92.9 FM",
+  "location": "Fort Liberté, Nord-Est",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/kfyyvtq2kc9uv",
+  "info": "Radio Ideale émet depuis Fort-Liberté Haiti sur 92.9 FM, avec une couverture des 5 départements du Grand Nord d'Haiti. Par ses émissions riches et variées, elle a su conquérir, en un rien de temps, le cœur du grand public.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Ideale.jpg"
+},
+{
+  "radio_name": "Radio Dynamique+",
+  "radio_station": "103.5 FM",
+  "location": "Fort Liberté, Nord-Est",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/0ia6x4kvoe5tv",
+  "info": "Dynamique+, la radio qui vous informe et qui vous plaît. Radio Tele Dynamique Plus est une station de radio diffusée à partir de Fort-Liberté, en Haïti, qui fournit des informations et de la musique du monde.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Dynamique+.png"
+},
+{
+  "radio_name": "Radio Retbranche",
+  "location": "Fort Liberté, Nord-Est",
+  "category": "News / Rap Kreyol / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/8yv0ku82nfhvv",
+  "info": "Avec une très grande passion parmi leurs auditeurs à l'égard de leur radio et des différents types de programmes que Ret Branche diffuse chaque jour, une heure juste pour divertir leurs auditeurs de la manière la plus engageante possible, Ret Branche a clairement maintenant une bien meilleure position en tant que radio en ligne avec leurs nombreux auditeurs adorent.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_RetBranche.png"
+},
+{
+  "radio_name": "Radio Gamma",
+  "radio_station": "99.7 FM",
+  "location": "Fort Liberté, Nord-Est",
+  "category": "News / Rap Kreyol / Zouk / Hip-Hop / Kompa",
+  "stream": "http://109.169.76.155:35180/;stream.nsv",
+  "info": "Radio Gamma fm est une institution privée du département du Nord-Est d'Haïti. Elle ne marchande jamais sa participation communautaire puisqu’elle vise à contribuer au développement global et intégral du dit département.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Gamma.png"
+},
+{
+  "radio_name": "Radio des Stars",
+  "radio_station": "92.5 FM",
+  "location": "Jean-Rabel, Nord-Est",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/caxgxzc76f8uv",
+  "info": "Radio Télé Des Stars 92.5 Fm. est une station de radio basée a Jean Rabel Haïti. Vous retrouverez toute l’actualité haïtienne et international, L’actualité politique, sportive, économique, des interviews, des émissions évangéliques et sociales et bien plus encore!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_des_Stars.jpg"
+},
+{
+  "radio_name": "Radio Télé Des Stars",
+  "radio_station": "98.3 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "News / Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "http://sitegenial.com:9628/;stream.mp3",
+  "info": "Radio Canarie 98.3 FM Ouanaminthe est une radio qui vous accueille en direct de Ouanaminthe. Écoutez les actualités en direct, les mises à jour sportives, les programmes musicaux et culturels et bien plus encore via le flux FM officiel en haute qualité.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_des_Stars.jpg"
+},
+{
+  "radio_name": "Radio Alliance Chretienne",
+  "radio_station": "106.5 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/c7d719ckakhvv",
+  "info": "Radio Alliance Chrétienne 106.5 FM Stéréo est une station de radio basée a Ouanaminthe localité manquette. C'est une station de radio évangélique prônant l'évangile de Christ et diffuse de la musique chrétienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Alliance_Chretienne.png"
+},
+{
+  "radio_name": "Radio Malou Inter",
+  "radio_station": "104.9 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "News / Rap Kreyol / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/ck64pq3y77zuv",
+  "info": "Radio Malou Inter 104.9 from Ouanaminthe Haiti is a right place for those interested in listening to the best Zouk, Konpa, Compas, Salsa, and other Caribbean genres. Apart from a variety of music charts including Dance, Latino Pop, Jazz, Rock, and others, audiences can interact with the national culture.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Malou_Inter.png"
+},
+{
+  "radio_name": "Studio26 Radio",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "Chansons Francaises / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/2h55t690ufeuv",
+  "info": "Studio26 Radio, une radio en ligne pour votre divertissement.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Studio26_Radio.png"
+},
+{
+  "radio_name": "Radio Wanavision",
+  "radio_station": "88.9 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "Chansons Francaises / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/651r4snaazzuv",
+  "info": "Radio Télé Wanavision propose de nombreuses programmes sur l'actualité sportive, des nouvelles locales et internationales, l'actualité politique, des émissions éducatives, de société et du divertissement!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Wanavision.png"
+},
+{
+  "radio_name": "Radio Massacre",
+  "radio_station": "102.5 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "Chansons Francaises / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zenolive.com/pxd83zpd4reuv",
+  "info": "Radio massacre, la radio « sans frontière» émet ses émissions depuis la ville de Ouanaminthe. Désormais grâce à cette nouvelle technologie depuis cette ville frontalière vous pouvez suivre toutes les émissions de Radio en direct ou en podcasting où que vous soyez sur la planète. La radio émet sur le 102.5 Fm pour les nordesiens.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Massacre.png"
+},
+{
+  "radio_name": "Radio Alliance Chretienne",
+  "radio_station": "106.5 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/c7d719ckakhvv",
+  "info": "Radio Alliance Chrétienne est une station de radio religieuse basée a ouanaminthe dans la banlieue Manquette qui opère sur 106.5 FM, fournissant une éducation chrétienne, des ministères et des divertissements.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Alliance_Chretienne.jpg"
+},
+{
+  "radio_name": "Radio Universelle",
+  "radio_station": "96.1 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "Chansons Francaises / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/627hrkg4wv8uv",
+  "info": "Radio Universelle 96.1 live 24/7 from Ouanaminthe.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Universelle_Ouanaminthe.png"
+},
+{
+  "radio_name": "Radio Tele Border Power",
+  "radio_station": "104.5 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "News / Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "https://stream.zeno.fm/s0ckba4r1f8uv",
+  "info": "Nou transmèt depi CODEVI, zone franche, Wanament, Ayiti",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Border_Power.png"
+},
+{
+  "radio_name": "Radio Classique",
+  "radio_station": "100.7 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/7092pk674c9uv",
+  "info": "Radio Télé Classique est une station de radio basée à Ouanaminthe / Dilaire .100.7 en modulation de fréquence.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Classique.png"
+},
+{
+  "radio_name": "Flambeau De L’évangile",
+  "radio_station": "94.3 FM",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/usm4nrwgqchvv",
+  "info": "Vous écoutez radio flambeau de l’évangile, la radio qui vous accompagne avec sa programmation variée de musiques chrétiennes, des ministères et culte en direct.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Flambeau_de_l'Evangile.jpg"
+},
+{
+  "radio_name": "Radio Télé Trinité",
+  "location": "Ouanaminthe, Nord-Est",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://radioteletrinite.com/",
+  "stream": "https://stream.zeno.fm/dddetvrkev2tv",
+  "info": "La radio tele trinité c'est une Station de radio basée a Ouanaminthe, c'est la puissance de l'evangile.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Trinite.png"
+},
+{
+  "radio_name": "Radio Puissance Inter",
+  "radio_station": "98.7 FM",
+  "location": "Trou-du-Nord, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/34ahexrtsuquv",
+  "info": "La Radio Puissance Inter est une station de radio évangélique qui prêche l'évangile de Jésus Christ avec puissance la parole de Dieu. Jesus Christ a dit dans la sainte bible: Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit( Mat. 28:19).",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Puissance_Divine.jpg"
+},
+{
+  "radio_name": "Radio Vibration",
+  "radio_station": "97.9 FM",
+  "location": "Trou-du-Nord, Nord",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/6kkvkyr7f2zuv",
+  "info": "Radio vibration fm 97.9 c’est la référence des radios en Haiti!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Vibration.png"
+},
+{
+  "radio_name": "Love Radio Haiti",
+  "radio_station": "91.5 FM",
+  "location": "Trou-du-Nord, Nord",
+  "category": "Culture / Zouk / Soft Rock / Chansons Francaises / Kompa",
+  "stream": "https://stream.zeno.fm/vpgw8cfbsm0uv",
+  "info": "Love Radio Haïti est une station qui a pour but d'éduquer et de promouvoir toute la partie amoureuse de la culture haïtienne et de réinsérer l'amour pur à la nation afin d'être réunis pour une véritable révolution culturelle à travers des musiques d'amour variées, des ressources non promues, en direct, podcasts et vidéos en direct",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Love_Radio_Haiti.png"
+},
+{
+  "radio_name": "Radio Inter Louange",
+  "radio_station": "89.1 FM",
+  "location": "Trou-du-Nord, Nord",
+  "category": "News / Chansons Francaises / Gospel / Soft Rock",
+  "stream": "https://stream.zeno.fm/0hgy9m8scpnvv",
+  "info": "Radio Inter Louange se donne le devoir de propager la parole de dieu d’après l’enseignement tirés de la sainte bible Témoignant l’évangile Jésus-Christ tout en utilisant la facette positive de la technologie.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Inter_Louange.png"
+},
+{
+  "radio_name": "Radio SRood FM",
+  "radio_station": "100.3 FM",
+  "location": "Caracol, Nord",
+  "category": "News / Chansons Francaises / Gospel / Soft Rock",
+  "stream": "https://stream.zeno.fm/44vvsb3tnrquv",
+  "info": "SROOD FM, une nouvelle touche en matière de la radiodiffusion",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_SRood_FM.jpg"
+},
+{
+  "radio_name": "Radio Moulin FM",
+  "location": "Acul Samedi, Nord",
+  "category": "News / Chansons Francaises / Gospel / Soft Rock",
+  "stream": "http://38.96.148.28:10132/;stream.mp3",
+  "info": "Évangélisations, Informations, Sports, Cultures et Musiques de toutes sortes tous les jours sur Radio Moulin, La radio vivante!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Moulin_FM.jpg"
+},
+{
+  "radio_name": "Radio Tele Arnold",
+  "radio_station": "88.1 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Rap Kreyol / Disco / R&B / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/wn5vz728cm0uv",
+  "info": "La vision de Radio Télé Arnold est d'apporter une touche différente dans le domaine de la radiodiffusion ici à Port-de-Paix en s'efforçant de vous offrir une autre image en ce qui concerne la radiodiffusion dans le département.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Arnold.png"
+},
+{
+  "radio_name": "Radio Ideal FM",
+  "radio_station": "107.1 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream-43.zeno.fm/0naec4y686duv",
+  "info": "Radio Ideal FM Haïti est une station de radio diffusée à Port-De-Paix, Haïti, fournissant des nouvelles, des informations, des sports, du gospel et de la variété de musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Ideal_FM.png"
+},
+{
+  "radio_name": "Harmonie Inter",
+  "radio_station": "101.5 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://s7.voscast.com:10448/;stream.nsv",
+  "info": "Radio Harmonie Inter est une station de radio diffusée à Port-de-Paix, en Haïti, qui fournit des informations locales, des divertissements, des religions et de la musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Harmonie.jpg"
+},
+{
+  "radio_name": "Radio Panic",
+  "radio_station": "97.5 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/e4v9em4ef7duv",
+  "info": "Radio Panic FM 97.5 Mirebalais est une station généraliste diffusant des programmes d'information, de sport, de politique, de technologie, d'art & culture et de société dans le département du centre en diffusion sur la Ville de Port-de-Paix. Radio Panic FM 97.5: Un choix selectif!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Panic.png"
+},
+{
+  "radio_name": "Radio Toxic FM",
+  "radio_station": "97.5 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "stream": "http://s2.voscast.com:12250/;stream.nsv",
+  "info": "Radio Toxic FM , émettant sur ​​91.3 MHz FM à Port-de-Paix, Haïti, depuis le 10 Septembre 2012 \"La station qui marche partout avec vous\" Notre mission consiste à informer notre auditoire de manière objective et équitable.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Toxic_FM.png"
+},
+{
+  "radio_name": "Radio Bethanie",
+  "radio_station": "94.3 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / Classical / Culture / Kompa",
+  "stream": "https://listen.radioking.com/radio/156943/stream/197638",
+  "info": "Avec une très grande passion parmi leurs auditeurs à l'égard de leur radio et de divers types de programmes, Radio Bethanie FM 94.3 diffuse chaque jour, une heure juste pour divertir leurs auditeurs de la manière la plus engageante possible. Radio Bethanie FM 94.3 est clairement maintenant dans une bien meilleure position en tant que et la radio en ligne avec leurs nombreux auditeurs adorent.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Bethanie_FM.png"
+},
+{
+  "radio_name": "Radio Universelle Plus",
+  "radio_station": "103.5 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / Classical / Culture / Kompa",
+  "stream": "http://208.71.171.204:8020/stream.mp3",
+  "info": "Nous sommes un ecran, un micro au service du genre humain pour construire et non pour detruire. Universelle Plus, c'est la station qui vous aime.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Tele_Radio_Universelle_Plus.png"
+},
+{
+  "radio_name": "Radio Curiosité",
+  "radio_station": "104.9 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "News / Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "https://stream.zeno.fm/c09pc1f96reuv",
+  "info": "Radio Tele Curiosité FM 104.9 - Port-de-paix - Haiti",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Curiosit _FM.png"
+},
+{
+  "radio_name": "Radio Dary FM",
+  "radio_station": "97.5 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "News / Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "https://stream.zeno.fm/hpwab9rdtg8uv",
+  "info": "Radio DARY a pour mission d'informer, d'éduquer et de divertir la communauté du Nord-Ouest grâce à des communications diverses, créatives et réactives, indépendantes et communautaires. Ici, vous pouvez lire nos actualités, voir des photos, interagir avec le personnel et rester au courant de tout ce qui se passe dans la ville de Port-de-Paix, Haïti.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Dary_FM.png"
+},
+{
+  "radio_name": "Radio Clean FM",
+  "radio_station": "95.1 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/p4ra4kezdm8uv",
+  "info": "Radio Clean FM, une station radio émettant depuis Port-de-Paix.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Clean_FM.png"
+},
+{
+  "radio_name": "Music Promo FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Rap Kreyol / Hip-Hop / Reggae / Kompa",
+  "stream": "https://stream.zeno.fm/70mr5yvyzp8uv",
+  "info": "La radio qui vous accompagne partout.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Music_Promo_FM.png"
+},
+{
+  "radio_name": "RAG80 FM",
+  "radio_station": "88.9 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "http://208.71.171.204:9306/;stream",
+  "info": "La Radio d’une Génération pour toutes les générations.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_No Logo _generic.png"
+},
+{
+  "radio_name": "Radio Melodie Inter",
+  "radio_station": "98.3 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / Culture / Blue Accoustique",
+  "stream": "https://stream.zeno.fm/spkys5ydmzzuv",
+  "info": "Une radio d'Haïti proposant Divers , Blues acoustique , Blues électrique , Musique d'ambiance.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Melodie_Inter.png"
+},
+{
+  "radio_name": "Balade FM",
+  "radio_station": "102.3 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "News / Chansons Francaises / Zouk / Soft Rock / Kompa",
+  "stream": "http://208.71.171.204:9310/;stream.nsv",
+  "info": "Radio BALADE FM s'est taillée une place enviable dans le paysage médiatique haitienne à caratère socio-éducatif et culturel qui se donne pour tâche d'assurer le plein rendement de tout ce qui peut faire le bien etre général.Elle émet sur 102.3 Stereo,Channel 272, elle vise à assurer la promotion des masses rurales et urbaines par l’objectivité dans la diffusion de l’information, des émissions de hautes portées éducatives et par la rationalité et l’objectivité dans l’intervention.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Balade_FM.png"
+},
+{
+  "radio_name": "Radio Sen FM",
+  "radio_station": "89.9 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Rap Kreyol / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/5nfw46r661zuv",
+  "info": "Radio Sen FM 89.9 - Port-de-Paix",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Sen_FM.png"
+},
+{
+  "radio_name": "Radio Jean Rabel",
+  "radio_station": "90.5 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/qge113zxt4zuv",
+  "info": "La Radio Télé Jean Rabel est une station de radio télédiffusion basée à Jean Rabel dans le Nord’Ouest d’Haïti au 20, Avenue Toussaint. Elle diffuse toute une gamme de programme sur la santé, la politique, la religion, le divertissement, la société. Elle a une programmation variée et bien structurée, c'est ce qui fait d'elle l’une des meilleures stations de radio télédiffusion dans le département du Nord’Ouest.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Jean_Rabel.png"
+},
+{
+  "radio_name": "Laplate FM",
+  "radio_station": "104.9 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / Hip-Hop / Rap Kreyol / Kompa",
+  "stream": "https://stream-51.zeno.fm/uxuhdcljrgsvv",
+  "info": "Une radio de Port-de-Paix proposant de la bonne musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Laplate_FM.png"
+},
+{
+  "radio_name": "Radio one Take",
+  "radio_station": "104.9 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "http://s5.voscast.com:9704/;stream.nsv",
+  "info": "La Radio One Take est une webradio tendance évangélique , dirigée par Directeur Homère",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_One_Take.png"
+},
+{
+  "radio_name": "Radio Tele Amen",
+  "radio_station": "102.9 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://stream.zeno.fm/gg906arf19duv",
+  "info": "Radio Tele Amen est une station de radio chrétienne dont la mission est d'atteindre les âmes avec le message qui change la vie de l'Évangile de Jésus-Christ. Conçue en pensant à vous, et en toute sécurité pour toute votre famille, Radio Amen Tele vous apporte un enseignement biblique solide, comprenant une liste extraordinaire des meilleurs orateurs et enseignants du pays.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Amen.png"
+},
+{
+  "radio_name": "Gx-Star Live",
+  "radio_station": "90.7 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Reggae / Hip-Hop / Rap Kreyol / Kompa",
+  "stream": "https://stream.zeno.fm/mrhgutcqv98uv",
+  "info": "Gx Star Live est une plateforme de média évoluant à Port-de-Paix.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Gx-Star_Live.png"
+},
+{
+  "radio_name": "Radio Planet FM",
+  "radio_station": "100.7 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/v816szvn3ehvv",
+  "info": "Radio Planet FM 100.7 C'est plus qu'une Planet !",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Planete.jpg"
+},
+{
+  "radio_name": "Radio Océan FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "info": "Radio Océan FM est une station de radio chrétienne émettant depuis la ville de Port-de-Paix",
+  "stream_1": "http://s5.voscast.com:10334/;stream.nsv",
+  "stream_2": "https://stream.zeno.fm/x0fxg8h6ag0uv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Ocean_FM.png"
+},
+{
+  "radio_name": "Radio Castro Inter",
+  "radio_station": "97.1 FM",
+  "location": "Port-de-Paix, Nord-Ouest",
+  "category": "Religious / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/kosbakj9srcvv",
+  "info": "Radio Castro Inter is a radio station from Port-de-Paix providing a big variety of music",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Castro_Inter.png"
+},
+{
+  "radio_name": "Radio News 24",
+  "location": "Pointe Ouest, Nord-Ouest",
+  "category": "News / Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/hckr14vt3a0uv",
+  "info": "News 24 - Yon sel Medya Ayisyen nan Repiblik Dominikèn ki kouvri tout mond lan. Nou pa fe nouvel, nou bay nouvel, epi nou pa gen okenn pati politik. Si w gen yon istwa pou Radio News 24",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_News_24.png"
+},
+{
+  "radio_name": "Radio Expérience Inter",
+  "location": "Jean Rabel, Nord-Ouest",
+  "category": "Culture / Zouk / Hip-Hop / Kompa",
+  "stream": "https://stream.zeno.fm/4qy963nmv98uv",
+  "info": "Radio Expérience Inter Jean Rabel, Ruelle Rivière jean rabel Nord Ouest Haïti",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Experience_Inter_Jean_Rabel.png"
+},
+{
+  "radio_name": "Radio Dignité",
+  "radio_station": "100.5 FM",
+  "location": "Dame-Marie, Nord-Ouest",
+  "category": "Classical / Culture / Zouk / Chansons Francaises / Kompa",
+  "stream": "https://stream.zeno.fm/c9lwcmna4jyuv",
+  "info": "Radio Dignite est une station de radio de Dame Marie proposant une grande variété de musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Dignite.png"
+},
+{
+  "radio_name": "Radio Tele Fhaeh",
+  "radio_station": "107.5 FM",
+  "location": "Trou d'Eau, Nord-Ouest",
+  "category": "Culture / Zouk / Hip-Hop / News / Kompa",
+  "stream": "http://162.220.59.23:9990/;stream.mp3",
+  "info": "Radio Tele Fhaeh 107.5 FM Saut-d'Eau est une station FM basée à Trou d'Eau. La chaîne au format Mix diffuse une large gamme de contenus allant de l'information au divertissement de la commune de Saut-d'Eau. Les auditeurs du 107.5 FM peuvent écouter les nouvelles, le contenu informatif, les programmes culturels, les histoires sportives quotidiennes, la musique haïtienne et caribéenne en continu et bien plus encore.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Fhaeh.png"
+},
+{
+  "radio_name": "Radio Marconi FM",
+  "radio_station": "101.9 FM",
+  "location": "Ti Port-de-Paix, Nord-Ouest",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/v0ilehlp7jnuv",
+  "info": "Radio Marconi Fm 101.9 est une station de radio de Port-de-Paix offrant une grande variété de musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Marconi_FM.jpg"
+},
+{
+  "radio_name": "Zanmi FM",
+  "radio_station": "91.5 FM",
+  "location": "Beaumont, Nord-Ouest",
+  "category": "Culture / Zouk / Hip-Hop / News / Kompa",
+  "stream": "https://stream.zeno.fm/zhdrmytzjihvv",
+  "info": "Radio Zanmi FM est une station de radio de Beaumont offrant une grande variété de musique.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Zanmi_FM.png"
+},
+{
+  "radio_name": "Radio Fournaise Inter",
+  "radio_station": "99.3 FM",
+  "location": "Chansolme, Nord-Ouest",
+  "category": "Culture / Zouk / Hip-Hop / News / Kompa",
+  "stream": "https://stream.zeno.fm/lzonkzoheertv",
+  "info": "Radio télé fournaise internationale, une autre vision de radiodiffusion pour une nouvelle Haïti.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Fournaise_Inter.png"
+},
+{
+  "radio_name": "Radio Notre Dame",
+  "location": "Catholique, Paris",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://radionotredame.net/",
+  "slogan": "La vie prend un sens!",
+  "stream": "http://windu.radionotredame.net/RadioNotreDame-Fm.mp3",
+  "info": "Catholique et généraliste pour mieux comprendre les défis du monde contemporain. La vie prend un sens!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Notre_Dame.jpg"
+},
+{
+  "radio_name": "Radio Espérance",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://radio-esperance.fr/",
+  "slogan": "Le Nouveau Testament",
+  "stream": "https://stream.radio-esperance.net/esperance.mp3",
+  "info": "Le Nouveau Testament. La présence catholique sur les ondes!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Esperance.jpg"
+},
+{
+  "radio_name": "Radio Espérance En Marie",
+  "category": "Gospel / Christian / Evangélisation",
+  "slogan": "Le Nouveau Testament",
+  "stream": "http://esperance.streamakaci.com/aufil.mp3",
+  "info": "Le Nouveau Testament. La présence catholique sur les ondes!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Esperance_En_Marie.jpg"
+},
+{
+  "radio_name": "Unité Catholique",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/edhz1y1jldftv",
+  "info": "La radio de la communauté 'Unité Catholique'",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Unite_Catholique.jpg"
+},
+{
+  "radio_name": "Adoration Matinale",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://www.radioadorationmatinale.ci/",
+  "stream": "http://www.radioking.com/play/adoration-matinale",
+  "info": "Bienvenue sur la page de la 1ère web radio Chrétienne Catholique de Côte d'Ivoire. 100% Adoration",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Adoration_Matinale.jpg"
+},
+{
+  "radio_name": "Radio Maria Rép. du Congo",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream",
+  "info": "Una voce Cristiana nella tua casa",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Maria_Republique_Democratique_du_Congo.jpg"
+},
+{
+  "radio_name": "Catholic.HIPHOP",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://catholic.hiphop/",
+  "stream": "http://stream.radiojar.com/uxfpqguux44tv",
+  "info": "24/7 Catholic Hip Hop. There are tons of Christian rappers out there and we support them for the most part. Unfortunately, there is not a lot of Catholic representation in the Christian hip-hop scene. This needs to change!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Catholic.Hip-Hop.png"
+},
+{
+  "radio_name": "Radio Eglise Baptiste de Siloe",
+  "location": "New York, USA",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "http://38.130.230.71:9948/",
+  "info": "La Radio qui Proclame La Bonne Nouvelle",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Eglise_Baptiste_de_Siloe.jpg"
+},
+{
+  "radio_name": "Yahweh FM",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "slogan": "Le reère de vos âmes!",
+  "stream": "https://yahwefm.radioca.st/stream/;stream.mp3",
+  "info": "Yahweh FM la radio là où la musique est une Vertu!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Yahweh_FM.jpg"
+},
+{
+  "radio_name": "La Voix de l'Evangile",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://www.lavoixdelevangile.ca/",
+  "slogan": "Radio Nationale Catholique",
+  "stream": "http://stream.zeno.fm/f4ymd7rcz4zuv",
+  "info": "La Voix de l’Évangile, Québec est un ministère de Action Mondiale d’Évangélisation (Québec) Inc. Faire des disciples pour Christ par les moyens de la radio, des cours bibliques par correspondance, de la littérature, des messages enregistrés et des conseils.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/La_Voix_de_l'Evangile.jpg"
+},
+{
+  "radio_name": "Radio Eglise Evangelique Sinai",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/uvagy28we48uv",
+  "info": "Radio Eglise Evangelique Sinai est une station qui a pour but de répondre aux besoins spirituels de tous les croyants. Notre mission est de contribuer à la favorisation du progrès spirituel et les concrets dans la vie de tous les auditeurs.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Eglise_Evangelique_Sinai.jpg"
+},
+{
+  "radio_name": "Radio Télé Bonheur",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/44r01z0ezneuv",
+  "info": "Radio Télé Bonheur diffuse des programmes religieux, des émissions au contenu spirituel.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Bonheur.jpg"
+},
+{
+  "radio_name": "1ere Eglise Chretienne Smyre de Pernier",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/m6hpmqa5tk8uv",
+  "info": "Avec Dieu nous ferons des exploits (Ps 60 : 12)",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Eglise_Chretienne_Smyre_de_Pernier.jpg"
+},
+{
+  "radio_name": "Église Chrétienne Pierre Vivante",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/qg4y63mabkhvv",
+  "info": "Confiez-vous en l'Éternel à perpétuité, Car l'Éternel, l'Éternel est le rocher des siècles.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/E glise_Chretienne_Pierre_Vivante.jpg"
+},
+{
+  "radio_name": "Radio Catholique",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/2t9nk138fc9uv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Catholique.jpg"
+},
+{
+  "radio_name": "NYK FM New York Kreyol",
+  "category": "Généraliste / News / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://live.onevoicefm.com:1435/stream",
+  "info": "La force de la culture Haitienne",
+  "logo_url": "https://haitibroadcast.com/radios_logos/NYK_FM_New-York_Kreyol.jpg"
+},
+{
+  "radio_name": "Radio Télévison Celeste",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/np21tmxgcm0uv",
+  "info": "La patrimoine de la communauté Haitienne de la ville Philadelphie, Etats-Unis. Leur mission est de prêcher les paroles de Dieu.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Televison_Celeste.jpg"
+},
+{
+  "radio_name": "Radio Evangelique Sans Frontière",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/54e9wuvdgg8uv",
+  "info": "Radio evangelique sans frontiere est une station de radio evangelique pronant l'evangile de Christ.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Evangelique_Sans_Frontiere.jpg"
+},
+{
+  "radio_name": "Nouvelle Vision Chretienne",
+  "radio_station": "89.7 FM",
+  "location": "Gonaïves, Artibonite",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/n2t8fszbrueuv",
+  "info": "L'Evangelisation!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Nouvelle_Vision_Chretienne.jpg"
+},
+{
+  "radio_name": "Tabernacle Evangelique de la Grace",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/xyltssmv9zatv",
+  "info": "La radio Tabernacle Evangelique de la Grace est une station qui a pour but de répondre aux besoins spirituels de tous les croyants. Notre mission est de contribuer à la favorisation du progrès spirituel et les concrets dans la vie de tous les auditeurs.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Tabernacle_Evangelique_de_la_Grace.jpg"
+},
+{
+  "radio_name": "Radio Dunamis",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "slogan": "La puissance de dieu dans l'air!",
+  "stream": "https://s44.myradiostream.com/6778/listen.mp3",
+  "info": "Dunamis FM est une station de radio basée a Port-au-Prince, Ouest qui a pout but un ministère mondial à but non lucratif démontrant l'amour de Dieu et partageant l'Évangile.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Dunamis.jpg"
+},
+{
+  "radio_name": "Radio La Voix Des Elus",
+  "radio_station": "",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "slogan": "La Radio De la Source Divine",
+  "stream": "https://stream.zeno.fm/a0z5skuwwneuv",
+  "info": "La Radio De la Source Divine",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_La_Voix_des_Elus.jpg"
+},
+{
+  "radio_name": "Radio Adventiste Béthanie",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://en.radioadventistebethanie.com/",
+  "stream": "https://stream.zeno.fm/rufhwfdae3quv",
+  "info": "La radio qui vous parle de JESUS",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Adventiste_Bethanie.jpg"
+},
+{
+  "radio_name": "Voice of the Gospel | 95.3 FM",
+  "radio_station": "95.3 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream-141.zeno.fm/kg9egm2g6gruv",
+  "info": "Fondée le 18 mars par feu Mgr Jean Mary Désir, en vue de l'émancipation de l'évangile de Jésus-Christ par la radiodiffusion.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_The_Voice_of_the_Gospel.png"
+},
+{
+  "radio_name": "Radio Miracle",
+  "radio_station": "",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "http://s6.voscast.com:9782/stream",
+  "info": "Radio Miracle Port-au-Prince, Ouest est basé à New York qui s'engage a jouer de la musique chrétienne, à servir et à divertir la communauté haïtienne en propageant la Bonne nouvelle de Jésus-Christ.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Miracle_Port-au-Prince.jpg"
+},
+{
+  "radio_name": "Radio Tele Milenaire",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/ta3kttwu88quv",
+  "info": "Radio Télé milenaire est une station de radio evangelique qui opére dans le but de propager l'évangile sur toute la terre.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Milenaire.jpg"
+},
+{
+  "radio_name": "Voice Ave Maria | 98.5 FM",
+  "radio_station": "98.5 FM",
+  "location": "Cap-Haitien, Nord",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://studio.sitegenial.com/8020/stream",
+  "info": "Radio Voix Ave Maria FM 98.5 est une station de radio basé au Cap-Haïtien, en Haïti, qui propose de la musique évangélique et de l'éducation chrétienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Voice_Ave_Maria.png"
+},
+{
+  "radio_name": "Radio Sentinelle | 93.9 FM",
+  "radio_station": "93.9 FM",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/y2ynzzmv26duv",
+  "info": "La Radio Au Service De L'evangile. Notre mission est de continuer à diffuser la bonne nouvelle et à atteindre ceux qui ont besoin d'espoir en diffusant des programmes avec de la musique édifiante et des messages bibliques.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Sentinelle.jpg"
+},
+{
+  "radio_name": "Gospel Power Radio",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/g3sg8xyxay5tv",
+  "info": "Radio TV Power Of The Gospel est une radio qui proclame le salut en Jésus-Christ, Nous sommes ici pour la propagation de l'Évangile de Jésus-Christ, L'évangélisation est notre mission.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Gospel_Power_TV_Radio.jpg"
+},
+{
+  "radio_name": "Radio Fatima Louange",
+  "radio_station": "",
+  "location": "Saint-Marc, Artibonite",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "https://radiofatima1.out.airtime.pro/radiofatima1_a",
+  "info": "Radio Fatima Louange est une radio catholique en ligne fondée par le Révérend Père Jules Campion diffusant 24h/24 et 7j/7 des chants religieux en français et en créole haïtien.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Fatima_Louange.jpg"
+},
+{
+  "radio_name": "Gospel Radio | 100.7 FM",
+  "radio_station": "100.7 FM",
+  "location": "Georgia USA",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/exz132q2v7zuv",
+  "info": "est une station de radio diffusée à Georgia, Etats-Unis, qui propose des programmes religieux, et de la musique chrétienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Gospel_Radio.png"
+},
+{
+  "radio_name": "Radio Me",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/55znfebuchruv",
+  "info": "Radio me est une station de radio diffusion basé à Georgia, Etats-Unis qui propose des programmes religieux, et de la musique chrétienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Me.jpg"
+},
+{
+  "radio_name": "Radio Tele Aleph",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/55znfebuchruv",
+  "info": "Radio Tele Aleph est une station de radio évangélique chrétienne qui propose des programmes religieux, et de la musique chrétienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Aleph.jpg"
+},
+{
+  "radio_name": "Gros Morne Evangelical Radio",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/1g5fqmpn01zuv",
+  "info": "Gros Morne Evangelical Radio est une station de radio évangélique chrétienne qui propose des programmes religieux, et de la musique chrétienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Gros_Morne_Evangelical_Radio.png"
+},
+{
+  "radio_name": "Voix de l'Eglise Chretienne",
+  "radio_station": "",
+  "location": "Croix des Bouquets, Ouest",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zenolive.com/suwh5p4n12quv",
+  "info": "est une station de radio évangélique chrétienne qui propose des programmes religieux, et de la musique evengelique et culte du dimanche. qui vous permet découter deschansons évangelique. Fait revivre des messages évangeliques, Sachez qu’avec nous vous serrez toujours connectés avec Dieu.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Voix_de_l'Eglise_Chretienne.jpg"
+},
+{
+  "radio_name": "Radio Union de L'Evangile",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/ek5bt6rb1k8uv",
+  "info": "La Radio Union de Levangile est une radio qui se donne pour mission d'évangéliser la parole de Dieu dans toute son intégrité.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Union_de_L'Evangile.jpg"
+},
+{
+  "radio_name": "La Brise | Chansons * Haiti",
+  "radio_station": "",
+  "category": "Chansons Haïtiennes",
+  "stream": "http://cast5.my-control-panel.com:8827/",
+  "info": "La Brise Web Radio est une station de radio haïtienne émettant depuis Camp-Perrin qui propose une programmation en continu, 24 heures sur 24 et 7 jours sur 7. Retrouvez des émissions de société, de sciences, civiques, des anecdotes et de la bonne humeur! La Brise, La radio bien pensée !",
+  "logo_url": "https://haitibroadcast.com/radios_logos/La_Brise_FM_Web.png"
+},
+{
+  "radio_name": "Chokarella | (Carel Pedre)",
+  "radio_station": "",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "http://streaming.radio.co/s97764d52b/listen",
+  "info": "Voici la Web radio de Carel Pedre diffusée en ligne 24h/24 et 7j/7. Ne manquez pas Chokarella en semaine De 7h à 10h EDT",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Chokarella.jpg"
+},
+{
+  "radio_name": "Anto-Radio | Web Radio",
+  "radio_station": "",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/ahav8cubqxhvv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Anto_Radio.jpg"
+},
+{
+  "radio_name": "Radio Atlantis",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/w2tvz85r45quv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Atlantis.png"
+},
+{
+  "radio_name": "Radio Télé de Dieu",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/u1m7qh11um0uv",
+  "info": "nou se yon radio sosyo evanjelik kap fe yon bon travay nan sosyete an nan ide pou n kolabore pou yon pi bon sosyete.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_de_Dieu.jpg"
+},
+{
+  "radio_name": "Regi Media",
+  "radio_station": "",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "http://stream.zeno.fm/xjruapoyunluv",
+  "info": "Regi Media est une station de radio evangelique en ligne qui a pour but de promouvoir toutes bonnes choses dans le secteur Évangélique",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Regi_Media.png"
+},
+{
+  "radio_name": "Media Inter Copian",
+  "radio_station": "",
+  "category": "Kompa / Culture Haïtienne",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/5gvalrrecmjuv",
+  "info": "Media Inter Copain (MIC) est une radio en ligne à la disposition des internautes pour les informer, les former et les divertir à travers des contenus variés allant de l'actualité à des vidéos pédagogiques, en passant par des articles de presse tout en faisant la promotion de la culture haïtienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Media_Inter_Copian.jpg"
+},
+{
+  "radio_name": "Radio Atlantique Inter",
+  "radio_station": "",
+  "category": "Kompa, Funk",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "stream.zeno.fm/qbt6ioqjbugvv",
+  "info": "Radio Atlantique Inter est une station de radio en ligne qui a pour but de promouvoir la culture et la musique haïtienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Atlantique_Inter.png"
+},
+{
+  "radio_name": "VibeFM Haiti | Web Radio",
+  "radio_station": "",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/q8av7z39yf9uv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/VibeFM_Haiti.jpg"
+},
+{
+  "radio_name": "Radio Télé Haiti Belle | Web Radio",
+  "radio_station": "",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/vkm33tx55c9uv",
+  "info": "] Radio Télé Haiti Belle est une plateforme médiatique  qui a pour but de promouvoir le Patrimoine, le Tourisme, la Culture, la Jeunesse, l'Entrepreneuriat, la Société, le Développement personel, l'Éducation, le Marketing, l'Enfant, l'Environnement, l' Évangile, la santé, l'actualité",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Haiti_Belle.jpg"
+},
+{
+  "radio_name": "CAYES FM | Web Radio",
+  "radio_station": "",
+  "category": "Généraliste / Kompa",
+  "stream": "https://stream.zeno.fm/vb8z7c20kc9uv",
+  "info": "Cayes FM vous divertira d'une manière très divertissante et engageante. Vous serez attiré par le niveau d'engagement de la radio.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/CAYES_FM.jpg"
+},
+{
+  "radio_name": "ANAM Haiti | Web Radio",
+  "radio_station": "",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/q8av7z39yf9uv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/ANAM_Haiti.png"
+},
+{
+  "radio_name": "Switch FM Haiti | Web Radio",
+  "radio_station": "",
+  "category": "Généraliste / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "http://switchfmhaiti.primcast.com:5494/",
+  "info": "Switch FM Haïti est une station de radio en ligne fournissant des nouvelles, du kompa et du divertissement mondial",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Switch_FM_Haiti.jpg"
+},
+{
+  "radio_name": "Guy Wewe Radio a",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / Talks / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/ksvr9pq8qv5tv",
+  "info": "Une radio en ligne avec une vision sur l'exposition mondiale de la musique et culture haïtienne!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Guy_Wewe_Radio_a.png"
+},
+{
+  "radio_name": "Radio Canal+Haiti",
+  "location": "Port-au-Prince, Ouest",
+  "category": "Généraliste / Kompa",
+  "web": "https://radiocanalplushaiti1.blogspot.com/",
+  "info": "Radio Canal+Haiti est une station de radio basée à Port-au-Prince, Ouest, qui a pour but de promouvoir la Culture Haïtienne à travers la Planète.",
+  "slogan": "La Culture haïtienne à travers la Planète!",
+  "stream": "https://stream.zeno.fm/v0tdtku9exquv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Canal+Haiti.jpg"
+},
+{
+  "radio_name": "Rouge FM",
+  "location": "Montreal, Canada",
+  "category": "Soft Rock / Reggae / Easy listening",
+  "stream": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
+  "info": "Écoutez la radio en direct sur le web! 107.3 Montreal (Canada) vous présente vos nouvelles locales, nationales et musicales, des podcasts.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Rouge_FM.jpg"
+},
+{
+  "radio_name": "Rouge Reggae",
+  "location": "Montreal, Canada",
+  "category": "Soft Rock / Reggae / Easy listening",
+  "stream": "http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3",
+  "info": "Rouge Reggae is a radio station of the category Reggae, Music",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Rouge_Reggae.jpg"
+},
+{
+  "radio_name": "La Brise",
+  "location": "Camp-Perrin, Sud",
+  "category": "Soft Rock / Chansons Francaises / Romance",
+  "web": "www.labrisefm.com",
+  "stream": "http://cast5.my-control-panel.com:8462/",
+  "info": "Retrouvez les beaux slows et les plus belles chansons francophones sur la Brise Web Radio. La Brise, La radio bien pensée ! Radio 100% Français Ecoutez la radio en direct et gratuitement.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/La_Brise_Love_&_Romance.png"
+},
+{
+  "radio_name": "Rouge Made in France",
+  "location": "Lausanne, Suisse",
+  "category": "Soft Rock / Reggae / Easy listening",
+  "stream": "http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3",
+  "info": "Vos chansons françaises préférées. Made In France's est une chaîne de la station de radio Internet Rouge FM du Mont-sur-Lausanne, en Suisse, proposant de la musique du monde, des tubes, des classiques, des anciens et pop.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Rouge_Made_in_France.jpg"
+},
+{
+  "radio_name": "Cherie Soft Rock",
+  "location": "Paris, France",
+  "category": "Soft Rock / Reggae / Easy Listening / Romance",
+  "stream": "https://scdn.nrjaudio.fm/adwz1/fr/30249/mp3_128.mp3?origineradio",
+  "info": "L'ultime station de radio ballade de France avec les plus belles chansons d'amour et de pop.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Cherie_FM_France.jpg"
+},
+{
+  "radio_name": "Cherie FM",
+  "location": "Martinique",
+  "category": "Soft Rock / Reggae / Easy Listening / Romance",
+  "stream": "http://2stream.dyndns.org:8000/cheriefmmq",
+  "info": "Toutes vos chansons préférées non-stop. L'ultime station de radio ballade de France avec les plus belles chansons d'amour et de pop.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Cherie_FM_Martinique.png"
+},
+{
+  "radio_name": "Cherie Romantique",
+  "category": "Soft Rock / Reggae / Easy Listening / Romance",
+  "stream": "https://scdn.nrjaudio.fm/adwz1/fr/30287/mp3_128.mp3?origineradio",
+  "info": "L'ultime station de radio ballade de France avec les plus belles chansons d'amour et de pop.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Cherie_Romatique.jpg"
+},
+{
+  "radio_name": "Cherie Love Songs",
+  "category": "Soft Rock / Reggae / Easy Listening / Romance",
+  "stream": "https://scdn.nrjaudio.fm/adwz1/fr/30207/mp3_128.mp3?origineradio",
+  "info": "L'ultime station de radio ballade de France avec les plus belles chansons d'amour et de pop.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Cherie_Love_Songs.jpg"
+},
+{
+  "radio_name": "Cherie Les Plus Belles Voix",
+  "category": "Soft Rock / Reggae / Easy Listening / Romance",
+  "stream": "https://scdn.nrjaudio.fm/adwz1/fr/30317/mp3_128.mp3?origineradio",
+  "info": "Les plus belles voix de la chanson française. L'ultime station de radio ballade de France avec les plus belles chansons d'amour et de pop.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Cherie_Les_Plus_Belles_Voix.png"
+},
+{
+  "radio_name": "Love FM",
+  "location": "Mexico",
+  "category": "Soft Rock / Romance",
+  "stream": "http://s1.audiorama.mx:6650/",
+  "info": "Depuis le Mexique, les plus belles voix.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Love_FM.png"
+},
+{
+  "radio_name": "Stereo Romance",
+  "category": "Soft Rock /Latin / Romance",
+  "stream": "https://stereoromance.radioca.st/streams/128kbps",
+  "info": "La Gigante del Sur de Nicaragua, Un mundo de amor y amistad sin fronteras!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Stereo_Romance.png"
+},
+{
+  "radio_name": "Love",
+  "category": "Soft Rock / Romance",
+  "stream": "http://www.tuasesorweb.com:8030/",
+  "info": "Lo que el mundo necesita.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Love.png"
+},
+{
+  "radio_name": "Romance De Corazon",
+  "category": "Soft Rock / Salsa / Romance",
+  "stream": "https://radiosonline.one/listen/romance/radio.mp3",
+  "info": "Les plus belles compositions latines. La voz del Romance.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Romance_De_Corazon.jpg"
+},
+{
+  "radio_name": "Romanticas Love España",
+  "category": "Soft Rock / Romance",
+  "stream": "https://s1.ndvendas.com:7072/",
+  "info": "Romanticas Con Luisa Love España.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Romanticas.jpg"
+},
+{
+  "radio_name": "LVM-RADIO",
+  "category": "Soft Rock / Reggae / Easy Listening / Romance",
+  "stream": "http://radio9.pro-fhi.net:9047",
+  "info": "Toutes vos chansons préférées non-stop, un amour de radio.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/LVM-RADIO.jpg"
+},
+{
+  "radio_name": "SM Radio Mondial",
+  "category": "Relaxation, meditation",
+  "stream": "http://salt-lake-server.myautodj.com:8029/",
+  "info": "Relaxation, Musique Classique et Méditation. Bienvenue sur SMradioMondial.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/SM_Radio_Mondial.jpg"
+},
+{
+  "radio_name": "Soft Tracks",
+  "category": "Soft Rock / Reggae / Easy listening",
+  "stream": "http://198.105.216.204:8200/stream",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Cherie_Soft_Rock.png"
+},
+{
+  "radio_name": "181.FM 80's Lite RnB (USA)",
+  "category": "Soft Rock / Easy listening",
+  "stream": "https://listen.181fm.com/181-80sliternb_128k.mp3?noPreRoll=true",
+  "info": "Good Time Oldies means listening to the hits of the good old times, means singing along, means having fun. This webradio from the USA makes it possible, without intrusive moderation.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/181.FM_80's_Lite_RnB.jpg"
+},
+{
+  "radio_name": "Smooth Jazz NYC",
+  "radio_station": "101.9",
+  "location": "New York",
+  "category": "Soft Rock / Reggae / Easy listening",
+  "stream": "http://listen.shoutcast.com/SmoothJazzNewYorkCity",
+  "info": "CD 101.9 Smooth Jazz New York, the medium is a secret tip. The rank no. 1439 on our top list is currently occupied by CD 101.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Smooth_Jazz_NYC.jpg"
+},
+{
+  "radio_name": "Smooth Jazz CD 101.9 NYC (USA)",
+  "category": "Soft Rock / Reggae / Easy listening",
+  "stream": "http://144.217.158.59:5334/",
+  "info": "Smooth Jazz CD 101.9 New York The Smoothest Jazz on the Plane!",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Smooth_Jazz_CD101.9.jpg"
+},
+{
+  "radio_name": "Radio CPAM",
+  "radio_station": "1410 AM",
+  "location": "(Montreal, Canada)",
+  "category": "Généraliste / News / Kompa",
+  "stream": "https://stream.zeno.fm/54e9wuvdgg8uv",
+  "info": "CJWI (1410 AM) - également connue sous le nom de CPAM Radio Union est une station de radio canadienne de langue française située à Montréal, au Québec. Ses studios sont situés sur le boulevard Crémazie Est à Montréal.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_CPAM.jpg"
+},
+{
+  "radio_name": "Fierté Haitienne FM",
+  "radio_station": "88.5 FM",
+  "location": "(Brooklyn New York)",
+  "category": "Généraliste / News / Kompa",
+  "stream": "https://ca3ssl.rcast.net/stream/65300/stream",
+  "info": "Fierté Haitienne FM a pris naissance à la fin d'Aout 2014 par un animateur de radio très renommé à Brooklyn, NY. La radio fera l'éclat de la culture Haitienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Fierte_Haitienne_FM.jpg"
+},
+{
+  "radio_name": "Radio Orientation FM",
+  "category": "Généraliste / News / Kompa",
+  "web": "http://www.haitibroadcast.com",
+  "stream": "https://stream.zeno.fm/89d5x5x0z74tv?",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Orientation_FM.jpg"
+},
+{
+  "radio_name": "New York Kreyol FM",
+  "radio_station": "95.3 FM",
+  "location": "(Brooklyn, New York)",
+  "category": "Généraliste / News / Kompa",
+  "stream": "https://live.onevoicefm.com:1435/stream",
+  "info": "NYK FM est une radio haïtienne faisant la promotion de la culture haïtienne et caribéenne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/New-York_Kreyol_FM.png"
+},
+{
+  "radio_name": "Radyo Panou",
+  "radio_station": "88.9 FM",
+  "location": "(Aquin, Sud)",
+  "category": "Généraliste / News / Kompa",
+  "stream": "http://panou.internettunes.com:8015/;stream",
+  "info": "Radyo Panou est une station de radio Internet à Brooklyn, New York, États-Unis, proposant des discussions politiques en créole, français et anglais.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radyo_Panou.jpg"
+},
+{
+  "radio_name": "Radio Triomphe FM",
+  "location": "Brooklyn, New York",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stream.zeno.fm/28fxt76dkg0uv",
+  "info": "Radio Triomphe Internationale (RTI) La radio où l'esprit triomphe sur la matière.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Triomphe_FM.jpg"
+},
+{
+  "radio_name": "Radio Soleil",
+  "location": "(Brooklyn, New York)",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://1.ice1.firststreaming.com/wrsh_ir.mp3",
+  "info": "The 24-hour Haitian Radio Station in NY, La plus forte ecoute. Radio Soleil est la radio haïtienne de la région de Tristate depuis plus de 15 ans. Nous tenons les auditeurs au courant des actualités, des événements et des dernières nouveautés musicales. Si vous aimez la musique Kompa et les légendes de la musique haïtienne.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Soleil_New-York.png"
+},
+{
+  "radio_name": "Soleil FM",
+  "radio_station": "96.3 FM",
+  "location": "(Saint-Martin-de-Crau, France)",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "https://stunnel1.cyber-streaming.com:9120/",
+  "info": "La Radio a mettre entre toutes les oreilles",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Soleil_FM_France.jpg"
+},
+{
+  "radio_name": "H.M Radio",
+  "location": "Brooklyn, New York",
+  "category": "Gospel / Culture / Education",
+  "stream": "https://stream.zeno.fm/nuc7cmdq2reuv",
+  "info": "HM Radio est une station de radio Internet à Brooklyn, New York, États-Unis, fournissant des nouvelles, des informations, de l'éducation et de la musique haïtiennes.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/H.M_Radio.png"
+},
+{
+  "radio_name": "Radio Omega SCA",
+  "location": "Brooklyn, New York",
+  "category": "Gospel / Christian / Evangélisation",
+  "stream": "http://stream.zeno.fm/urwksvhtfvduv",
+  "info": "Radio Omega SCA est une station Internet de Brooklyn, New York, USA, diffusant Christian, Education, Music",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Omega_SCA.png"
+},
+{
+  "radio_name": "Radio Citadelle FM",
+  "radio_station": "90.9 FM",
+  "location": "(Queens New York)",
+  "category": "Généraliste / News / Culture / Kompa",
+  "web": "https://www.pelecitadelle.com/",
+  "stream": "http://citadellefm2.serverroom.us:4694/stream.mp3",
+  "info": "Radio Citadelle FM de New York, symbole de la fierté et de la dignité des communautés Haitiennes de Queens Village, Jamaica, Rosedale, St-Albans, Cambria Heights, Elmont, Floral Park, Valley",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Citadelle.jpg"
+},
+{
+  "radio_name": "JCL Radio Ministry",
+  "location": "Brooklyn, New York",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "http://000m0g1.rcomhost.com/wordpress1/",
+  "stream": "http://radiojcl.primcast.com:6902",
+  "info": "The best Haitian Radio in New York. Proclamer la liberté, changer des vies et redonner espoir grâce à la puissance de l'Évangile de Jésus.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/JCL_Radio_Ministry.png"
+},
+{
+  "radio_name": "Radio Essentiel",
+  "location": "Brooklyn, New York",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://198.27.127.246/proxy/maradioessentiel?mp=/1",
+  "info": "Radio Essentiel est une autre station à caractère purement evangelique, émettant sur un récepteur de radio internet. Nous sommes en direct 24/24 sur tous les plateformes les plus populaires",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Essentiel.jpg"
+},
+{
+  "radio_name": "Nago FM",
+  "location": "Queens New York",
+  "category": "Généraliste / News / Culture / Kompa",
+  "info": "Nago FM se donne le devoir de revaloriser et promouvoir la musique haïtienne. Nago FM veut placer l'identité haïtienne au cœur de l'audiovisuel mondial.",
+  "stream": "http://stream.zeno.fm/rfp44vxcrxquv",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Nago_FM.png"
+},
+{
+  "radio_name": "Radio Perle Des Antilles",
+  "location": "Brooklyn, New York",
+  "category": "Généraliste / News / Culture / Kompa",
+  "web": "https://www.radioperledesantilles.com/",
+  "stream": "http://cast5.servcast.net:4043/stream",
+  "info": "Radio Perle Des Antilles offre à la communauté haïtienne de nombreuses façons d'écouter Radio Perle Des Antilles. Que ce soit des Kompas, des artistes haïtiens et français, des artistes anglais et espagnols, ou vous pouvez écouter nos 2 messes en direct le dimanche, l'une à 11h00 et l'autre à 13h00 (New York, EST) et aussi à différents moments de la semaine.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Perle_Des_Antilles.jpg"
+},
+{
+  "radio_name": "Radio Puissance Divine",
+  "location": "Brooklyn New York",
+  "web": "https://radiopuissancedivine.com/",
+  "stream": "https://stream.zeno.fm/u7593zqus0quv",
+  "info": "La Passion Radio Dans Toute Sa Splendeur. Radio Puissance Divine est une station de radio évangélique Hatienne de Newburgh, New York, qui propose des émissions chrétiennes en direct, des programmes culturels et éducatifs, qui font bouger le monde",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Puissance_Divine.png"
+},
+{
+  "radio_name": "Radio Bonpounou Gospel",
+  "location": "Brooklyn New York",
+  "category": "Gospel / Christian / Evangélisation",
+  "web": "https://www.bonpounou.com/radio.html",
+  "stream": "https://centova.wlservices.org/proxy/wiszuaec/stream:8078",
+  "info": "Radio Bonpounou Gospel est l'une des meilleures stations de radio chrétiennes haïtiennes à travers le monde. Notre mission est de montrer la gloire de Dieu au monde entier en tant qu'enfants du ciel.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Bonpounou_Gospel.png"
+},
+{
+  "radio_name": "La Voix du Sud Internationale",
+  "location": "Miami, Florida",
+  "category": "Généraliste / News / Culture / Kompa",
+  "stream": "http://stream.zenolive.com/yucuayyxay5tv",
+  "info": "La Radio La Voix du Sud Internationale diffuse toutes les musiques du monde entier, spécialement celle venant d’Haïti depuis la Communauté Haïtienne de la Floride, pour la Diaspora Haïtienne de la Planète entière, y compris les haïtiens, haïtiennes qui vivent en Haïti.",
+  "logo_url": "https://haitibroadcast.com/radios_logos/La_Voix_du_Sud_Internationale.jpg"
+}
+]

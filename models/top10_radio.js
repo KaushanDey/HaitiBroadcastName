@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const radioStationSchema = new mongoose.Schema({
+const topRadioStationSchema = new mongoose.Schema({
     radio_name: {
         type: String,
         required: true
@@ -27,8 +27,7 @@ const radioStationSchema = new mongoose.Schema({
     },
     stream: {
         type: String,
-        required: false,
-        default: ""
+        required: true
     },
     info: {
         type: String,
@@ -46,4 +45,4 @@ const radioStationSchema = new mongoose.Schema({
     }
 });
 
-export default mongoose.model("Radio_Station",radioStationSchema);
+export default mongoose.model("Top_Radio_Station",topRadioStationSchema);

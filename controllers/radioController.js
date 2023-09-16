@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 import radioStation from "../models/radio_stations.js";
 import userFav from "../models/user_favorites.js";
-
+import topRadioStation from "../models/top10_radio.js"
 // export const getAllRadio = async (req, res, next) => {
 
 //     let radioStations;
@@ -20,83 +20,6 @@ import userFav from "../models/user_favorites.js";
 
 export const getRadioByFilter = async (req, res, next) => {
 
-    // var queryCategory = null;
-    // if (req.query.category) {
-    //     queryCategory = JSON.parse(req.query.category);
-    // }
-
-    // var queryLocation = null;
-    // if (req.query.location) {
-    //     queryLocation = JSON.parse(req.query.location);
-    // }
-
-    // console.log(queryCategory);
-
-    // let stations;
-    // var reqStations = new Array();
-
-    // try {
-    //     stations = await radioStation.find();
-    //     for (let i = 0; i < stations.length; i++) {
-
-    //         let flagCategory = null;
-    //         if (queryCategory) {
-            // const categories = stations[i].category.split(" / ");
-    //             flagCategory = queryCategory.every(element => {
-    //                 return categories.includes(element);
-    //             });
-    //         }
-
-    //         let flagLocation = null;
-    //         if (queryLocation) {
-    //             var temp = stations[i].location.slice(1);
-    //             temp = temp.slice(0, temp.length - 1);
-    //             const reqLocation = temp.split(", ");
-
-    //             flagLocation = queryLocation.every(element => {
-    //                 return reqLocation.includes(element);
-    //             });
-    //         }
-
-    //         if (flagCategory != null && flagLocation != null) {
-
-    //             if (flagCategory && flagLocation) {
-    //                 reqStations.push(stations[i]);
-    //             }
-
-    //         } else if (flagCategory == null && flagLocation != null) {
-
-    //             if (flagLocation) {
-    //                 reqStations.push(stations[i]);
-    //             }
-
-    //         } else if (flagCategory != null && flagLocation == null) {
-
-    //             if (flagCategory) {
-    //                 reqStations.push(stations[i]);
-    //             }
-
-    //         }
-
-    //     }
-
-    //     if (!reqStations) {
-
-    //         res.status(404).json({ message: "Data not found!!" });
-    
-    //     } else {
-    
-    //         res.status(200).json({ reqStations });
-    //         console.log(reqStations.length);
-    
-    //     }
-
-    // } catch (err) {
-
-    //     console.log(err);
-
-    // }
-
     let queryCategory = false;
     if(req.query.category!=null && req.query.category.length!=0){
         queryCategory = JSON.parse(req.query.category);
@@ -113,6 +36,7 @@ export const getRadioByFilter = async (req, res, next) => {
     try{
 
         let stations = await radioStation.find();
+        let topStations = await topRadioStation.find();
         let reqStations = [];
         for(let i=0;i<stations.length;i++){
 
@@ -157,7 +81,8 @@ export const getRadioByFilter = async (req, res, next) => {
         }
 
         if(queryCategory==false && queryLocation==false){
-            console.log("All Channels");
+            stations = topStations;
+            console.log("Top 10 Radio Stations");
             console.log(stations.length);
             return res.status(200).json({stations});
         }else{
@@ -172,9 +97,8 @@ export const getRadioByFilter = async (req, res, next) => {
         }
 
     }catch(err){
-        res.status(404).json({err});
+        res.status(404).json();
         console.log(err);
-
     }
     
 

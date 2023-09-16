@@ -1,0 +1,86 @@
+[
+    {
+        "radio_name": "La Brise FM",
+        "radio_station": "104.9",
+        "location": "(Camp-Perrin, Sud)",
+        "category": "Généraliste / News / Culture / Kompa",
+        "web": "http://www.labrisefm.com/",
+        "stream": "http://cast5.my-control-panel.com:7242",
+        "info": "La Brise FM |104.9 est une station de radio haïtienne émettant depuis Camp-Perrin qui émet sur la quasi-totalité de la péninsule Sud d'Haïti. Elle propose une programmation en continu, 24 heures sur 24 et 7 jours sur 7. Retrouvez des émissions de société, de sciences, civiques, des anecdotes et de la bonne humeur! La Brise, La radio bien pensée!",
+        "slogan": "La radio bien pensée!",
+        "logo_url": "https://haitibroadcast.com/radios_logos/La_Brise_FM.jpg"
+      },
+      {
+        "radio_name": "Radio Caraïbes FM",
+        "radio_station": "94.5 FM",
+        "location": "Port-au-Prince, Ouest",
+        "category": "Généraliste / News / Kompa",
+        "info": "Radio Caraïbes 94.5 FM (Port-au-Prince, Ouest, Haiti) - Radio Télévision Caraïbes diffuse le principal programme de radio interactive en direct depuis Port-au-Prince, Ouest à Haïti.",
+        "web": "https://www.radiotelecaraibes.com",
+        "stream": "http://stream.zeno.fm/qtt8q2ufqeruv",
+        "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Caraibes_FM.png"
+      },
+      {
+        "radio_name": "Radio Metropole",
+        "radio_station": "100.1 FM",
+        "location": "Port-au-Prince, Ouest",
+        "category": "Généraliste / News / Kompa",
+        "info": "Radio Métropole est une entreprise privée et indépendante de radio diffusion constituée sous la forme d’une société anonyme ayant son siège social à Delmas 52, Port-au-Prince.",
+        "slogan": "Métropole une force toujours en action vers de nouveaux horizons.",
+        "web": "http://www.metropolehaiti.com/",
+        "stream": "https://s4.radio.co/s5cedb108a/listen",
+        "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Metropole.jpg"
+    },
+    {
+        "radio_name": "Radio Télé Ginen",
+        "radio_station": "92.9 FM",
+        "location": "Port-au-Prince, Ouest",
+        "category": "Généraliste / News / Kompa",
+        "web": "http://rtghaiti.com/",
+        "info": "RTG, inaugurée le 3 Avril 1994, est la source d’information la plus credible pour les nouvelles, le Sport et la Culture d’Haiti. “Jan Li Ye A.” Yon Eksperyans Natif Natal.",
+        "slogan": "Yon Eksperyans Natif Natal",
+        "stream": "http://stream.zenolive.com/86kkd51egd5tv",
+        "logo_url":   "https://haitibroadcast.com/radios_logos/Radio_Tele_Ginen.jpg"
+    },
+    {
+        "radio_name": "Radio Mega Haiti",
+        "radio_station": "103.7 FM",
+        "location": "Port-au-Prince, Ouest",
+        "category": "Généraliste / News / Kompa",
+        "info": "Radio Mega Haiti | 103.7 FM est une radiodont le but est de divertir ses auditeurs et en même temps diffuser les plus grands succès du monde entier. Radio Mega Haiti 103.7 FM devient de plus en plus populaire parmi leurs auditeurs pour leur travail et leur présentation de beaux programmes.",
+        "web": "https://www.radiomega.net/",
+        "slogan": "Gwo radio a!",
+        "stream": "https://stream.zeno.fm/xugpr48vxxquv",
+        "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Mega_Haiti.png"
+    },
+    {
+        "radio_name": "Scoop FM",
+        "radio_station": "107.7 FM",
+        "location": "Port-au-Prince, Ouest",
+        "category": "Généraliste / News / Kompa",
+        "info": "Scoop FM, TV & Website, une chaine de médias pour vous tenir informés – des journalistes cevronés et compétents toujours au cœur des faits saillants – Scoop!",
+        "web": "https://www.scoopfmhaiti.com/",
+        "stream": "https://studio.sitegenial.com/8006/stream",
+        "logo_url": "https://haitibroadcast.com/radios_logos/Scoop_FM.png"
+    },
+    {
+        "radio_name": "Radio Tele Eclair",
+        "radio_station": "100.5 FM",
+        "location": "Port-au-Prince, Ouest",
+        "category": "Généraliste / News / Kompa",
+        "info": "Radio Tele Eclair diffuse une gamme variée de programmes produits localement et nationalement, à la fois de la musique et de la création parlée, en stéréo hi-fi.",
+        "web": "http://www.haitibroadcast.com",
+        "stream": "http://stream.radiojar.com/2b0gs3cu4tzuv",
+        "logo_url": "https://haitibroadcast.com/radios_logos/Radio_Tele_Eclair.jpg"
+    },
+    {
+        "radio_name": "Sweet FM",
+        "radio_station": "99.7 FM",
+        "location": "Port-au-Prince, Ouest",
+        "category": "Soft Rock / Romance",
+        "web": "http://www.sweetfmhaiti.com/",
+        "info": "Radio Sweet FM 99.7 FM est une station de radio basée à Port-au-Prince qui a une programmation essentiellement musicale, composée de toutes les musiques à succès récentes et anciennes du monde entier.",
+        "stream": "https://stream.zeno.fm/stxdykmxqceuv",
+        "logo_url": "https://haitibroadcast.com/radios_logos/Sweet_FM.jpg"
+    }
+]
